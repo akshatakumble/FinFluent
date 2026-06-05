@@ -1,0 +1,2822 @@
+Date,Description,Amount,Transaction Type,Category,Account Name
+01-01-2020,Rent/ Mortgage,1400.0,debit,Mortgage & Rent,Savings
+01-01-2020,Eversource Electricity,72.25,debit,Utilities,Checking
+01-01-2020,National Grid Gas,79.64,debit,Utilities,Checking
+01-01-2020,Heating fuel,150.64,debit,Utilities,Checking
+01-01-2020,Credit Transaction,19.56,credit,Cashback Rewards,Savings
+01-03-2020,Mama-cita,73.57,debit,Restaurants,Credit Card
+01-03-2020,Ice skating,53.7,debit,Entertainment,Credit Card
+01-03-2020,Lyft,12.35,debit,Travel expenses,Credit Card
+01-03-2020,Mall,74.45,debit,Shopping,Credit Card
+01-03-2020,Ace Hardware,161.2,debit,Grocery shopping,Credit Card
+01-03-2020,Dominos,62.96,debit,Restaurants,Credit Card
+01-04-2020,Temu,34.5,debit,Shopping,Credit Card
+01-04-2020,Credit Transaction,9.07,credit,Cashback Rewards,Savings
+01-05-2020,Uber,29.69,debit,Travel expenses,Credit Card
+01-05-2020,Temu,21.16,debit,Shopping,Credit Card
+01-06-2020,MBTA,21.7,debit,Travel expenses,Credit Card
+01-06-2020,Ice skating,63.6,debit,Entertainment,Credit Card
+01-06-2020,Credit Transaction,176.42,credit,Dividends,Savings
+01-06-2020,Uber,12.82,debit,Travel expenses,Credit Card
+01-07-2020,Temu,42.31,debit,Shopping,Credit Card
+01-08-2020,Credit Transaction,17.24,credit,Cashback Rewards,Savings
+01-10-2020,Karaoke,52.48,debit,Entertainment,Credit Card
+01-10-2020,Boston Halal,59.02,debit,Restaurants,Credit Card
+01-10-2020,Amazon,49.64,debit,Shopping,Credit Card
+01-12-2020,Credit Transaction,182.1,credit,Dividends,Savings
+01-12-2020,MBTA,21.61,debit,Travel expenses,Credit Card
+01-12-2020,Stop and Shop,245.44,debit,Grocery shopping,Credit Card
+01-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+01-14-2020,Uber,10.13,debit,Travel expenses,Credit Card
+01-14-2020,Temu,75.73,debit,Shopping,Credit Card
+01-15-2020,Boston Halal,79.55,debit,Restaurants,Credit Card
+01-15-2020,Trader Joes,189.85,debit,Grocery shopping,Credit Card
+01-15-2020,Dominos,63.28,debit,Restaurants,Credit Card
+01-17-2020,Credit Transaction,18.37,credit,Cashback Rewards,Savings
+01-19-2020,Dominos,49.47,debit,Restaurants,Credit Card
+01-19-2020,MBTA,24.64,debit,Travel expenses,Credit Card
+01-20-2020,Market Basket,173.96,debit,Grocery shopping,Credit Card
+01-21-2020,Ice skating,35.63,debit,Entertainment,Credit Card
+01-21-2020,Ace Hardware,237.51,debit,Grocery shopping,Credit Card
+01-22-2020,Boston Shawarma,50.04,debit,Restaurants,Credit Card
+01-23-2020,Mall,24.49,debit,Shopping,Credit Card
+01-24-2020,MBTA,19.79,debit,Travel expenses,Credit Card
+01-25-2020,Temu,67.17,debit,Shopping,Credit Card
+01-25-2020,Boston Shawarma,33.99,debit,Restaurants,Credit Card
+01-27-2020,Lyft,11.03,debit,Travel expenses,Credit Card
+01-27-2020,Amazon,28.26,debit,Shopping,Credit Card
+01-28-2020,Dominos,40.62,debit,Restaurants,Credit Card
+01-29-2020,MBTA,18.52,debit,Travel expenses,Credit Card
+01-29-2020,Boston Shawarma,38.15,debit,Restaurants,Credit Card
+01-30-2020,Boston Shawarma,28.77,debit,Restaurants,Credit Card
+01-31-2020,MBTA,22.52,debit,Travel expenses,Credit Card
+01-31-2020,Amazon,79.32,debit,Shopping,Credit Card
+02-01-2020,Rent/ Mortgage,1400.0,debit,Mortgage & Rent,Savings
+02-01-2020,Eversource Electricity,66.27,debit,Utilities,Checking
+02-01-2020,National Grid Gas,70.98,debit,Utilities,Checking
+02-01-2020,Heating fuel,247.7,debit,Utilities,Checking
+02-02-2020,Ice skating,20.61,debit,Entertainment,Credit Card
+02-02-2020,MBTA,19.42,debit,Travel expenses,Credit Card
+02-04-2020,Uber,28.09,debit,Travel expenses,Credit Card
+02-06-2020,Dominos,78.71,debit,Restaurants,Credit Card
+02-06-2020,Credit Transaction,18.85,credit,Cashback Rewards,Savings
+02-06-2020,StandUp show,51.59,debit,Entertainment,Credit Card
+02-07-2020,Ace Hardware,179.91,debit,Grocery shopping,Credit Card
+02-07-2020,Trader Joes,154.8,debit,Grocery shopping,Credit Card
+02-09-2020,Stop and Shop,242.39,debit,Grocery shopping,Credit Card
+02-10-2020,Stop and Shop,186.8,debit,Grocery shopping,Credit Card
+02-10-2020,Dominos,59.88,debit,Restaurants,Credit Card
+02-10-2020,Amazon,72.34,debit,Shopping,Credit Card
+02-13-2020,Credit Transaction,179.46,credit,Dividends,Savings
+02-13-2020,Dominos,69.03,debit,Restaurants,Credit Card
+02-13-2020,Trader Joes,162.51,debit,Grocery shopping,Credit Card
+02-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+02-14-2020,Amazon,69.01,debit,Shopping,Credit Card
+02-14-2020,Market Basket,189.86,debit,Grocery shopping,Credit Card
+02-14-2020,Trader Joes,202.67,debit,Grocery shopping,Credit Card
+02-14-2020,Uber,16.7,debit,Travel expenses,Credit Card
+02-15-2020,Lyft,23.83,debit,Travel expenses,Credit Card
+02-16-2020,Credit Transaction,99.21,credit,Dividends,Savings
+02-16-2020,StandUp show,25.73,debit,Entertainment,Credit Card
+02-16-2020,Uber,13.62,debit,Travel expenses,Credit Card
+02-16-2020,Ice skating,54.25,debit,Entertainment,Credit Card
+02-17-2020,Lyft,27.19,debit,Travel expenses,Credit Card
+02-18-2020,Boston Halal,26.12,debit,Restaurants,Credit Card
+02-21-2020,Stop and Shop,176.64,debit,Grocery shopping,Credit Card
+02-23-2020,Mama-cita,55.27,debit,Restaurants,Credit Card
+02-23-2020,MBTA,15.74,debit,Travel expenses,Credit Card
+02-23-2020,Boston Shawarma,25.14,debit,Restaurants,Credit Card
+02-24-2020,Credit Transaction,152.01,credit,Dividends,Savings
+02-24-2020,Uber,15.74,debit,Travel expenses,Credit Card
+02-28-2020,Lyft,16.82,debit,Travel expenses,Credit Card
+02-29-2020,Mall,25.33,debit,Shopping,Credit Card
+02-29-2020,Mama-cita,27.42,debit,Restaurants,Credit Card
+02-29-2020,Boston Halal,27.27,debit,Restaurants,Credit Card
+02-29-2020,Ice skating,50.4,debit,Entertainment,Credit Card
+03-01-2020,Rent/ Mortgage,1400.0,debit,Mortgage & Rent,Savings
+03-01-2020,Eversource Electricity,71.47,debit,Utilities,Checking
+03-01-2020,National Grid Gas,52.85,debit,Utilities,Checking
+03-01-2020,Heating fuel,179.53,debit,Utilities,Checking
+03-01-2020,Stop and Shop,152.12,debit,Grocery shopping,Credit Card
+03-02-2020,Market Basket,152.87,debit,Grocery shopping,Credit Card
+03-02-2020,Dominos,47.22,debit,Restaurants,Credit Card
+03-04-2020,Amazon,50.12,debit,Shopping,Credit Card
+03-06-2020,Dominos,62.9,debit,Restaurants,Credit Card
+03-06-2020,Boston Halal,58.19,debit,Restaurants,Credit Card
+03-06-2020,Boston Shawarma,58.31,debit,Restaurants,Credit Card
+03-07-2020,Temu,62.36,debit,Shopping,Credit Card
+03-07-2020,Ace Hardware,236.73,debit,Grocery shopping,Credit Card
+03-08-2020,Credit Transaction,8.34,credit,Cashback Rewards,Savings
+03-09-2020,Mall,64.51,debit,Shopping,Credit Card
+03-13-2020,Dominos,73.74,debit,Restaurants,Credit Card
+03-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+03-15-2020,Temu,64.26,debit,Shopping,Credit Card
+03-16-2020,AMC Boston,24.47,debit,Entertainment,Credit Card
+03-17-2020,Boston Shawarma,39.41,debit,Restaurants,Credit Card
+03-19-2020,Ace Hardware,183.18,debit,Grocery shopping,Credit Card
+03-19-2020,Stop and Shop,234.48,debit,Grocery shopping,Credit Card
+03-19-2020,Credit Transaction,5.11,credit,Cashback Rewards,Savings
+03-20-2020,Boston Shawarma,58.09,debit,Restaurants,Credit Card
+03-21-2020,MBTA,24.28,debit,Travel expenses,Credit Card
+03-21-2020,Ice skating,60.39,debit,Entertainment,Credit Card
+03-21-2020,Boston Halal,67.06,debit,Restaurants,Credit Card
+03-23-2020,Market Basket,200.46,debit,Grocery shopping,Credit Card
+03-23-2020,MBTA,24.04,debit,Travel expenses,Credit Card
+03-24-2020,Trader Joes,198.91,debit,Grocery shopping,Credit Card
+03-25-2020,Stop and Shop,188.78,debit,Grocery shopping,Credit Card
+03-26-2020,Mama-cita,79.56,debit,Restaurants,Credit Card
+03-27-2020,AMC Boston,28.1,debit,Entertainment,Credit Card
+04-01-2020,Rent/ Mortgage,1400.0,debit,Mortgage & Rent,Savings
+04-01-2020,Eversource Electricity,65.74,debit,Utilities,Checking
+04-01-2020,National Grid Gas,76.65,debit,Utilities,Checking
+04-01-2020,Heating fuel,232.29,debit,Utilities,Checking
+04-01-2020,MBTA,15.6,debit,Travel expenses,Credit Card
+04-02-2020,Credit Transaction,87.39,credit,Dividends,Savings
+04-02-2020,Ice skating,40.08,debit,Entertainment,Credit Card
+04-02-2020,Credit Transaction,168.73,credit,Dividends,Savings
+04-03-2020,Karaoke,22.69,debit,Entertainment,Credit Card
+04-03-2020,Ice skating,26.86,debit,Entertainment,Credit Card
+04-05-2020,Mall,33.27,debit,Shopping,Credit Card
+04-06-2020,Dominos,61.72,debit,Restaurants,Credit Card
+04-07-2020,Mall,48.48,debit,Shopping,Credit Card
+04-07-2020,Lyft,16.04,debit,Travel expenses,Credit Card
+04-07-2020,Ace Hardware,235.12,debit,Grocery shopping,Credit Card
+04-07-2020,Credit Transaction,12.6,credit,Cashback Rewards,Savings
+04-08-2020,Uber,16.17,debit,Travel expenses,Credit Card
+04-08-2020,MBTA,22.79,debit,Travel expenses,Credit Card
+04-09-2020,Market Basket,195.81,debit,Grocery shopping,Credit Card
+04-09-2020,Amazon,51.83,debit,Shopping,Credit Card
+04-10-2020,Boston Halal,73.43,debit,Restaurants,Credit Card
+04-10-2020,Lyft,12.11,debit,Travel expenses,Credit Card
+04-11-2020,Karaoke,65.71,debit,Entertainment,Credit Card
+04-11-2020,Lyft,20.84,debit,Travel expenses,Credit Card
+04-12-2020,Dominos,51.09,debit,Restaurants,Credit Card
+04-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+04-13-2020,Mama-cita,61.47,debit,Restaurants,Credit Card
+04-14-2020,Amazon,52.78,debit,Shopping,Credit Card
+04-14-2020,Dominos,34.2,debit,Restaurants,Credit Card
+04-15-2020,Mama-cita,69.51,debit,Restaurants,Credit Card
+04-17-2020,StandUp show,65.65,debit,Entertainment,Credit Card
+04-18-2020,Dominos,55.26,debit,Restaurants,Credit Card
+04-19-2020,Boston Shawarma,73.29,debit,Restaurants,Credit Card
+04-20-2020,Credit Transaction,183.98,credit,Dividends,Savings
+04-20-2020,Stop and Shop,150.59,debit,Grocery shopping,Credit Card
+04-20-2020,StandUp show,58.23,debit,Entertainment,Credit Card
+04-20-2020,Lyft,13.25,debit,Travel expenses,Credit Card
+04-21-2020,Credit Transaction,13.09,credit,Cashback Rewards,Savings
+04-23-2020,Credit Transaction,8.95,credit,Cashback Rewards,Savings
+04-23-2020,Uber,26.19,debit,Travel expenses,Credit Card
+04-24-2020,Amazon,45.8,debit,Shopping,Credit Card
+04-24-2020,Credit Transaction,5.83,credit,Cashback Rewards,Savings
+04-25-2020,Stop and Shop,178.09,debit,Grocery shopping,Credit Card
+04-26-2020,Credit Transaction,191.56,credit,Dividends,Savings
+04-26-2020,Amazon,23.9,debit,Shopping,Credit Card
+04-27-2020,MBTA,25.14,debit,Travel expenses,Credit Card
+04-27-2020,Stop and Shop,195.08,debit,Grocery shopping,Credit Card
+04-28-2020,Lyft,14.88,debit,Travel expenses,Credit Card
+04-28-2020,Ace Hardware,200.23,debit,Grocery shopping,Credit Card
+04-28-2020,Dominos,48.83,debit,Restaurants,Credit Card
+04-30-2020,Uber,23.24,debit,Travel expenses,Credit Card
+05-01-2020,Rent/ Mortgage,1400.0,debit,Mortgage & Rent,Savings
+05-01-2020,Eversource Electricity,76.75,debit,Utilities,Checking
+05-01-2020,National Grid Gas,74.05,debit,Utilities,Checking
+05-02-2020,Ace Hardware,153.14,debit,Grocery shopping,Credit Card
+05-03-2020,Temu,40.22,debit,Shopping,Credit Card
+05-05-2020,MBTA,22.73,debit,Travel expenses,Credit Card
+05-07-2020,Boston Halal,53.14,debit,Restaurants,Credit Card
+05-08-2020,Credit Transaction,95.82,credit,Dividends,Savings
+05-08-2020,Ace Hardware,244.01,debit,Grocery shopping,Credit Card
+05-09-2020,MBTA,28.97,debit,Travel expenses,Credit Card
+05-10-2020,Boston Halal,25.04,debit,Restaurants,Credit Card
+05-12-2020,Credit Transaction,15.71,credit,Cashback Rewards,Savings
+05-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+05-13-2020,Trader Joes,160.81,debit,Grocery shopping,Credit Card
+05-14-2020,Dominos,73.17,debit,Restaurants,Credit Card
+05-15-2020,Lyft,14.04,debit,Travel expenses,Credit Card
+05-15-2020,Credit Transaction,13.35,credit,Cashback Rewards,Savings
+05-15-2020,Temu,44.6,debit,Shopping,Credit Card
+05-17-2020,Temu,52.74,debit,Shopping,Credit Card
+05-18-2020,Credit Transaction,184.26,credit,Dividends,Savings
+05-18-2020,Boston Shawarma,77.06,debit,Restaurants,Credit Card
+05-19-2020,Ace Hardware,184.94,debit,Grocery shopping,Credit Card
+05-21-2020,MBTA,23.56,debit,Travel expenses,Credit Card
+05-21-2020,Mama-cita,27.43,debit,Restaurants,Credit Card
+05-23-2020,Trader Joes,151.31,debit,Grocery shopping,Credit Card
+05-23-2020,Uber,18.4,debit,Travel expenses,Credit Card
+05-25-2020,Mama-cita,32.77,debit,Restaurants,Credit Card
+05-26-2020,Uber,23.03,debit,Travel expenses,Credit Card
+05-26-2020,Credit Transaction,18.3,credit,Cashback Rewards,Savings
+05-26-2020,Stop and Shop,246.94,debit,Grocery shopping,Credit Card
+05-26-2020,Boston Shawarma,59.4,debit,Restaurants,Credit Card
+05-26-2020,StandUp show,41.96,debit,Entertainment,Credit Card
+05-27-2020,Amazon,38.29,debit,Shopping,Credit Card
+05-27-2020,Ice skating,63.06,debit,Entertainment,Credit Card
+05-29-2020,Boston Halal,39.03,debit,Restaurants,Credit Card
+05-30-2020,Credit Transaction,189.75,credit,Dividends,Savings
+05-30-2020,Trader Joes,247.37,debit,Grocery shopping,Credit Card
+05-30-2020,Temu,28.83,debit,Shopping,Credit Card
+05-30-2020,Mama-cita,31.44,debit,Restaurants,Credit Card
+05-31-2020,Trader Joes,242.51,debit,Grocery shopping,Credit Card
+06-01-2020,Rent/ Mortgage,1400.0,debit,Mortgage & Rent,Savings
+06-01-2020,Eversource Electricity,69.17,debit,Utilities,Checking
+06-01-2020,National Grid Gas,64.9,debit,Utilities,Checking
+06-01-2020,Dominos,35.42,debit,Restaurants,Credit Card
+06-02-2020,Boston Shawarma,47.96,debit,Restaurants,Credit Card
+06-02-2020,StandUp show,35.85,debit,Entertainment,Credit Card
+06-04-2020,Dominos,28.56,debit,Restaurants,Credit Card
+06-05-2020,Mama-cita,53.11,debit,Restaurants,Credit Card
+06-06-2020,AMC Boston,64.76,debit,Entertainment,Credit Card
+06-06-2020,Mall,33.79,debit,Shopping,Credit Card
+06-08-2020,Amazon,29.93,debit,Shopping,Credit Card
+06-08-2020,Mall,37.32,debit,Shopping,Credit Card
+06-08-2020,Boston Halal,71.04,debit,Restaurants,Credit Card
+06-09-2020,Mama-cita,34.44,debit,Restaurants,Credit Card
+06-10-2020,Boston Shawarma,64.54,debit,Restaurants,Credit Card
+06-12-2020,Lyft,17.45,debit,Travel expenses,Credit Card
+06-13-2020,Mama-cita,64.08,debit,Restaurants,Credit Card
+06-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+06-13-2020,Trader Joes,192.33,debit,Grocery shopping,Credit Card
+06-14-2020,Boston Shawarma,67.05,debit,Restaurants,Credit Card
+06-14-2020,Mama-cita,59.97,debit,Restaurants,Credit Card
+06-14-2020,Dominos,69.95,debit,Restaurants,Credit Card
+06-15-2020,Stop and Shop,155.75,debit,Grocery shopping,Credit Card
+06-16-2020,Boston Halal,78.74,debit,Restaurants,Credit Card
+06-16-2020,Dominos,38.2,debit,Restaurants,Credit Card
+06-17-2020,Credit Transaction,16.6,credit,Cashback Rewards,Savings
+06-18-2020,Stop and Shop,180.44,debit,Grocery shopping,Credit Card
+06-18-2020,Ace Hardware,193.87,debit,Grocery shopping,Credit Card
+06-18-2020,Boston Halal,62.92,debit,Restaurants,Credit Card
+06-19-2020,Boston Shawarma,51.06,debit,Restaurants,Credit Card
+06-19-2020,Uber,10.77,debit,Travel expenses,Credit Card
+06-19-2020,Mama-cita,79.62,debit,Restaurants,Credit Card
+06-20-2020,Mama-cita,76.27,debit,Restaurants,Credit Card
+06-20-2020,MBTA,13.65,debit,Travel expenses,Credit Card
+06-20-2020,Lyft,25.94,debit,Travel expenses,Credit Card
+06-20-2020,Uber,16.94,debit,Travel expenses,Credit Card
+06-21-2020,Boston Shawarma,32.38,debit,Restaurants,Credit Card
+06-21-2020,Credit Transaction,5.51,credit,Cashback Rewards,Savings
+06-23-2020,Credit Transaction,10.6,credit,Cashback Rewards,Savings
+06-24-2020,Lyft,15.52,debit,Travel expenses,Credit Card
+06-25-2020,Dominos,61.26,debit,Restaurants,Credit Card
+06-26-2020,MBTA,26.19,debit,Travel expenses,Credit Card
+06-28-2020,Mama-cita,75.86,debit,Restaurants,Credit Card
+06-28-2020,Lyft,23.84,debit,Travel expenses,Credit Card
+06-29-2020,Ice skating,44.21,debit,Entertainment,Credit Card
+06-30-2020,Stop and Shop,184.27,debit,Grocery shopping,Credit Card
+06-30-2020,Karaoke,52.68,debit,Entertainment,Credit Card
+07-01-2020,Rent/ Mortgage,1400.0,debit,Mortgage & Rent,Savings
+07-01-2020,Eversource Electricity,78.26,debit,Utilities,Checking
+07-01-2020,National Grid Gas,67.57,debit,Utilities,Checking
+07-04-2020,Mall,27.66,debit,Shopping,Credit Card
+07-06-2020,Stop and Shop,225.61,debit,Grocery shopping,Credit Card
+07-07-2020,Amazon,52.06,debit,Shopping,Credit Card
+07-08-2020,Boston Halal,55.54,debit,Restaurants,Credit Card
+07-08-2020,StandUp show,27.63,debit,Entertainment,Credit Card
+07-09-2020,Uber,26.1,debit,Travel expenses,Credit Card
+07-10-2020,StandUp show,30.56,debit,Entertainment,Credit Card
+07-12-2020,AMC Boston,31.56,debit,Entertainment,Credit Card
+07-12-2020,Stop and Shop,191.73,debit,Grocery shopping,Credit Card
+07-13-2020,Mama-cita,66.62,debit,Restaurants,Credit Card
+07-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+07-14-2020,Credit Transaction,6.31,credit,Cashback Rewards,Savings
+07-14-2020,Trader Joes,162.07,debit,Grocery shopping,Credit Card
+07-16-2020,Amazon,77.98,debit,Shopping,Credit Card
+07-17-2020,Ace Hardware,195.2,debit,Grocery shopping,Credit Card
+07-19-2020,Temu,29.49,debit,Shopping,Credit Card
+07-19-2020,AMC Boston,51.67,debit,Entertainment,Credit Card
+07-20-2020,Boston Halal,69.15,debit,Restaurants,Credit Card
+07-22-2020,Stop and Shop,222.7,debit,Grocery shopping,Credit Card
+07-23-2020,Lyft,22.72,debit,Travel expenses,Credit Card
+07-23-2020,Boston Halal,63.37,debit,Restaurants,Credit Card
+07-23-2020,MBTA,16.53,debit,Travel expenses,Credit Card
+07-26-2020,Boston Shawarma,51.3,debit,Restaurants,Credit Card
+07-26-2020,Mama-cita,70.14,debit,Restaurants,Credit Card
+07-26-2020,MBTA,23.43,debit,Travel expenses,Credit Card
+07-27-2020,AMC Boston,35.34,debit,Entertainment,Credit Card
+07-28-2020,Temu,76.02,debit,Shopping,Credit Card
+07-28-2020,AMC Boston,67.84,debit,Entertainment,Credit Card
+07-28-2020,Dominos,73.0,debit,Restaurants,Credit Card
+07-28-2020,Credit Transaction,14.97,credit,Cashback Rewards,Savings
+07-30-2020,Credit Transaction,17.0,credit,Cashback Rewards,Savings
+07-30-2020,Stop and Shop,208.87,debit,Grocery shopping,Credit Card
+07-31-2020,Ace Hardware,168.22,debit,Grocery shopping,Credit Card
+08-01-2020,Rent/ Mortgage,1400.0,debit,Mortgage & Rent,Savings
+08-01-2020,Eversource Electricity,63.48,debit,Utilities,Checking
+08-01-2020,National Grid Gas,63.19,debit,Utilities,Checking
+08-01-2020,Credit Transaction,19.5,credit,Cashback Rewards,Savings
+08-01-2020,Ace Hardware,150.88,debit,Grocery shopping,Credit Card
+08-02-2020,Karaoke,24.81,debit,Entertainment,Credit Card
+08-03-2020,Boston Shawarma,60.8,debit,Restaurants,Credit Card
+08-04-2020,Dominos,63.48,debit,Restaurants,Credit Card
+08-04-2020,Uber,17.63,debit,Travel expenses,Credit Card
+08-05-2020,Mama-cita,73.41,debit,Restaurants,Credit Card
+08-05-2020,Dominos,26.0,debit,Restaurants,Credit Card
+08-06-2020,Dominos,57.68,debit,Restaurants,Credit Card
+08-07-2020,Temu,23.29,debit,Shopping,Credit Card
+08-08-2020,Uber,13.61,debit,Travel expenses,Credit Card
+08-08-2020,Mama-cita,58.87,debit,Restaurants,Credit Card
+08-09-2020,Boston Halal,30.33,debit,Restaurants,Credit Card
+08-09-2020,Dominos,65.95,debit,Restaurants,Credit Card
+08-11-2020,Credit Transaction,18.9,credit,Cashback Rewards,Savings
+08-11-2020,Boston Halal,28.78,debit,Restaurants,Credit Card
+08-12-2020,Lyft,17.77,debit,Travel expenses,Credit Card
+08-12-2020,Dominos,30.87,debit,Restaurants,Credit Card
+08-13-2020,Karaoke,26.22,debit,Entertainment,Credit Card
+08-13-2020,Boston Halal,79.45,debit,Restaurants,Credit Card
+08-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+08-14-2020,Dominos,38.29,debit,Restaurants,Credit Card
+08-14-2020,Boston Shawarma,78.95,debit,Restaurants,Credit Card
+08-16-2020,StandUp show,50.6,debit,Entertainment,Credit Card
+08-16-2020,Lyft,27.54,debit,Travel expenses,Credit Card
+08-17-2020,Credit Transaction,19.9,credit,Cashback Rewards,Savings
+08-18-2020,Temu,61.43,debit,Shopping,Credit Card
+08-18-2020,AMC Boston,39.2,debit,Entertainment,Credit Card
+08-18-2020,Boston Halal,35.89,debit,Restaurants,Credit Card
+08-19-2020,Lyft,17.71,debit,Travel expenses,Credit Card
+08-19-2020,MBTA,24.73,debit,Travel expenses,Credit Card
+08-19-2020,Credit Transaction,16.89,credit,Cashback Rewards,Savings
+08-20-2020,Dominos,58.37,debit,Restaurants,Credit Card
+08-20-2020,Boston Shawarma,67.88,debit,Restaurants,Credit Card
+08-20-2020,Credit Transaction,144.28,credit,Dividends,Savings
+08-21-2020,Lyft,13.22,debit,Travel expenses,Credit Card
+08-21-2020,Ace Hardware,240.44,debit,Grocery shopping,Credit Card
+08-22-2020,Boston Halal,53.36,debit,Restaurants,Credit Card
+08-22-2020,Ace Hardware,191.28,debit,Grocery shopping,Credit Card
+08-23-2020,StandUp show,34.59,debit,Entertainment,Credit Card
+08-23-2020,Market Basket,238.87,debit,Grocery shopping,Credit Card
+08-24-2020,Credit Transaction,57.17,credit,Dividends,Savings
+08-24-2020,Credit Transaction,10.77,credit,Cashback Rewards,Savings
+08-25-2020,Temu,69.96,debit,Shopping,Credit Card
+08-25-2020,Credit Transaction,126.11,credit,Dividends,Savings
+08-27-2020,Ice skating,54.26,debit,Entertainment,Credit Card
+08-27-2020,Mama-cita,29.72,debit,Restaurants,Credit Card
+08-27-2020,Uber,14.25,debit,Travel expenses,Credit Card
+08-27-2020,MBTA,23.34,debit,Travel expenses,Credit Card
+08-27-2020,Dominos,76.73,debit,Restaurants,Credit Card
+08-28-2020,Uber,18.22,debit,Travel expenses,Credit Card
+08-29-2020,Dominos,33.48,debit,Restaurants,Credit Card
+08-29-2020,Mama-cita,29.1,debit,Restaurants,Credit Card
+08-31-2020,Mall,36.59,debit,Shopping,Credit Card
+09-01-2020,AMC Boston,28.78,debit,Entertainment,Credit Card
+09-01-2020,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+09-01-2020,Eversource Electricity,76.26,debit,Utilities,Checking
+09-01-2020,National Grid Gas,76.06,debit,Utilities,Checking
+09-02-2020,Mama-cita,58.13,debit,Restaurants,Credit Card
+09-06-2020,Amazon,65.2,debit,Shopping,Credit Card
+09-06-2020,AMC Boston,55.5,debit,Entertainment,Credit Card
+09-08-2020,Uber,10.14,debit,Travel expenses,Credit Card
+09-09-2020,Temu,34.93,debit,Shopping,Credit Card
+09-10-2020,Credit Transaction,11.95,credit,Cashback Rewards,Savings
+09-10-2020,Credit Transaction,18.07,credit,Cashback Rewards,Savings
+09-11-2020,Ice skating,65.59,debit,Entertainment,Credit Card
+09-12-2020,MBTA,24.24,debit,Travel expenses,Credit Card
+09-12-2020,Ice skating,40.35,debit,Entertainment,Credit Card
+09-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+09-13-2020,Market Basket,200.92,debit,Grocery shopping,Credit Card
+09-14-2020,StandUp show,53.7,debit,Entertainment,Credit Card
+09-14-2020,Market Basket,227.26,debit,Grocery shopping,Credit Card
+09-14-2020,Mall,69.42,debit,Shopping,Credit Card
+09-14-2020,Karaoke,44.38,debit,Entertainment,Credit Card
+09-15-2020,Uber,23.86,debit,Travel expenses,Credit Card
+09-15-2020,Market Basket,184.62,debit,Grocery shopping,Credit Card
+09-17-2020,Stop and Shop,227.7,debit,Grocery shopping,Credit Card
+09-17-2020,Temu,32.75,debit,Shopping,Credit Card
+09-17-2020,Mall,74.4,debit,Shopping,Credit Card
+09-18-2020,Credit Transaction,5.1,credit,Cashback Rewards,Savings
+09-19-2020,Ace Hardware,185.86,debit,Grocery shopping,Credit Card
+09-20-2020,Mall,24.7,debit,Shopping,Credit Card
+09-21-2020,MBTA,15.87,debit,Travel expenses,Credit Card
+09-21-2020,Karaoke,29.76,debit,Entertainment,Credit Card
+09-23-2020,Temu,36.51,debit,Shopping,Credit Card
+09-24-2020,AMC Boston,43.1,debit,Entertainment,Credit Card
+09-24-2020,Uber,19.64,debit,Travel expenses,Credit Card
+09-25-2020,Temu,53.97,debit,Shopping,Credit Card
+09-26-2020,Uber,18.15,debit,Travel expenses,Credit Card
+09-27-2020,Credit Transaction,17.3,credit,Cashback Rewards,Savings
+09-27-2020,Temu,32.95,debit,Shopping,Credit Card
+09-27-2020,Trader Joes,201.16,debit,Grocery shopping,Credit Card
+09-28-2020,Mall,26.92,debit,Shopping,Credit Card
+09-29-2020,Amazon,59.46,debit,Shopping,Credit Card
+09-29-2020,Boston Shawarma,34.84,debit,Restaurants,Credit Card
+09-29-2020,Credit Transaction,4.85,credit,Cashback Rewards,Savings
+09-30-2020,Temu,39.99,debit,Shopping,Credit Card
+10-01-2020,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+10-01-2020,Eversource Electricity,78.78,debit,Utilities,Checking
+10-01-2020,National Grid Gas,66.9,debit,Utilities,Checking
+10-01-2020,Heating fuel,151.44,debit,Utilities,Checking
+10-02-2020,StandUp show,40.18,debit,Entertainment,Credit Card
+10-03-2020,Credit Transaction,19.6,credit,Cashback Rewards,Savings
+10-03-2020,Lyft,13.46,debit,Travel expenses,Credit Card
+10-04-2020,Mall,46.67,debit,Shopping,Credit Card
+10-05-2020,Boston Shawarma,53.56,debit,Restaurants,Credit Card
+10-05-2020,Boston Halal,36.5,debit,Restaurants,Credit Card
+10-05-2020,Credit Transaction,13.86,credit,Cashback Rewards,Savings
+10-06-2020,Credit Transaction,18.94,credit,Cashback Rewards,Savings
+10-06-2020,Mall,45.78,debit,Shopping,Credit Card
+10-08-2020,Boston Shawarma,38.49,debit,Restaurants,Credit Card
+10-08-2020,Market Basket,212.08,debit,Grocery shopping,Credit Card
+10-09-2020,Amazon,40.84,debit,Shopping,Credit Card
+10-10-2020,Stop and Shop,151.63,debit,Grocery shopping,Credit Card
+10-10-2020,Credit Transaction,10.15,credit,Cashback Rewards,Savings
+10-11-2020,Boston Shawarma,57.73,debit,Restaurants,Credit Card
+10-11-2020,Credit Transaction,13.98,credit,Cashback Rewards,Savings
+10-11-2020,AMC Boston,38.67,debit,Entertainment,Credit Card
+10-12-2020,MBTA,21.98,debit,Travel expenses,Credit Card
+10-12-2020,Ice skating,50.71,debit,Entertainment,Credit Card
+10-12-2020,Market Basket,165.15,debit,Grocery shopping,Credit Card
+10-12-2020,StandUp show,63.89,debit,Entertainment,Credit Card
+10-13-2020,Monthly direct deposit - Salary,6000.0,credit,Salary,Savings
+10-13-2020,Credit Transaction,3.84,credit,Cashback Rewards,Savings
+10-13-2020,Trader Joes,193.06,debit,Grocery shopping,Credit Card
+10-14-2020,Lyft,27.49,debit,Travel expenses,Credit Card
+10-15-2020,StandUp show,57.72,debit,Entertainment,Credit Card
+10-15-2020,Dominos,30.73,debit,Restaurants,Credit Card
+10-15-2020,Boston Shawarma,70.79,debit,Restaurants,Credit Card
+10-16-2020,Trader Joes,194.57,debit,Grocery shopping,Credit Card
+10-16-2020,Ice skating,52.93,debit,Entertainment,Credit Card
+10-18-2020,Uber,12.31,debit,Travel expenses,Credit Card
+10-18-2020,MBTA,14.65,debit,Travel expenses,Credit Card
+10-18-2020,Lyft,10.85,debit,Travel expenses,Credit Card
+10-19-2020,MBTA,29.64,debit,Travel expenses,Credit Card
+10-20-2020,MBTA,13.82,debit,Travel expenses,Credit Card
+10-20-2020,Lyft,23.15,debit,Travel expenses,Credit Card
+10-21-2020,Credit Transaction,6.55,credit,Cashback Rewards,Savings
+10-23-2020,StandUp show,23.58,debit,Entertainment,Credit Card
+10-23-2020,Karaoke,26.86,debit,Entertainment,Credit Card
+10-24-2020,Dominos,56.64,debit,Restaurants,Credit Card
+10-24-2020,MBTA,16.03,debit,Travel expenses,Credit Card
+10-24-2020,Lyft,19.38,debit,Travel expenses,Credit Card
+10-24-2020,Boston Shawarma,60.33,debit,Restaurants,Credit Card
+10-24-2020,Boston Halal,42.83,debit,Restaurants,Credit Card
+10-25-2020,Lyft,18.83,debit,Travel expenses,Credit Card
+10-27-2020,Mama-cita,74.3,debit,Restaurants,Credit Card
+10-27-2020,Credit Transaction,12.25,credit,Cashback Rewards,Savings
+10-27-2020,Uber,17.56,debit,Travel expenses,Credit Card
+10-28-2020,Mama-cita,55.22,debit,Restaurants,Credit Card
+10-29-2020,Ice skating,30.36,debit,Entertainment,Credit Card
+10-29-2020,StandUp show,24.59,debit,Entertainment,Credit Card
+10-30-2020,StandUp show,51.1,debit,Entertainment,Credit Card
+10-31-2020,Boston Shawarma,68.5,debit,Restaurants,Credit Card
+11-01-2020,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+11-01-2020,Eversource Electricity,67.64,debit,Utilities,Checking
+11-01-2020,National Grid Gas,76.86,debit,Utilities,Checking
+11-01-2020,Heating fuel,202.35,debit,Utilities,Checking
+11-01-2020,MBTA,10.17,debit,Travel expenses,Credit Card
+11-02-2020,Stop and Shop,179.4,debit,Grocery shopping,Credit Card
+11-02-2020,StandUp show,41.57,debit,Entertainment,Credit Card
+11-02-2020,MBTA,11.19,debit,Travel expenses,Credit Card
+11-04-2020,StandUp show,21.33,debit,Entertainment,Credit Card
+11-04-2020,Uber,13.44,debit,Travel expenses,Credit Card
+11-04-2020,AMC Boston,44.35,debit,Entertainment,Credit Card
+11-05-2020,Mall,60.65,debit,Shopping,Credit Card
+11-05-2020,Lyft,15.66,debit,Travel expenses,Credit Card
+11-06-2020,Credit Transaction,173.87,credit,Dividends,Savings
+11-06-2020,Boston Shawarma,68.78,debit,Restaurants,Credit Card
+11-06-2020,Stop and Shop,155.23,debit,Grocery shopping,Credit Card
+11-07-2020,Ice skating,62.58,debit,Entertainment,Credit Card
+11-08-2020,Credit Transaction,128.1,credit,Dividends,Savings
+11-08-2020,Lyft,13.54,debit,Travel expenses,Credit Card
+11-09-2020,Boston Halal,26.59,debit,Restaurants,Credit Card
+11-09-2020,Mall,74.27,debit,Shopping,Credit Card
+11-09-2020,MBTA,11.9,debit,Travel expenses,Credit Card
+11-10-2020,Lyft,29.26,debit,Travel expenses,Credit Card
+11-10-2020,MBTA,18.59,debit,Travel expenses,Credit Card
+11-10-2020,Dominos,26.97,debit,Restaurants,Credit Card
+11-10-2020,Temu,25.9,debit,Shopping,Credit Card
+11-10-2020,Mama-cita,36.51,debit,Restaurants,Credit Card
+11-11-2020,Amazon,63.58,debit,Shopping,Credit Card
+11-12-2020,Credit Transaction,10.76,credit,Cashback Rewards,Savings
+11-12-2020,Credit Transaction,14.79,credit,Cashback Rewards,Savings
+11-13-2020,Ace Hardware,184.32,debit,Grocery shopping,Credit Card
+11-13-2020,AMC Boston,25.8,debit,Entertainment,Credit Card
+11-13-2020,StandUp show,31.88,debit,Entertainment,Credit Card
+11-13-2020,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+11-14-2020,Credit Transaction,15.88,credit,Cashback Rewards,Savings
+11-14-2020,Lyft,20.41,debit,Travel expenses,Credit Card
+11-14-2020,Ace Hardware,199.35,debit,Grocery shopping,Credit Card
+11-14-2020,Uber,23.87,debit,Travel expenses,Credit Card
+11-15-2020,Mall,73.48,debit,Shopping,Credit Card
+11-15-2020,Amazon,63.91,debit,Shopping,Credit Card
+11-16-2020,Lyft,16.19,debit,Travel expenses,Credit Card
+11-16-2020,MBTA,22.82,debit,Travel expenses,Credit Card
+11-16-2020,Boston Halal,60.34,debit,Restaurants,Credit Card
+11-17-2020,Karaoke,59.3,debit,Entertainment,Credit Card
+11-17-2020,Lyft,23.82,debit,Travel expenses,Credit Card
+11-18-2020,Credit Transaction,187.17,credit,Dividends,Savings
+11-18-2020,AMC Boston,22.6,debit,Entertainment,Credit Card
+11-18-2020,Boston Halal,74.45,debit,Restaurants,Credit Card
+11-19-2020,Ace Hardware,178.03,debit,Grocery shopping,Credit Card
+11-22-2020,Uber,27.33,debit,Travel expenses,Credit Card
+11-23-2020,Dominos,58.53,debit,Restaurants,Credit Card
+11-24-2020,Uber,26.31,debit,Travel expenses,Credit Card
+11-26-2020,MBTA,27.05,debit,Travel expenses,Credit Card
+11-30-2020,AMC Boston,31.48,debit,Entertainment,Credit Card
+11-30-2020,Market Basket,179.42,debit,Grocery shopping,Credit Card
+11-30-2020,StandUp show,67.49,debit,Entertainment,Credit Card
+12-01-2020,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+12-01-2020,Eversource Electricity,66.47,debit,Utilities,Checking
+12-01-2020,National Grid Gas,72.61,debit,Utilities,Checking
+12-01-2020,Heating fuel,244.11,debit,Utilities,Checking
+12-01-2020,Uber,23.46,debit,Travel expenses,Credit Card
+12-02-2020,Amazon,63.18,debit,Shopping,Credit Card
+12-04-2020,Stop and Shop,201.48,debit,Grocery shopping,Credit Card
+12-04-2020,Dominos,65.69,debit,Restaurants,Credit Card
+12-04-2020,Credit Transaction,12.27,credit,Cashback Rewards,Savings
+12-05-2020,Uber,20.89,debit,Travel expenses,Credit Card
+12-06-2020,Lyft,14.43,debit,Travel expenses,Credit Card
+12-06-2020,Amazon,44.2,debit,Shopping,Credit Card
+12-06-2020,Karaoke,34.16,debit,Entertainment,Credit Card
+12-06-2020,Mall,56.32,debit,Shopping,Credit Card
+12-07-2020,MBTA,10.86,debit,Travel expenses,Credit Card
+12-08-2020,MBTA,20.92,debit,Travel expenses,Credit Card
+12-08-2020,Mama-cita,45.99,debit,Restaurants,Credit Card
+12-08-2020,Boston Halal,25.3,debit,Restaurants,Credit Card
+12-08-2020,Karaoke,28.15,debit,Entertainment,Credit Card
+12-09-2020,Uber,24.79,debit,Travel expenses,Credit Card
+12-09-2020,Lyft,22.29,debit,Travel expenses,Credit Card
+12-09-2020,MBTA,26.02,debit,Travel expenses,Credit Card
+12-10-2020,Credit Transaction,18.12,credit,Cashback Rewards,Savings
+12-12-2020,Uber,29.44,debit,Travel expenses,Credit Card
+12-12-2020,Lyft,25.46,debit,Travel expenses,Credit Card
+12-13-2020,StandUp show,30.83,debit,Entertainment,Credit Card
+12-13-2020,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+12-15-2020,MBTA,18.67,debit,Travel expenses,Credit Card
+12-15-2020,Mall,38.59,debit,Shopping,Credit Card
+12-15-2020,Uber,22.3,debit,Travel expenses,Credit Card
+12-15-2020,Lyft,29.08,debit,Travel expenses,Credit Card
+12-16-2020,Amazon,72.6,debit,Shopping,Credit Card
+12-16-2020,MBTA,25.26,debit,Travel expenses,Credit Card
+12-17-2020,Dominos,72.26,debit,Restaurants,Credit Card
+12-17-2020,Ace Hardware,212.73,debit,Grocery shopping,Credit Card
+12-17-2020,Boston Shawarma,37.96,debit,Restaurants,Credit Card
+12-17-2020,Karaoke,41.87,debit,Entertainment,Credit Card
+12-17-2020,MBTA,16.72,debit,Travel expenses,Credit Card
+12-19-2020,Ace Hardware,213.91,debit,Grocery shopping,Credit Card
+12-19-2020,StandUp show,25.21,debit,Entertainment,Credit Card
+12-20-2020,Mall,36.18,debit,Shopping,Credit Card
+12-21-2020,Temu,32.64,debit,Shopping,Credit Card
+12-24-2020,Lyft,12.64,debit,Travel expenses,Credit Card
+12-26-2020,Boston Shawarma,26.84,debit,Restaurants,Credit Card
+12-26-2020,StandUp show,46.83,debit,Entertainment,Credit Card
+12-26-2020,Boston Halal,78.68,debit,Restaurants,Credit Card
+12-28-2020,Ace Hardware,231.43,debit,Grocery shopping,Credit Card
+12-28-2020,AMC Boston,69.45,debit,Entertainment,Credit Card
+12-28-2020,Market Basket,153.7,debit,Grocery shopping,Credit Card
+12-28-2020,Lyft,24.15,debit,Travel expenses,Credit Card
+12-29-2020,Mama-cita,63.24,debit,Restaurants,Credit Card
+12-30-2020,Dominos,28.76,debit,Restaurants,Credit Card
+12-31-2020,Uber,21.35,debit,Travel expenses,Credit Card
+12-31-2020,Lyft,11.65,debit,Travel expenses,Credit Card
+01-01-2021,Boston Halal,27.92,debit,Restaurants,Credit Card
+01-01-2021,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+01-01-2021,Eversource Electricity,70.99,debit,Utilities,Checking
+01-01-2021,National Grid Gas,57.12,debit,Utilities,Checking
+01-01-2021,Heating fuel,178.86,debit,Utilities,Checking
+01-01-2021,Uber,18.3,debit,Travel expenses,Credit Card
+01-02-2021,Uber,21.62,debit,Travel expenses,Credit Card
+01-03-2021,Uber,28.24,debit,Travel expenses,Credit Card
+01-03-2021,Ace Hardware,157.11,debit,Grocery shopping,Credit Card
+01-04-2021,Credit Transaction,10.26,credit,Cashback Rewards,Savings
+01-06-2021,Mama-cita,43.35,debit,Restaurants,Credit Card
+01-06-2021,Ace Hardware,188.95,debit,Grocery shopping,Credit Card
+01-06-2021,Mall,40.68,debit,Shopping,Credit Card
+01-06-2021,AMC Boston,40.89,debit,Entertainment,Credit Card
+01-07-2021,Credit Transaction,3.2,credit,Cashback Rewards,Savings
+01-07-2021,Trader Joes,204.6,debit,Grocery shopping,Credit Card
+01-07-2021,MBTA,24.46,debit,Travel expenses,Credit Card
+01-07-2021,Ace Hardware,198.56,debit,Grocery shopping,Credit Card
+01-07-2021,Boston Shawarma,36.31,debit,Restaurants,Credit Card
+01-08-2021,Boston Shawarma,67.15,debit,Restaurants,Credit Card
+01-08-2021,Lyft,20.7,debit,Travel expenses,Credit Card
+01-09-2021,Uber,29.57,debit,Travel expenses,Credit Card
+01-10-2021,Boston Shawarma,34.96,debit,Restaurants,Credit Card
+01-11-2021,Ace Hardware,186.4,debit,Grocery shopping,Credit Card
+01-11-2021,Uber,22.16,debit,Travel expenses,Credit Card
+01-11-2021,Stop and Shop,221.19,debit,Grocery shopping,Credit Card
+01-12-2021,Temu,64.97,debit,Shopping,Credit Card
+01-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+01-13-2021,Credit Transaction,11.51,credit,Cashback Rewards,Savings
+01-15-2021,Lyft,11.26,debit,Travel expenses,Credit Card
+01-16-2021,Credit Transaction,78.64,credit,Dividends,Savings
+01-16-2021,Boston Shawarma,79.26,debit,Restaurants,Credit Card
+01-16-2021,Amazon,43.76,debit,Shopping,Credit Card
+01-16-2021,Mall,33.34,debit,Shopping,Credit Card
+01-18-2021,Mama-cita,31.98,debit,Restaurants,Credit Card
+01-19-2021,Market Basket,174.34,debit,Grocery shopping,Credit Card
+01-19-2021,Uber,29.47,debit,Travel expenses,Credit Card
+01-21-2021,Dominos,66.42,debit,Restaurants,Credit Card
+01-21-2021,Credit Transaction,5.28,credit,Cashback Rewards,Savings
+01-23-2021,Market Basket,238.53,debit,Grocery shopping,Credit Card
+01-23-2021,Dominos,76.74,debit,Restaurants,Credit Card
+01-27-2021,Lyft,14.84,debit,Travel expenses,Credit Card
+01-28-2021,Ice skating,52.09,debit,Entertainment,Credit Card
+01-29-2021,Ice skating,29.91,debit,Entertainment,Credit Card
+02-01-2021,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+02-01-2021,Eversource Electricity,53.19,debit,Utilities,Checking
+02-01-2021,National Grid Gas,55.51,debit,Utilities,Checking
+02-01-2021,Heating fuel,230.28,debit,Utilities,Checking
+02-02-2021,Stop and Shop,211.12,debit,Grocery shopping,Credit Card
+02-02-2021,Temu,49.65,debit,Shopping,Credit Card
+02-03-2021,Dominos,56.59,debit,Restaurants,Credit Card
+02-04-2021,Lyft,11.46,debit,Travel expenses,Credit Card
+02-05-2021,Uber,13.28,debit,Travel expenses,Credit Card
+02-06-2021,AMC Boston,53.19,debit,Entertainment,Credit Card
+02-08-2021,Dominos,71.86,debit,Restaurants,Credit Card
+02-09-2021,Stop and Shop,237.38,debit,Grocery shopping,Credit Card
+02-09-2021,Credit Transaction,7.84,credit,Cashback Rewards,Savings
+02-10-2021,AMC Boston,39.24,debit,Entertainment,Credit Card
+02-10-2021,Market Basket,181.43,debit,Grocery shopping,Credit Card
+02-11-2021,Trader Joes,170.82,debit,Grocery shopping,Credit Card
+02-13-2021,Uber,12.49,debit,Travel expenses,Credit Card
+02-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+02-14-2021,Stop and Shop,202.9,debit,Grocery shopping,Credit Card
+02-14-2021,Credit Transaction,10.66,credit,Cashback Rewards,Savings
+02-16-2021,Credit Transaction,10.14,credit,Cashback Rewards,Savings
+02-16-2021,Dominos,25.97,debit,Restaurants,Credit Card
+02-17-2021,Trader Joes,253.88,debit,Grocery shopping,Credit Card
+02-17-2021,Mama-cita,39.76,debit,Restaurants,Credit Card
+02-18-2021,Credit Transaction,16.28,credit,Cashback Rewards,Savings
+02-20-2021,Temu,30.75,debit,Shopping,Credit Card
+02-21-2021,MBTA,24.67,debit,Travel expenses,Credit Card
+02-21-2021,Mama-cita,30.08,debit,Restaurants,Credit Card
+02-21-2021,Uber,19.13,debit,Travel expenses,Credit Card
+02-21-2021,Boston Halal,43.04,debit,Restaurants,Credit Card
+02-22-2021,Boston Shawarma,54.5,debit,Restaurants,Credit Card
+02-22-2021,Trader Joes,165.3,debit,Grocery shopping,Credit Card
+02-23-2021,Lyft,28.34,debit,Travel expenses,Credit Card
+02-23-2021,Karaoke,55.42,debit,Entertainment,Credit Card
+02-24-2021,Karaoke,62.12,debit,Entertainment,Credit Card
+02-24-2021,Uber,13.27,debit,Travel expenses,Credit Card
+02-24-2021,Boston Shawarma,62.35,debit,Restaurants,Credit Card
+02-24-2021,Trader Joes,212.06,debit,Grocery shopping,Credit Card
+02-25-2021,Credit Transaction,111.71,credit,Dividends,Savings
+02-28-2021,Mall,45.49,debit,Shopping,Credit Card
+02-28-2021,Temu,44.57,debit,Shopping,Credit Card
+03-01-2021,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+03-01-2021,Eversource Electricity,69.95,debit,Utilities,Checking
+03-01-2021,National Grid Gas,58.89,debit,Utilities,Checking
+03-01-2021,Heating fuel,241.22,debit,Utilities,Checking
+03-01-2021,Temu,50.82,debit,Shopping,Credit Card
+03-02-2021,Karaoke,65.47,debit,Entertainment,Credit Card
+03-02-2021,StandUp show,42.94,debit,Entertainment,Credit Card
+03-03-2021,Dominos,56.42,debit,Restaurants,Credit Card
+03-05-2021,Credit Transaction,18.92,credit,Cashback Rewards,Savings
+03-05-2021,Boston Halal,73.92,debit,Restaurants,Credit Card
+03-05-2021,Stop and Shop,181.95,debit,Grocery shopping,Credit Card
+03-05-2021,Boston Shawarma,41.17,debit,Restaurants,Credit Card
+03-05-2021,Uber,25.93,debit,Travel expenses,Credit Card
+03-06-2021,Amazon,53.03,debit,Shopping,Credit Card
+03-07-2021,Trader Joes,213.32,debit,Grocery shopping,Credit Card
+03-09-2021,Karaoke,33.96,debit,Entertainment,Credit Card
+03-09-2021,Credit Transaction,12.66,credit,Cashback Rewards,Savings
+03-11-2021,Boston Halal,39.62,debit,Restaurants,Credit Card
+03-11-2021,Lyft,22.2,debit,Travel expenses,Credit Card
+03-12-2021,AMC Boston,70.09,debit,Entertainment,Credit Card
+03-12-2021,Credit Transaction,11.06,credit,Cashback Rewards,Savings
+03-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+03-13-2021,Boston Halal,61.74,debit,Restaurants,Credit Card
+03-13-2021,Boston Shawarma,26.16,debit,Restaurants,Credit Card
+03-13-2021,Dominos,29.17,debit,Restaurants,Credit Card
+03-14-2021,StandUp show,34.71,debit,Entertainment,Credit Card
+03-14-2021,Uber,20.49,debit,Travel expenses,Credit Card
+03-16-2021,Lyft,19.15,debit,Travel expenses,Credit Card
+03-16-2021,MBTA,28.78,debit,Travel expenses,Credit Card
+03-17-2021,Stop and Shop,206.07,debit,Grocery shopping,Credit Card
+03-17-2021,Trader Joes,217.01,debit,Grocery shopping,Credit Card
+03-17-2021,Market Basket,164.53,debit,Grocery shopping,Credit Card
+03-18-2021,Lyft,23.85,debit,Travel expenses,Credit Card
+03-18-2021,Mall,63.62,debit,Shopping,Credit Card
+03-20-2021,Amazon,71.38,debit,Shopping,Credit Card
+03-20-2021,Dominos,46.94,debit,Restaurants,Credit Card
+03-22-2021,Credit Transaction,52.4,credit,Dividends,Savings
+03-23-2021,Stop and Shop,212.67,debit,Grocery shopping,Credit Card
+03-24-2021,Credit Transaction,6.46,credit,Cashback Rewards,Savings
+03-25-2021,Uber,13.62,debit,Travel expenses,Credit Card
+03-26-2021,Temu,58.39,debit,Shopping,Credit Card
+03-27-2021,Karaoke,54.37,debit,Entertainment,Credit Card
+03-29-2021,Temu,42.66,debit,Shopping,Credit Card
+03-30-2021,Mama-cita,66.7,debit,Restaurants,Credit Card
+03-30-2021,Credit Transaction,14.55,credit,Cashback Rewards,Savings
+03-31-2021,StandUp show,30.13,debit,Entertainment,Credit Card
+03-31-2021,Karaoke,22.54,debit,Entertainment,Credit Card
+04-01-2021,Mama-cita,60.81,debit,Restaurants,Credit Card
+04-01-2021,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+04-01-2021,Eversource Electricity,79.01,debit,Utilities,Checking
+04-01-2021,National Grid Gas,60.69,debit,Utilities,Checking
+04-01-2021,Heating fuel,213.94,debit,Utilities,Checking
+04-01-2021,Mall,22.56,debit,Shopping,Credit Card
+04-04-2021,Lyft,12.13,debit,Travel expenses,Credit Card
+04-04-2021,Mama-cita,51.81,debit,Restaurants,Credit Card
+04-05-2021,MBTA,15.94,debit,Travel expenses,Credit Card
+04-05-2021,Stop and Shop,258.47,debit,Grocery shopping,Credit Card
+04-09-2021,Credit Transaction,182.31,credit,Dividends,Savings
+04-09-2021,Dominos,39.58,debit,Restaurants,Credit Card
+04-10-2021,Dominos,35.55,debit,Restaurants,Credit Card
+04-11-2021,Market Basket,196.96,debit,Grocery shopping,Credit Card
+04-11-2021,Uber,29.12,debit,Travel expenses,Credit Card
+04-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+04-16-2021,StandUp show,70.76,debit,Entertainment,Credit Card
+04-17-2021,Lyft,28.55,debit,Travel expenses,Credit Card
+04-17-2021,Credit Transaction,83.93,credit,Dividends,Savings
+04-18-2021,StandUp show,40.52,debit,Entertainment,Credit Card
+04-18-2021,Lyft,13.59,debit,Travel expenses,Credit Card
+04-18-2021,Credit Transaction,101.15,credit,Dividends,Savings
+04-19-2021,Mall,43.7,debit,Shopping,Credit Card
+04-20-2021,Credit Transaction,193.62,credit,Dividends,Savings
+04-20-2021,Stop and Shop,222.03,debit,Grocery shopping,Credit Card
+04-20-2021,Boston Halal,63.66,debit,Restaurants,Credit Card
+04-21-2021,Ice skating,72.73,debit,Entertainment,Credit Card
+04-21-2021,Mama-cita,62.61,debit,Restaurants,Credit Card
+04-23-2021,Stop and Shop,248.75,debit,Grocery shopping,Credit Card
+04-23-2021,Amazon,71.75,debit,Shopping,Credit Card
+04-23-2021,Trader Joes,235.35,debit,Grocery shopping,Credit Card
+04-26-2021,StandUp show,32.51,debit,Entertainment,Credit Card
+04-27-2021,Boston Shawarma,41.72,debit,Restaurants,Credit Card
+04-28-2021,Credit Transaction,107.41,credit,Dividends,Savings
+04-29-2021,AMC Boston,40.74,debit,Entertainment,Credit Card
+04-29-2021,Mall,53.75,debit,Shopping,Credit Card
+04-30-2021,MBTA,27.22,debit,Travel expenses,Credit Card
+04-30-2021,Ace Hardware,170.69,debit,Grocery shopping,Credit Card
+04-30-2021,Trader Joes,245.86,debit,Grocery shopping,Credit Card
+05-01-2021,Boston Halal,65.0,debit,Restaurants,Credit Card
+05-01-2021,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+05-01-2021,Eversource Electricity,50.88,debit,Utilities,Checking
+05-01-2021,National Grid Gas,60.74,debit,Utilities,Checking
+05-01-2021,StandUp show,23.03,debit,Entertainment,Credit Card
+05-02-2021,Boston Halal,67.42,debit,Restaurants,Credit Card
+05-02-2021,Temu,23.06,debit,Shopping,Credit Card
+05-03-2021,Mall,24.08,debit,Shopping,Credit Card
+05-04-2021,Ace Hardware,173.02,debit,Grocery shopping,Credit Card
+05-07-2021,StandUp show,54.42,debit,Entertainment,Credit Card
+05-08-2021,Credit Transaction,8.45,credit,Cashback Rewards,Savings
+05-08-2021,Temu,29.34,debit,Shopping,Credit Card
+05-08-2021,Boston Shawarma,78.22,debit,Restaurants,Credit Card
+05-09-2021,StandUp show,56.4,debit,Entertainment,Credit Card
+05-09-2021,Karaoke,70.29,debit,Entertainment,Credit Card
+05-09-2021,Mama-cita,69.8,debit,Restaurants,Credit Card
+05-09-2021,Credit Transaction,196.5,credit,Dividends,Savings
+05-10-2021,Temu,41.37,debit,Shopping,Credit Card
+05-10-2021,Uber,21.98,debit,Travel expenses,Credit Card
+05-10-2021,Credit Transaction,18.82,credit,Cashback Rewards,Savings
+05-12-2021,MBTA,24.71,debit,Travel expenses,Credit Card
+05-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+05-14-2021,Credit Transaction,113.61,credit,Dividends,Savings
+05-14-2021,Boston Halal,27.79,debit,Restaurants,Credit Card
+05-15-2021,MBTA,14.18,debit,Travel expenses,Credit Card
+05-16-2021,Credit Transaction,16.04,credit,Cashback Rewards,Savings
+05-16-2021,Boston Halal,60.84,debit,Restaurants,Credit Card
+05-17-2021,Mall,82.61,debit,Shopping,Credit Card
+05-17-2021,Credit Transaction,15.29,credit,Cashback Rewards,Savings
+05-17-2021,Credit Transaction,13.11,credit,Cashback Rewards,Savings
+05-17-2021,MBTA,15.32,debit,Travel expenses,Credit Card
+05-18-2021,Ace Hardware,222.04,debit,Grocery shopping,Credit Card
+05-18-2021,Boston Halal,39.48,debit,Restaurants,Credit Card
+05-18-2021,Amazon,57.06,debit,Shopping,Credit Card
+05-18-2021,StandUp show,30.73,debit,Entertainment,Credit Card
+05-18-2021,Credit Transaction,15.52,credit,Cashback Rewards,Savings
+05-19-2021,Credit Transaction,10.58,credit,Cashback Rewards,Savings
+05-19-2021,Uber,14.23,debit,Travel expenses,Credit Card
+05-19-2021,Boston Halal,79.41,debit,Restaurants,Credit Card
+05-20-2021,AMC Boston,49.8,debit,Entertainment,Credit Card
+05-20-2021,Credit Transaction,13.05,credit,Cashback Rewards,Savings
+05-20-2021,Uber,12.25,debit,Travel expenses,Credit Card
+05-21-2021,Credit Transaction,196.76,credit,Dividends,Savings
+05-21-2021,Temu,61.93,debit,Shopping,Credit Card
+05-22-2021,Temu,73.95,debit,Shopping,Credit Card
+05-22-2021,Karaoke,64.54,debit,Entertainment,Credit Card
+05-23-2021,Market Basket,214.53,debit,Grocery shopping,Credit Card
+05-24-2021,Stop and Shop,196.16,debit,Grocery shopping,Credit Card
+05-25-2021,Boston Shawarma,62.4,debit,Restaurants,Credit Card
+05-26-2021,Stop and Shop,183.46,debit,Grocery shopping,Credit Card
+05-26-2021,MBTA,12.94,debit,Travel expenses,Credit Card
+05-26-2021,Mall,56.29,debit,Shopping,Credit Card
+05-26-2021,Boston Halal,28.33,debit,Restaurants,Credit Card
+05-27-2021,Karaoke,37.65,debit,Entertainment,Credit Card
+06-01-2021,Credit Transaction,3.32,credit,Cashback Rewards,Savings
+06-01-2021,National Grid Gas,68.64,debit,Utilities,Checking
+06-01-2021,Credit Transaction,11.06,credit,Cashback Rewards,Savings
+06-01-2021,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+06-01-2021,Eversource Electricity,63.86,debit,Utilities,Checking
+06-03-2021,Dominos,55.84,debit,Restaurants,Credit Card
+06-04-2021,Mama-cita,31.67,debit,Restaurants,Credit Card
+06-04-2021,Mall,76.61,debit,Shopping,Credit Card
+06-04-2021,Ice skating,46.96,debit,Entertainment,Credit Card
+06-05-2021,Boston Shawarma,28.19,debit,Restaurants,Credit Card
+06-05-2021,Lyft,24.88,debit,Travel expenses,Credit Card
+06-06-2021,Karaoke,64.44,debit,Entertainment,Credit Card
+06-07-2021,Lyft,18.3,debit,Travel expenses,Credit Card
+06-08-2021,Market Basket,230.59,debit,Grocery shopping,Credit Card
+06-08-2021,StandUp show,43.16,debit,Entertainment,Credit Card
+06-09-2021,Lyft,16.97,debit,Travel expenses,Credit Card
+06-10-2021,Mall,72.43,debit,Shopping,Credit Card
+06-10-2021,AMC Boston,33.62,debit,Entertainment,Credit Card
+06-10-2021,Lyft,12.53,debit,Travel expenses,Credit Card
+06-10-2021,Uber,30.02,debit,Travel expenses,Credit Card
+06-10-2021,Karaoke,62.46,debit,Entertainment,Credit Card
+06-11-2021,MBTA,16.27,debit,Travel expenses,Credit Card
+06-11-2021,Ice skating,32.07,debit,Entertainment,Credit Card
+06-11-2021,Uber,14.91,debit,Travel expenses,Credit Card
+06-11-2021,Mama-cita,50.6,debit,Restaurants,Credit Card
+06-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+06-14-2021,Lyft,10.39,debit,Travel expenses,Credit Card
+06-14-2021,Mama-cita,53.94,debit,Restaurants,Credit Card
+06-15-2021,Market Basket,181.91,debit,Grocery shopping,Credit Card
+06-15-2021,Mama-cita,41.9,debit,Restaurants,Credit Card
+06-15-2021,Uber,12.7,debit,Travel expenses,Credit Card
+06-15-2021,Mall,48.96,debit,Shopping,Credit Card
+06-17-2021,Amazon,46.59,debit,Shopping,Credit Card
+06-18-2021,Mall,23.06,debit,Shopping,Credit Card
+06-19-2021,Uber,24.6,debit,Travel expenses,Credit Card
+06-21-2021,Trader Joes,193.28,debit,Grocery shopping,Credit Card
+06-22-2021,Market Basket,207.43,debit,Grocery shopping,Credit Card
+06-23-2021,Uber,27.78,debit,Travel expenses,Credit Card
+06-23-2021,MBTA,19.9,debit,Travel expenses,Credit Card
+06-25-2021,Mall,76.12,debit,Shopping,Credit Card
+06-26-2021,AMC Boston,68.46,debit,Entertainment,Credit Card
+06-26-2021,MBTA,21.22,debit,Travel expenses,Credit Card
+06-26-2021,Boston Halal,45.69,debit,Restaurants,Credit Card
+06-27-2021,Mall,22.01,debit,Shopping,Credit Card
+06-27-2021,Temu,43.29,debit,Shopping,Credit Card
+06-28-2021,Mama-cita,59.48,debit,Restaurants,Credit Card
+06-28-2021,Ace Hardware,244.31,debit,Grocery shopping,Credit Card
+06-28-2021,Dominos,34.88,debit,Restaurants,Credit Card
+06-28-2021,Boston Shawarma,38.19,debit,Restaurants,Credit Card
+06-29-2021,Uber,17.49,debit,Travel expenses,Credit Card
+06-29-2021,MBTA,14.43,debit,Travel expenses,Credit Card
+06-30-2021,Temu,31.49,debit,Shopping,Credit Card
+07-01-2021,Trader Joes,245.55,debit,Grocery shopping,Credit Card
+07-01-2021,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+07-01-2021,Eversource Electricity,76.49,debit,Utilities,Checking
+07-01-2021,National Grid Gas,70.67,debit,Utilities,Checking
+07-02-2021,Dominos,31.83,debit,Restaurants,Credit Card
+07-04-2021,Dominos,40.54,debit,Restaurants,Credit Card
+07-04-2021,Market Basket,206.42,debit,Grocery shopping,Credit Card
+07-05-2021,Uber,28.08,debit,Travel expenses,Credit Card
+07-05-2021,Temu,38.0,debit,Shopping,Credit Card
+07-05-2021,AMC Boston,49.21,debit,Entertainment,Credit Card
+07-06-2021,Temu,37.44,debit,Shopping,Credit Card
+07-06-2021,Dominos,75.85,debit,Restaurants,Credit Card
+07-08-2021,Karaoke,42.71,debit,Entertainment,Credit Card
+07-09-2021,Dominos,73.67,debit,Restaurants,Credit Card
+07-10-2021,Ace Hardware,249.91,debit,Grocery shopping,Credit Card
+07-11-2021,Credit Transaction,8.28,credit,Cashback Rewards,Savings
+07-11-2021,Boston Shawarma,73.4,debit,Restaurants,Credit Card
+07-12-2021,StandUp show,25.5,debit,Entertainment,Credit Card
+07-13-2021,Lyft,13.44,debit,Travel expenses,Credit Card
+07-13-2021,StandUp show,42.35,debit,Entertainment,Credit Card
+07-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+07-13-2021,Mall,35.06,debit,Shopping,Credit Card
+07-13-2021,Boston Halal,64.62,debit,Restaurants,Credit Card
+07-14-2021,Credit Transaction,14.63,credit,Cashback Rewards,Savings
+07-18-2021,Ice skating,60.66,debit,Entertainment,Credit Card
+07-19-2021,AMC Boston,58.26,debit,Entertainment,Credit Card
+07-19-2021,Mall,42.47,debit,Shopping,Credit Card
+07-20-2021,Dominos,30.09,debit,Restaurants,Credit Card
+07-22-2021,Credit Transaction,6.94,credit,Cashback Rewards,Savings
+07-22-2021,Karaoke,65.93,debit,Entertainment,Credit Card
+07-23-2021,Mall,71.31,debit,Shopping,Credit Card
+07-24-2021,Market Basket,242.57,debit,Grocery shopping,Credit Card
+07-26-2021,Temu,65.8,debit,Shopping,Credit Card
+07-26-2021,Dominos,79.68,debit,Restaurants,Credit Card
+07-28-2021,Credit Transaction,18.44,credit,Cashback Rewards,Savings
+07-29-2021,Market Basket,253.91,debit,Grocery shopping,Credit Card
+07-30-2021,Credit Transaction,103.58,credit,Dividends,Savings
+07-31-2021,Temu,38.4,debit,Shopping,Credit Card
+07-31-2021,Mall,40.2,debit,Shopping,Credit Card
+07-31-2021,Amazon,53.11,debit,Shopping,Credit Card
+07-31-2021,Credit Transaction,70.92,credit,Dividends,Savings
+08-01-2021,Rent/ Mortgage,1500.0,debit,Mortgage & Rent,Savings
+08-01-2021,Eversource Electricity,54.08,debit,Utilities,Checking
+08-01-2021,National Grid Gas,53.22,debit,Utilities,Checking
+08-01-2021,Mall,61.42,debit,Shopping,Credit Card
+08-04-2021,AMC Boston,27.71,debit,Entertainment,Credit Card
+08-05-2021,Ace Hardware,167.83,debit,Grocery shopping,Credit Card
+08-09-2021,Credit Transaction,12.46,credit,Cashback Rewards,Savings
+08-09-2021,Dominos,42.45,debit,Restaurants,Credit Card
+08-10-2021,AMC Boston,39.63,debit,Entertainment,Credit Card
+08-11-2021,Lyft,23.76,debit,Travel expenses,Credit Card
+08-11-2021,MBTA,28.38,debit,Travel expenses,Credit Card
+08-12-2021,AMC Boston,31.26,debit,Entertainment,Credit Card
+08-12-2021,Ace Hardware,190.0,debit,Grocery shopping,Credit Card
+08-12-2021,Karaoke,73.21,debit,Entertainment,Credit Card
+08-12-2021,Boston Halal,49.83,debit,Restaurants,Credit Card
+08-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+08-16-2021,StandUp show,35.24,debit,Entertainment,Credit Card
+08-17-2021,Lyft,11.1,debit,Travel expenses,Credit Card
+08-17-2021,Ace Hardware,222.26,debit,Grocery shopping,Credit Card
+08-18-2021,StandUp show,55.09,debit,Entertainment,Credit Card
+08-18-2021,Market Basket,206.36,debit,Grocery shopping,Credit Card
+08-18-2021,AMC Boston,24.14,debit,Entertainment,Credit Card
+08-18-2021,Uber,12.44,debit,Travel expenses,Credit Card
+08-20-2021,Trader Joes,251.39,debit,Grocery shopping,Credit Card
+08-21-2021,Lyft,17.1,debit,Travel expenses,Credit Card
+08-21-2021,Mama-cita,71.04,debit,Restaurants,Credit Card
+08-21-2021,AMC Boston,49.4,debit,Entertainment,Credit Card
+08-22-2021,Dominos,76.23,debit,Restaurants,Credit Card
+08-22-2021,Ace Hardware,163.02,debit,Grocery shopping,Credit Card
+08-23-2021,StandUp show,47.19,debit,Entertainment,Credit Card
+08-24-2021,Temu,26.56,debit,Shopping,Credit Card
+08-25-2021,Mama-cita,65.33,debit,Restaurants,Credit Card
+08-25-2021,Credit Transaction,7.33,credit,Cashback Rewards,Savings
+08-26-2021,Trader Joes,182.98,debit,Grocery shopping,Credit Card
+08-27-2021,Boston Halal,39.86,debit,Restaurants,Credit Card
+08-28-2021,Karaoke,25.86,debit,Entertainment,Credit Card
+08-28-2021,Ice skating,58.8,debit,Entertainment,Credit Card
+08-28-2021,Lyft,25.8,debit,Travel expenses,Credit Card
+08-28-2021,Uber,22.53,debit,Travel expenses,Credit Card
+08-29-2021,Uber,28.66,debit,Travel expenses,Credit Card
+08-29-2021,Lyft,22.46,debit,Travel expenses,Credit Card
+08-31-2021,Amazon,67.56,debit,Shopping,Credit Card
+09-01-2021,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+09-01-2021,Eversource Electricity,65.94,debit,Utilities,Checking
+09-01-2021,National Grid Gas,57.48,debit,Utilities,Checking
+09-01-2021,Mama-cita,28.53,debit,Restaurants,Credit Card
+09-01-2021,StandUp show,22.13,debit,Entertainment,Credit Card
+09-02-2021,Ice skating,40.47,debit,Entertainment,Credit Card
+09-03-2021,MBTA,29.32,debit,Travel expenses,Credit Card
+09-03-2021,Stop and Shop,209.91,debit,Grocery shopping,Credit Card
+09-03-2021,Amazon,79.54,debit,Shopping,Credit Card
+09-03-2021,Market Basket,163.45,debit,Grocery shopping,Credit Card
+09-03-2021,Trader Joes,162.56,debit,Grocery shopping,Credit Card
+09-04-2021,Boston Halal,42.46,debit,Restaurants,Credit Card
+09-05-2021,Dominos,80.02,debit,Restaurants,Credit Card
+09-07-2021,Karaoke,35.22,debit,Entertainment,Credit Card
+09-07-2021,MBTA,28.69,debit,Travel expenses,Credit Card
+09-11-2021,Lyft,11.76,debit,Travel expenses,Credit Card
+09-12-2021,Stop and Shop,175.58,debit,Grocery shopping,Credit Card
+09-12-2021,Dominos,65.19,debit,Restaurants,Credit Card
+09-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+09-13-2021,Ice skating,25.04,debit,Entertainment,Credit Card
+09-13-2021,MBTA,17.81,debit,Travel expenses,Credit Card
+09-13-2021,Market Basket,173.99,debit,Grocery shopping,Credit Card
+09-14-2021,Uber,24.96,debit,Travel expenses,Credit Card
+09-15-2021,Boston Shawarma,37.57,debit,Restaurants,Credit Card
+09-16-2021,MBTA,22.2,debit,Travel expenses,Credit Card
+09-16-2021,Ice skating,71.77,debit,Entertainment,Credit Card
+09-16-2021,Temu,73.63,debit,Shopping,Credit Card
+09-17-2021,Boston Halal,75.31,debit,Restaurants,Credit Card
+09-20-2021,Lyft,10.95,debit,Travel expenses,Credit Card
+09-20-2021,Mama-cita,38.4,debit,Restaurants,Credit Card
+09-21-2021,Amazon,21.55,debit,Shopping,Credit Card
+09-22-2021,Mall,63.76,debit,Shopping,Credit Card
+09-22-2021,Ice skating,67.92,debit,Entertainment,Credit Card
+09-22-2021,AMC Boston,70.45,debit,Entertainment,Credit Card
+09-23-2021,Ice skating,42.9,debit,Entertainment,Credit Card
+09-26-2021,AMC Boston,54.02,debit,Entertainment,Credit Card
+09-26-2021,Karaoke,34.26,debit,Entertainment,Credit Card
+09-27-2021,Uber,15.64,debit,Travel expenses,Credit Card
+09-27-2021,Dominos,50.19,debit,Restaurants,Credit Card
+09-27-2021,Boston Shawarma,77.98,debit,Restaurants,Credit Card
+09-27-2021,Mall,45.22,debit,Shopping,Credit Card
+09-28-2021,AMC Boston,63.38,debit,Entertainment,Credit Card
+09-29-2021,Lyft,31.11,debit,Travel expenses,Credit Card
+09-29-2021,Temu,21.11,debit,Shopping,Credit Card
+09-30-2021,Temu,34.68,debit,Shopping,Credit Card
+10-01-2021,Credit Transaction,7.43,credit,Cashback Rewards,Savings
+10-01-2021,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+10-01-2021,Eversource Electricity,66.29,debit,Utilities,Checking
+10-01-2021,National Grid Gas,80.0,debit,Utilities,Checking
+10-01-2021,Heating fuel,173.93,debit,Utilities,Checking
+10-02-2021,Credit Transaction,128.83,credit,Dividends,Savings
+10-04-2021,Stop and Shop,175.15,debit,Grocery shopping,Credit Card
+10-04-2021,Amazon,62.82,debit,Shopping,Credit Card
+10-05-2021,StandUp show,49.53,debit,Entertainment,Credit Card
+10-06-2021,Boston Halal,61.51,debit,Restaurants,Credit Card
+10-07-2021,Mall,42.48,debit,Shopping,Credit Card
+10-07-2021,Dominos,43.68,debit,Restaurants,Credit Card
+10-08-2021,Credit Transaction,12.08,credit,Cashback Rewards,Savings
+10-08-2021,Market Basket,263.88,debit,Grocery shopping,Credit Card
+10-09-2021,Ice skating,60.27,debit,Entertainment,Credit Card
+10-09-2021,Credit Transaction,71.55,credit,Dividends,Savings
+10-13-2021,Amazon,66.46,debit,Shopping,Credit Card
+10-13-2021,Monthly direct deposit - Salary,6240.0,credit,Salary,Savings
+10-13-2021,Market Basket,229.74,debit,Grocery shopping,Credit Card
+10-13-2021,AMC Boston,30.22,debit,Entertainment,Credit Card
+10-14-2021,Stop and Shop,178.87,debit,Grocery shopping,Credit Card
+10-14-2021,Mall,25.06,debit,Shopping,Credit Card
+10-14-2021,Trader Joes,223.68,debit,Grocery shopping,Credit Card
+10-15-2021,Credit Transaction,12.53,credit,Cashback Rewards,Savings
+10-16-2021,Market Basket,201.16,debit,Grocery shopping,Credit Card
+10-16-2021,Credit Transaction,11.8,credit,Cashback Rewards,Savings
+10-16-2021,Karaoke,51.87,debit,Entertainment,Credit Card
+10-17-2021,Mama-cita,52.88,debit,Restaurants,Credit Card
+10-17-2021,Boston Halal,63.65,debit,Restaurants,Credit Card
+10-19-2021,Mama-cita,33.35,debit,Restaurants,Credit Card
+10-20-2021,Lyft,25.75,debit,Travel expenses,Credit Card
+10-23-2021,Boston Halal,80.79,debit,Restaurants,Credit Card
+10-25-2021,Karaoke,60.81,debit,Entertainment,Credit Card
+10-25-2021,Credit Transaction,5.67,credit,Cashback Rewards,Savings
+10-25-2021,AMC Boston,36.02,debit,Entertainment,Credit Card
+10-26-2021,AMC Boston,62.79,debit,Entertainment,Credit Card
+10-27-2021,Mall,59.7,debit,Shopping,Credit Card
+10-29-2021,Credit Transaction,93.99,credit,Dividends,Savings
+10-30-2021,Ace Hardware,202.28,debit,Grocery shopping,Credit Card
+11-01-2021,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+11-01-2021,Eversource Electricity,52.98,debit,Utilities,Checking
+11-01-2021,National Grid Gas,77.57,debit,Utilities,Checking
+11-01-2021,Heating fuel,161.53,debit,Utilities,Checking
+11-01-2021,Boston Shawarma,44.55,debit,Restaurants,Credit Card
+11-02-2021,Lyft,26.35,debit,Travel expenses,Credit Card
+11-02-2021,Ace Hardware,260.21,debit,Grocery shopping,Credit Card
+11-02-2021,Karaoke,68.9,debit,Entertainment,Credit Card
+11-08-2021,Market Basket,164.37,debit,Grocery shopping,Credit Card
+11-09-2021,Uber,25.56,debit,Travel expenses,Credit Card
+11-09-2021,MBTA,12.1,debit,Travel expenses,Credit Card
+11-09-2021,Boston Halal,77.9,debit,Restaurants,Credit Card
+11-10-2021,Temu,45.27,debit,Shopping,Credit Card
+11-10-2021,Dominos,65.96,debit,Restaurants,Credit Card
+11-11-2021,Boston Halal,29.7,debit,Restaurants,Credit Card
+11-11-2021,MBTA,18.76,debit,Travel expenses,Credit Card
+11-12-2021,Ace Hardware,259.45,debit,Grocery shopping,Credit Card
+11-13-2021,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+11-14-2021,Lyft,24.06,debit,Travel expenses,Credit Card
+11-15-2021,StandUp show,49.93,debit,Entertainment,Credit Card
+11-15-2021,Stop and Shop,193.01,debit,Grocery shopping,Credit Card
+11-16-2021,Uber,15.84,debit,Travel expenses,Credit Card
+11-18-2021,Boston Halal,48.53,debit,Restaurants,Credit Card
+11-18-2021,Credit Transaction,17.55,credit,Cashback Rewards,Savings
+11-18-2021,Dominos,53.55,debit,Restaurants,Credit Card
+11-18-2021,Stop and Shop,186.19,debit,Grocery shopping,Credit Card
+11-18-2021,Mall,83.71,debit,Shopping,Credit Card
+11-19-2021,AMC Boston,32.99,debit,Entertainment,Credit Card
+11-19-2021,Mama-cita,30.73,debit,Restaurants,Credit Card
+11-20-2021,Amazon,60.93,debit,Shopping,Credit Card
+11-20-2021,Ace Hardware,250.24,debit,Grocery shopping,Credit Card
+11-21-2021,Stop and Shop,166.75,debit,Grocery shopping,Credit Card
+11-24-2021,Lyft,15.29,debit,Travel expenses,Credit Card
+11-27-2021,Boston Shawarma,77.97,debit,Restaurants,Credit Card
+11-29-2021,Trader Joes,186.79,debit,Grocery shopping,Credit Card
+11-29-2021,Lyft,25.89,debit,Travel expenses,Credit Card
+12-01-2021,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+12-01-2021,Eversource Electricity,65.32,debit,Utilities,Checking
+12-01-2021,National Grid Gas,79.37,debit,Utilities,Checking
+12-01-2021,Heating fuel,157.82,debit,Utilities,Checking
+12-02-2021,Mall,31.61,debit,Shopping,Credit Card
+12-04-2021,Mama-cita,56.47,debit,Restaurants,Credit Card
+12-04-2021,MBTA,26.22,debit,Travel expenses,Credit Card
+12-04-2021,Boston Halal,71.98,debit,Restaurants,Credit Card
+12-05-2021,Mama-cita,42.06,debit,Restaurants,Credit Card
+12-07-2021,Uber,28.37,debit,Travel expenses,Credit Card
+12-07-2021,MBTA,18.24,debit,Travel expenses,Credit Card
+12-08-2021,Credit Transaction,4.24,credit,Cashback Rewards,Savings
+12-08-2021,Boston Halal,81.98,debit,Restaurants,Credit Card
+12-08-2021,Lyft,14.09,debit,Travel expenses,Credit Card
+12-08-2021,MBTA,19.46,debit,Travel expenses,Credit Card
+12-09-2021,Boston Halal,34.24,debit,Restaurants,Credit Card
+12-09-2021,Boston Shawarma,49.37,debit,Restaurants,Credit Card
+12-11-2021,Uber,22.23,debit,Travel expenses,Credit Card
+12-12-2021,Mama-cita,54.94,debit,Restaurants,Credit Card
+12-12-2021,Trader Joes,229.49,debit,Grocery shopping,Credit Card
+12-13-2021,Dominos,50.35,debit,Restaurants,Credit Card
+12-13-2021,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+12-13-2021,Ice skating,54.03,debit,Entertainment,Credit Card
+12-13-2021,Temu,51.33,debit,Shopping,Credit Card
+12-14-2021,Stop and Shop,221.93,debit,Grocery shopping,Credit Card
+12-14-2021,Market Basket,217.77,debit,Grocery shopping,Credit Card
+12-14-2021,Temu,49.9,debit,Shopping,Credit Card
+12-15-2021,Amazon,64.77,debit,Shopping,Credit Card
+12-15-2021,Credit Transaction,190.0,credit,Dividends,Savings
+12-17-2021,Karaoke,48.45,debit,Entertainment,Credit Card
+12-17-2021,Lyft,13.42,debit,Travel expenses,Credit Card
+12-17-2021,StandUp show,66.42,debit,Entertainment,Credit Card
+12-19-2021,MBTA,15.36,debit,Travel expenses,Credit Card
+12-19-2021,Temu,25.19,debit,Shopping,Credit Card
+12-19-2021,Uber,14.26,debit,Travel expenses,Credit Card
+12-20-2021,AMC Boston,29.39,debit,Entertainment,Credit Card
+12-20-2021,Trader Joes,212.09,debit,Grocery shopping,Credit Card
+12-20-2021,Lyft,26.26,debit,Travel expenses,Credit Card
+12-20-2021,Uber,16.07,debit,Travel expenses,Credit Card
+12-21-2021,Boston Halal,75.52,debit,Restaurants,Credit Card
+12-23-2021,Dominos,33.13,debit,Restaurants,Credit Card
+12-23-2021,Boston Halal,59.0,debit,Restaurants,Credit Card
+12-24-2021,Credit Transaction,9.94,credit,Cashback Rewards,Savings
+12-24-2021,StandUp show,51.05,debit,Entertainment,Credit Card
+12-24-2021,AMC Boston,34.65,debit,Entertainment,Credit Card
+12-25-2021,Trader Joes,243.33,debit,Grocery shopping,Credit Card
+12-27-2021,Mama-cita,33.63,debit,Restaurants,Credit Card
+12-29-2021,AMC Boston,29.39,debit,Entertainment,Credit Card
+12-29-2021,Uber,29.74,debit,Travel expenses,Credit Card
+12-30-2021,Lyft,24.48,debit,Travel expenses,Credit Card
+12-30-2021,Uber,13.72,debit,Travel expenses,Credit Card
+01-01-2022,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+01-01-2022,Eversource Electricity,76.07,debit,Utilities,Checking
+01-01-2022,National Grid Gas,75.46,debit,Utilities,Checking
+01-01-2022,Heating fuel,157.23,debit,Utilities,Checking
+01-01-2022,Credit Transaction,114.66,credit,Dividends,Savings
+01-03-2022,Credit Transaction,7.57,credit,Cashback Rewards,Savings
+01-03-2022,AMC Boston,22.53,debit,Entertainment,Credit Card
+01-04-2022,Lyft,16.25,debit,Travel expenses,Credit Card
+01-05-2022,Boston Shawarma,52.67,debit,Restaurants,Credit Card
+01-05-2022,Trader Joes,213.75,debit,Grocery shopping,Credit Card
+01-07-2022,Trader Joes,190.56,debit,Grocery shopping,Credit Card
+01-08-2022,AMC Boston,40.79,debit,Entertainment,Credit Card
+01-09-2022,Ice skating,44.13,debit,Entertainment,Credit Card
+01-09-2022,StandUp show,26.78,debit,Entertainment,Credit Card
+01-09-2022,Karaoke,41.9,debit,Entertainment,Credit Card
+01-11-2022,Boston Shawarma,53.48,debit,Restaurants,Credit Card
+01-11-2022,Lyft,25.83,debit,Travel expenses,Credit Card
+01-11-2022,Dominos,40.91,debit,Restaurants,Credit Card
+01-13-2022,Temu,21.26,debit,Shopping,Credit Card
+01-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+01-13-2022,Mama-cita,33.14,debit,Restaurants,Credit Card
+01-14-2022,Lyft,20.33,debit,Travel expenses,Credit Card
+01-14-2022,Uber,19.2,debit,Travel expenses,Credit Card
+01-14-2022,Credit Transaction,150.64,credit,Dividends,Savings
+01-15-2022,Amazon,29.54,debit,Shopping,Credit Card
+01-15-2022,Uber,26.31,debit,Travel expenses,Credit Card
+01-15-2022,Credit Transaction,18.53,credit,Cashback Rewards,Savings
+01-17-2022,Ice skating,39.11,debit,Entertainment,Credit Card
+01-18-2022,Amazon,56.83,debit,Shopping,Credit Card
+01-18-2022,Credit Transaction,76.4,credit,Dividends,Savings
+01-18-2022,Temu,62.25,debit,Shopping,Credit Card
+01-19-2022,Boston Shawarma,65.66,debit,Restaurants,Credit Card
+01-19-2022,Uber,10.77,debit,Travel expenses,Credit Card
+01-22-2022,Stop and Shop,231.35,debit,Grocery shopping,Credit Card
+01-22-2022,Ace Hardware,212.58,debit,Grocery shopping,Credit Card
+01-22-2022,Dominos,45.0,debit,Restaurants,Credit Card
+01-23-2022,Ice skating,59.3,debit,Entertainment,Credit Card
+01-23-2022,Karaoke,22.74,debit,Entertainment,Credit Card
+01-24-2022,Credit Transaction,82.32,credit,Dividends,Savings
+01-24-2022,Temu,36.72,debit,Shopping,Credit Card
+01-24-2022,Uber,19.84,debit,Travel expenses,Credit Card
+01-24-2022,Credit Transaction,4.64,credit,Cashback Rewards,Savings
+01-25-2022,Credit Transaction,19.99,credit,Cashback Rewards,Savings
+01-25-2022,Lyft,27.2,debit,Travel expenses,Credit Card
+01-26-2022,Karaoke,70.52,debit,Entertainment,Credit Card
+01-26-2022,MBTA,24.3,debit,Travel expenses,Credit Card
+01-26-2022,Credit Transaction,7.69,credit,Cashback Rewards,Savings
+01-27-2022,MBTA,10.65,debit,Travel expenses,Credit Card
+01-29-2022,Stop and Shop,258.78,debit,Grocery shopping,Credit Card
+01-29-2022,Dominos,43.92,debit,Restaurants,Credit Card
+01-29-2022,Mall,77.01,debit,Shopping,Credit Card
+01-30-2022,Temu,48.57,debit,Shopping,Credit Card
+01-30-2022,Boston Shawarma,57.52,debit,Restaurants,Credit Card
+01-30-2022,Boston Halal,57.13,debit,Restaurants,Credit Card
+01-31-2022,StandUp show,66.77,debit,Entertainment,Credit Card
+01-31-2022,Boston Shawarma,36.27,debit,Restaurants,Credit Card
+01-31-2022,Boston Halal,28.86,debit,Restaurants,Credit Card
+02-01-2022,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+02-01-2022,Eversource Electricity,60.29,debit,Utilities,Checking
+02-01-2022,National Grid Gas,70.3,debit,Utilities,Checking
+02-01-2022,Heating fuel,170.61,debit,Utilities,Checking
+02-01-2022,Credit Transaction,3.35,credit,Cashback Rewards,Savings
+02-01-2022,Mall,59.38,debit,Shopping,Credit Card
+02-03-2022,Lyft,24.62,debit,Travel expenses,Credit Card
+02-03-2022,Boston Shawarma,67.34,debit,Restaurants,Credit Card
+02-04-2022,Lyft,22.55,debit,Travel expenses,Credit Card
+02-04-2022,MBTA,21.86,debit,Travel expenses,Credit Card
+02-04-2022,Credit Transaction,5.5,credit,Cashback Rewards,Savings
+02-04-2022,Dominos,40.94,debit,Restaurants,Credit Card
+02-06-2022,Dominos,54.71,debit,Restaurants,Credit Card
+02-06-2022,Karaoke,28.03,debit,Entertainment,Credit Card
+02-08-2022,Uber,21.72,debit,Travel expenses,Credit Card
+02-09-2022,Karaoke,29.63,debit,Entertainment,Credit Card
+02-09-2022,MBTA,16.71,debit,Travel expenses,Credit Card
+02-09-2022,Ice skating,65.07,debit,Entertainment,Credit Card
+02-09-2022,Boston Shawarma,74.45,debit,Restaurants,Credit Card
+02-10-2022,Amazon,48.47,debit,Shopping,Credit Card
+02-11-2022,Ace Hardware,200.14,debit,Grocery shopping,Credit Card
+02-11-2022,Credit Transaction,4.53,credit,Cashback Rewards,Savings
+02-13-2022,Mama-cita,80.08,debit,Restaurants,Credit Card
+02-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+02-14-2022,Dominos,81.73,debit,Restaurants,Credit Card
+02-14-2022,Uber,11.67,debit,Travel expenses,Credit Card
+02-14-2022,Boston Halal,41.32,debit,Restaurants,Credit Card
+02-14-2022,Mama-cita,66.97,debit,Restaurants,Credit Card
+02-14-2022,Credit Transaction,63.68,credit,Dividends,Savings
+02-15-2022,Amazon,36.15,debit,Shopping,Credit Card
+02-15-2022,AMC Boston,49.89,debit,Entertainment,Credit Card
+02-15-2022,Temu,70.59,debit,Shopping,Credit Card
+02-15-2022,Market Basket,179.39,debit,Grocery shopping,Credit Card
+02-16-2022,Temu,31.14,debit,Shopping,Credit Card
+02-18-2022,Credit Transaction,9.95,credit,Cashback Rewards,Savings
+02-19-2022,Dominos,53.88,debit,Restaurants,Credit Card
+02-21-2022,Temu,22.61,debit,Shopping,Credit Card
+02-21-2022,Mall,65.54,debit,Shopping,Credit Card
+02-21-2022,Karaoke,58.79,debit,Entertainment,Credit Card
+02-21-2022,Mama-cita,32.06,debit,Restaurants,Credit Card
+02-22-2022,Ice skating,46.06,debit,Entertainment,Credit Card
+02-22-2022,Mall,54.88,debit,Shopping,Credit Card
+02-23-2022,Mall,21.87,debit,Shopping,Credit Card
+02-24-2022,Boston Shawarma,26.3,debit,Restaurants,Credit Card
+02-25-2022,Temu,27.03,debit,Shopping,Credit Card
+02-25-2022,Lyft,18.43,debit,Travel expenses,Credit Card
+02-25-2022,Trader Joes,210.49,debit,Grocery shopping,Credit Card
+02-25-2022,Mall,71.19,debit,Shopping,Credit Card
+02-26-2022,Credit Transaction,14.94,credit,Cashback Rewards,Savings
+02-26-2022,Boston Shawarma,42.1,debit,Restaurants,Credit Card
+02-26-2022,Mall,50.59,debit,Shopping,Credit Card
+02-26-2022,Trader Joes,201.18,debit,Grocery shopping,Credit Card
+02-27-2022,Mama-cita,68.24,debit,Restaurants,Credit Card
+02-27-2022,AMC Boston,31.78,debit,Entertainment,Credit Card
+02-28-2022,Dominos,62.69,debit,Restaurants,Credit Card
+03-01-2022,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+03-01-2022,Eversource Electricity,58.42,debit,Utilities,Checking
+03-01-2022,National Grid Gas,57.62,debit,Utilities,Checking
+03-01-2022,Heating fuel,239.65,debit,Utilities,Checking
+03-04-2022,Trader Joes,206.33,debit,Grocery shopping,Credit Card
+03-05-2022,Boston Shawarma,38.97,debit,Restaurants,Credit Card
+03-07-2022,Market Basket,254.24,debit,Grocery shopping,Credit Card
+03-07-2022,Trader Joes,231.36,debit,Grocery shopping,Credit Card
+03-08-2022,Uber,26.96,debit,Travel expenses,Credit Card
+03-08-2022,MBTA,13.99,debit,Travel expenses,Credit Card
+03-09-2022,Mama-cita,62.31,debit,Restaurants,Credit Card
+03-09-2022,Amazon,67.43,debit,Shopping,Credit Card
+03-10-2022,Dominos,44.29,debit,Restaurants,Credit Card
+03-10-2022,Lyft,10.79,debit,Travel expenses,Credit Card
+03-11-2022,Karaoke,25.08,debit,Entertainment,Credit Card
+03-11-2022,Lyft,31.66,debit,Travel expenses,Credit Card
+03-11-2022,Temu,76.16,debit,Shopping,Credit Card
+03-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+03-13-2022,Dominos,83.11,debit,Restaurants,Credit Card
+03-14-2022,Karaoke,27.31,debit,Entertainment,Credit Card
+03-15-2022,Amazon,42.14,debit,Shopping,Credit Card
+03-15-2022,Mall,51.05,debit,Shopping,Credit Card
+03-16-2022,StandUp show,64.44,debit,Entertainment,Credit Card
+03-17-2022,Trader Joes,166.46,debit,Grocery shopping,Credit Card
+03-19-2022,Market Basket,211.56,debit,Grocery shopping,Credit Card
+03-21-2022,Dominos,46.56,debit,Restaurants,Credit Card
+03-22-2022,Dominos,36.6,debit,Restaurants,Credit Card
+03-24-2022,Stop and Shop,216.62,debit,Grocery shopping,Credit Card
+03-25-2022,Ice skating,51.72,debit,Entertainment,Credit Card
+03-25-2022,Dominos,54.06,debit,Restaurants,Credit Card
+03-26-2022,Amazon,80.03,debit,Shopping,Credit Card
+03-27-2022,Lyft,16.04,debit,Travel expenses,Credit Card
+03-28-2022,Lyft,16.68,debit,Travel expenses,Credit Card
+03-28-2022,Boston Shawarma,79.95,debit,Restaurants,Credit Card
+03-28-2022,Credit Transaction,14.5,credit,Cashback Rewards,Savings
+03-29-2022,StandUp show,48.02,debit,Entertainment,Credit Card
+03-30-2022,Boston Halal,82.07,debit,Restaurants,Credit Card
+03-30-2022,Boston Shawarma,36.25,debit,Restaurants,Credit Card
+03-31-2022,StandUp show,35.88,debit,Entertainment,Credit Card
+04-01-2022,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+04-01-2022,Eversource Electricity,79.03,debit,Utilities,Checking
+04-01-2022,National Grid Gas,71.05,debit,Utilities,Checking
+04-01-2022,Heating fuel,221.63,debit,Utilities,Checking
+04-01-2022,Ice skating,57.72,debit,Entertainment,Credit Card
+04-02-2022,Boston Halal,71.28,debit,Restaurants,Credit Card
+04-03-2022,Boston Shawarma,67.11,debit,Restaurants,Credit Card
+04-03-2022,Mama-cita,59.43,debit,Restaurants,Credit Card
+04-03-2022,Temu,45.62,debit,Shopping,Credit Card
+04-03-2022,Lyft,23.6,debit,Travel expenses,Credit Card
+04-04-2022,Uber,27.89,debit,Travel expenses,Credit Card
+04-04-2022,StandUp show,58.7,debit,Entertainment,Credit Card
+04-04-2022,Credit Transaction,65.78,credit,Dividends,Savings
+04-04-2022,Boston Shawarma,31.92,debit,Restaurants,Credit Card
+04-05-2022,Boston Halal,61.46,debit,Restaurants,Credit Card
+04-06-2022,Dominos,43.21,debit,Restaurants,Credit Card
+04-08-2022,Market Basket,172.51,debit,Grocery shopping,Credit Card
+04-08-2022,Dominos,40.34,debit,Restaurants,Credit Card
+04-09-2022,MBTA,10.98,debit,Travel expenses,Credit Card
+04-09-2022,Mall,73.97,debit,Shopping,Credit Card
+04-11-2022,Boston Shawarma,28.81,debit,Restaurants,Credit Card
+04-11-2022,Boston Halal,62.99,debit,Restaurants,Credit Card
+04-11-2022,MBTA,28.54,debit,Travel expenses,Credit Card
+04-11-2022,Lyft,13.66,debit,Travel expenses,Credit Card
+04-12-2022,Dominos,65.9,debit,Restaurants,Credit Card
+04-12-2022,Mall,45.7,debit,Shopping,Credit Card
+04-13-2022,MBTA,14.47,debit,Travel expenses,Credit Card
+04-13-2022,AMC Boston,33.64,debit,Entertainment,Credit Card
+04-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+04-14-2022,Mama-cita,74.26,debit,Restaurants,Credit Card
+04-16-2022,Dominos,44.33,debit,Restaurants,Credit Card
+04-16-2022,Ice skating,35.74,debit,Entertainment,Credit Card
+04-16-2022,Ace Hardware,219.03,debit,Grocery shopping,Credit Card
+04-16-2022,Credit Transaction,9.71,credit,Cashback Rewards,Savings
+04-17-2022,Credit Transaction,199.86,credit,Dividends,Savings
+04-18-2022,MBTA,19.27,debit,Travel expenses,Credit Card
+04-18-2022,Karaoke,29.84,debit,Entertainment,Credit Card
+04-19-2022,Uber,30.29,debit,Travel expenses,Credit Card
+04-19-2022,Mama-cita,54.68,debit,Restaurants,Credit Card
+04-20-2022,StandUp show,61.24,debit,Entertainment,Credit Card
+04-21-2022,Stop and Shop,185.1,debit,Grocery shopping,Credit Card
+04-22-2022,Market Basket,241.29,debit,Grocery shopping,Credit Card
+04-23-2022,MBTA,20.09,debit,Travel expenses,Credit Card
+04-23-2022,Karaoke,23.46,debit,Entertainment,Credit Card
+04-25-2022,Boston Shawarma,32.3,debit,Restaurants,Credit Card
+04-25-2022,Karaoke,70.21,debit,Entertainment,Credit Card
+04-26-2022,StandUp show,43.59,debit,Entertainment,Credit Card
+04-27-2022,Amazon,49.55,debit,Shopping,Credit Card
+04-27-2022,Lyft,13.77,debit,Travel expenses,Credit Card
+04-28-2022,AMC Boston,54.19,debit,Entertainment,Credit Card
+04-29-2022,Lyft,20.51,debit,Travel expenses,Credit Card
+04-29-2022,MBTA,12.82,debit,Travel expenses,Credit Card
+04-30-2022,Lyft,21.7,debit,Travel expenses,Credit Card
+04-30-2022,MBTA,29.28,debit,Travel expenses,Credit Card
+05-01-2022,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+05-01-2022,Eversource Electricity,51.07,debit,Utilities,Checking
+05-01-2022,National Grid Gas,78.44,debit,Utilities,Checking
+05-01-2022,Uber,14.87,debit,Travel expenses,Credit Card
+05-02-2022,Trader Joes,190.75,debit,Grocery shopping,Credit Card
+05-03-2022,Karaoke,66.4,debit,Entertainment,Credit Card
+05-03-2022,StandUp show,42.91,debit,Entertainment,Credit Card
+05-03-2022,Amazon,74.02,debit,Shopping,Credit Card
+05-04-2022,Amazon,34.75,debit,Shopping,Credit Card
+05-05-2022,Credit Transaction,59.22,credit,Dividends,Savings
+05-07-2022,Ace Hardware,185.94,debit,Grocery shopping,Credit Card
+05-07-2022,Lyft,23.24,debit,Travel expenses,Credit Card
+05-08-2022,Credit Transaction,5.26,credit,Cashback Rewards,Savings
+05-08-2022,Temu,33.11,debit,Shopping,Credit Card
+05-09-2022,Uber,26.3,debit,Travel expenses,Credit Card
+05-09-2022,Ace Hardware,164.8,debit,Grocery shopping,Credit Card
+05-09-2022,AMC Boston,46.37,debit,Entertainment,Credit Card
+05-09-2022,Market Basket,176.2,debit,Grocery shopping,Credit Card
+05-12-2022,Dominos,64.03,debit,Restaurants,Credit Card
+05-12-2022,Uber,15.18,debit,Travel expenses,Credit Card
+05-12-2022,Mall,47.81,debit,Shopping,Credit Card
+05-12-2022,Karaoke,47.39,debit,Entertainment,Credit Card
+05-13-2022,Dominos,48.08,debit,Restaurants,Credit Card
+05-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+05-15-2022,Lyft,25.45,debit,Travel expenses,Credit Card
+05-15-2022,Uber,28.62,debit,Travel expenses,Credit Card
+05-16-2022,Lyft,17.94,debit,Travel expenses,Credit Card
+05-16-2022,Ace Hardware,258.03,debit,Grocery shopping,Credit Card
+05-17-2022,Uber,27.85,debit,Travel expenses,Credit Card
+05-17-2022,Temu,31.84,debit,Shopping,Credit Card
+05-18-2022,MBTA,14.83,debit,Travel expenses,Credit Card
+05-19-2022,Mall,60.36,debit,Shopping,Credit Card
+05-19-2022,Amazon,38.86,debit,Shopping,Credit Card
+05-20-2022,Mama-cita,69.34,debit,Restaurants,Credit Card
+05-20-2022,Temu,25.43,debit,Shopping,Credit Card
+05-21-2022,Mama-cita,29.69,debit,Restaurants,Credit Card
+05-23-2022,Market Basket,202.78,debit,Grocery shopping,Credit Card
+05-23-2022,Boston Halal,53.44,debit,Restaurants,Credit Card
+05-23-2022,Lyft,23.34,debit,Travel expenses,Credit Card
+05-26-2022,Lyft,16.1,debit,Travel expenses,Credit Card
+05-26-2022,MBTA,27.12,debit,Travel expenses,Credit Card
+05-26-2022,Uber,28.49,debit,Travel expenses,Credit Card
+05-28-2022,Uber,29.59,debit,Travel expenses,Credit Card
+05-29-2022,Amazon,52.85,debit,Shopping,Credit Card
+05-29-2022,Market Basket,236.35,debit,Grocery shopping,Credit Card
+06-01-2022,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+06-01-2022,Eversource Electricity,64.95,debit,Utilities,Checking
+06-01-2022,National Grid Gas,53.16,debit,Utilities,Checking
+06-01-2022,Boston Shawarma,55.43,debit,Restaurants,Credit Card
+06-01-2022,Lyft,18.6,debit,Travel expenses,Credit Card
+06-01-2022,Mall,40.28,debit,Shopping,Credit Card
+06-02-2022,MBTA,21.63,debit,Travel expenses,Credit Card
+06-03-2022,Lyft,21.61,debit,Travel expenses,Credit Card
+06-03-2022,Credit Transaction,191.74,credit,Dividends,Savings
+06-04-2022,Dominos,81.2,debit,Restaurants,Credit Card
+06-04-2022,Trader Joes,209.42,debit,Grocery shopping,Credit Card
+06-04-2022,Stop and Shop,180.31,debit,Grocery shopping,Credit Card
+06-05-2022,Credit Transaction,5.71,credit,Cashback Rewards,Savings
+06-05-2022,Dominos,75.64,debit,Restaurants,Credit Card
+06-06-2022,Boston Shawarma,80.74,debit,Restaurants,Credit Card
+06-07-2022,Amazon,58.48,debit,Shopping,Credit Card
+06-08-2022,Dominos,69.02,debit,Restaurants,Credit Card
+06-08-2022,StandUp show,24.32,debit,Entertainment,Credit Card
+06-10-2022,Credit Transaction,4.64,credit,Cashback Rewards,Savings
+06-11-2022,Credit Transaction,19.01,credit,Cashback Rewards,Savings
+06-11-2022,Boston Shawarma,27.37,debit,Restaurants,Credit Card
+06-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+06-14-2022,Mall,75.33,debit,Shopping,Credit Card
+06-15-2022,Lyft,11.99,debit,Travel expenses,Credit Card
+06-15-2022,Uber,14.04,debit,Travel expenses,Credit Card
+06-15-2022,MBTA,30.64,debit,Travel expenses,Credit Card
+06-15-2022,AMC Boston,56.04,debit,Entertainment,Credit Card
+06-16-2022,Credit Transaction,7.08,credit,Cashback Rewards,Savings
+06-18-2022,Stop and Shop,187.88,debit,Grocery shopping,Credit Card
+06-19-2022,Stop and Shop,259.07,debit,Grocery shopping,Credit Card
+06-21-2022,Temu,55.59,debit,Shopping,Credit Card
+06-23-2022,Karaoke,28.87,debit,Entertainment,Credit Card
+06-24-2022,AMC Boston,21.44,debit,Entertainment,Credit Card
+06-24-2022,Karaoke,33.18,debit,Entertainment,Credit Card
+06-24-2022,StandUp show,34.9,debit,Entertainment,Credit Card
+06-25-2022,Lyft,21.16,debit,Travel expenses,Credit Card
+06-26-2022,StandUp show,24.96,debit,Entertainment,Credit Card
+06-26-2022,AMC Boston,64.73,debit,Entertainment,Credit Card
+06-27-2022,Trader Joes,203.42,debit,Grocery shopping,Credit Card
+06-27-2022,Temu,40.03,debit,Shopping,Credit Card
+06-28-2022,Karaoke,43.14,debit,Entertainment,Credit Card
+06-28-2022,Ice skating,63.75,debit,Entertainment,Credit Card
+06-28-2022,Boston Halal,46.28,debit,Restaurants,Credit Card
+06-28-2022,Amazon,36.89,debit,Shopping,Credit Card
+06-29-2022,Trader Joes,216.55,debit,Grocery shopping,Credit Card
+06-29-2022,Lyft,28.55,debit,Travel expenses,Credit Card
+06-29-2022,MBTA,22.95,debit,Travel expenses,Credit Card
+06-29-2022,Boston Halal,29.34,debit,Restaurants,Credit Card
+07-01-2022,Temu,49.74,debit,Shopping,Credit Card
+07-01-2022,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+07-01-2022,Eversource Electricity,72.55,debit,Utilities,Checking
+07-01-2022,National Grid Gas,58.35,debit,Utilities,Checking
+07-02-2022,Trader Joes,205.93,debit,Grocery shopping,Credit Card
+07-04-2022,Uber,12.53,debit,Travel expenses,Credit Card
+07-04-2022,Credit Transaction,7.91,credit,Cashback Rewards,Savings
+07-05-2022,AMC Boston,59.73,debit,Entertainment,Credit Card
+07-06-2022,AMC Boston,53.89,debit,Entertainment,Credit Card
+07-06-2022,Lyft,21.12,debit,Travel expenses,Credit Card
+07-07-2022,Market Basket,248.46,debit,Grocery shopping,Credit Card
+07-11-2022,MBTA,20.32,debit,Travel expenses,Credit Card
+07-11-2022,Uber,30.14,debit,Travel expenses,Credit Card
+07-11-2022,Trader Joes,254.82,debit,Grocery shopping,Credit Card
+07-13-2022,Dominos,79.41,debit,Restaurants,Credit Card
+07-13-2022,Uber,17.73,debit,Travel expenses,Credit Card
+07-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+07-14-2022,AMC Boston,31.55,debit,Entertainment,Credit Card
+07-14-2022,Uber,15.57,debit,Travel expenses,Credit Card
+07-15-2022,Karaoke,61.45,debit,Entertainment,Credit Card
+07-19-2022,Credit Transaction,188.3,credit,Dividends,Savings
+07-20-2022,Ace Hardware,201.93,debit,Grocery shopping,Credit Card
+07-20-2022,Lyft,13.68,debit,Travel expenses,Credit Card
+07-21-2022,Lyft,10.54,debit,Travel expenses,Credit Card
+07-21-2022,Temu,28.84,debit,Shopping,Credit Card
+07-21-2022,Amazon,28.55,debit,Shopping,Credit Card
+07-22-2022,Stop and Shop,201.74,debit,Grocery shopping,Credit Card
+07-22-2022,Temu,71.15,debit,Shopping,Credit Card
+07-23-2022,Dominos,57.35,debit,Restaurants,Credit Card
+07-24-2022,Boston Shawarma,38.66,debit,Restaurants,Credit Card
+07-24-2022,Temu,25.22,debit,Shopping,Credit Card
+07-25-2022,Temu,64.96,debit,Shopping,Credit Card
+07-26-2022,Boston Halal,38.09,debit,Restaurants,Credit Card
+07-26-2022,Mall,73.14,debit,Shopping,Credit Card
+07-27-2022,AMC Boston,21.83,debit,Entertainment,Credit Card
+07-27-2022,StandUp show,21.46,debit,Entertainment,Credit Card
+07-27-2022,Amazon,27.82,debit,Shopping,Credit Card
+07-28-2022,Ice skating,43.84,debit,Entertainment,Credit Card
+07-28-2022,StandUp show,48.78,debit,Entertainment,Credit Card
+07-30-2022,Boston Shawarma,70.67,debit,Restaurants,Credit Card
+07-30-2022,Mall,63.96,debit,Shopping,Credit Card
+07-31-2022,Ace Hardware,182.04,debit,Grocery shopping,Credit Card
+07-31-2022,Mall,32.69,debit,Shopping,Credit Card
+08-01-2022,Rent/ Mortgage,1600.0,debit,Mortgage & Rent,Savings
+08-01-2022,Eversource Electricity,52.11,debit,Utilities,Checking
+08-01-2022,National Grid Gas,54.92,debit,Utilities,Checking
+08-01-2022,Boston Shawarma,71.14,debit,Restaurants,Credit Card
+08-03-2022,Uber,20.3,debit,Travel expenses,Credit Card
+08-04-2022,Mama-cita,65.87,debit,Restaurants,Credit Card
+08-04-2022,Boston Halal,30.34,debit,Restaurants,Credit Card
+08-06-2022,Credit Transaction,14.28,credit,Cashback Rewards,Savings
+08-09-2022,Trader Joes,194.49,debit,Grocery shopping,Credit Card
+08-10-2022,Market Basket,241.58,debit,Grocery shopping,Credit Card
+08-10-2022,Ace Hardware,235.17,debit,Grocery shopping,Credit Card
+08-11-2022,Uber,28.78,debit,Travel expenses,Credit Card
+08-11-2022,MBTA,14.27,debit,Travel expenses,Credit Card
+08-11-2022,Amazon,40.28,debit,Shopping,Credit Card
+08-11-2022,Boston Halal,34.42,debit,Restaurants,Credit Card
+08-12-2022,Credit Transaction,3.48,credit,Cashback Rewards,Savings
+08-13-2022,Mama-cita,77.12,debit,Restaurants,Credit Card
+08-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+08-16-2022,Market Basket,204.74,debit,Grocery shopping,Credit Card
+08-17-2022,StandUp show,39.17,debit,Entertainment,Credit Card
+08-19-2022,Dominos,65.42,debit,Restaurants,Credit Card
+08-20-2022,Mall,65.66,debit,Shopping,Credit Card
+08-20-2022,Credit Transaction,17.23,credit,Cashback Rewards,Savings
+08-23-2022,Karaoke,39.16,debit,Entertainment,Credit Card
+08-24-2022,Ice skating,32.06,debit,Entertainment,Credit Card
+08-24-2022,Lyft,21.55,debit,Travel expenses,Credit Card
+08-26-2022,Boston Halal,77.32,debit,Restaurants,Credit Card
+08-26-2022,Boston Shawarma,51.74,debit,Restaurants,Credit Card
+08-27-2022,Boston Halal,41.43,debit,Restaurants,Credit Card
+08-27-2022,Market Basket,252.84,debit,Grocery shopping,Credit Card
+08-28-2022,Mama-cita,76.6,debit,Restaurants,Credit Card
+08-29-2022,AMC Boston,32.35,debit,Entertainment,Credit Card
+08-30-2022,MBTA,18.69,debit,Travel expenses,Credit Card
+08-30-2022,Market Basket,212.55,debit,Grocery shopping,Credit Card
+08-30-2022,Ace Hardware,189.24,debit,Grocery shopping,Credit Card
+08-31-2022,MBTA,27.69,debit,Travel expenses,Credit Card
+08-31-2022,Ice skating,49.59,debit,Entertainment,Credit Card
+09-01-2022,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+09-01-2022,Eversource Electricity,75.22,debit,Utilities,Checking
+09-01-2022,National Grid Gas,66.15,debit,Utilities,Checking
+09-03-2022,Uber,10.88,debit,Travel expenses,Credit Card
+09-05-2022,Trader Joes,169.8,debit,Grocery shopping,Credit Card
+09-05-2022,Temu,40.1,debit,Shopping,Credit Card
+09-05-2022,MBTA,25.29,debit,Travel expenses,Credit Card
+09-07-2022,Amazon,39.52,debit,Shopping,Credit Card
+09-08-2022,AMC Boston,71.8,debit,Entertainment,Credit Card
+09-08-2022,Boston Shawarma,62.06,debit,Restaurants,Credit Card
+09-08-2022,Credit Transaction,6.01,credit,Cashback Rewards,Savings
+09-08-2022,StandUp show,66.42,debit,Entertainment,Credit Card
+09-08-2022,Ice skating,67.84,debit,Entertainment,Credit Card
+09-09-2022,Credit Transaction,9.63,credit,Cashback Rewards,Savings
+09-09-2022,MBTA,27.35,debit,Travel expenses,Credit Card
+09-09-2022,Lyft,17.22,debit,Travel expenses,Credit Card
+09-09-2022,Credit Transaction,8.91,credit,Cashback Rewards,Savings
+09-09-2022,Uber,22.8,debit,Travel expenses,Credit Card
+09-10-2022,Boston Halal,68.21,debit,Restaurants,Credit Card
+09-10-2022,Boston Shawarma,33.97,debit,Restaurants,Credit Card
+09-11-2022,MBTA,18.94,debit,Travel expenses,Credit Card
+09-12-2022,Ice skating,53.44,debit,Entertainment,Credit Card
+09-12-2022,Credit Transaction,61.86,credit,Dividends,Savings
+09-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+09-14-2022,Uber,15.32,debit,Travel expenses,Credit Card
+09-15-2022,Boston Halal,64.25,debit,Restaurants,Credit Card
+09-15-2022,Temu,78.03,debit,Shopping,Credit Card
+09-15-2022,StandUp show,60.3,debit,Entertainment,Credit Card
+09-16-2022,Credit Transaction,167.03,credit,Dividends,Savings
+09-16-2022,Mama-cita,71.77,debit,Restaurants,Credit Card
+09-17-2022,Market Basket,221.77,debit,Grocery shopping,Credit Card
+09-17-2022,Lyft,17.28,debit,Travel expenses,Credit Card
+09-18-2022,Dominos,28.38,debit,Restaurants,Credit Card
+09-20-2022,Trader Joes,213.6,debit,Grocery shopping,Credit Card
+09-21-2022,Amazon,37.47,debit,Shopping,Credit Card
+09-22-2022,Mama-cita,30.48,debit,Restaurants,Credit Card
+09-23-2022,Trader Joes,225.64,debit,Grocery shopping,Credit Card
+09-23-2022,Boston Shawarma,45.92,debit,Restaurants,Credit Card
+09-23-2022,Mama-cita,50.7,debit,Restaurants,Credit Card
+09-24-2022,Credit Transaction,6.2,credit,Cashback Rewards,Savings
+09-25-2022,AMC Boston,56.37,debit,Entertainment,Credit Card
+09-26-2022,Boston Halal,42.46,debit,Restaurants,Credit Card
+09-29-2022,Lyft,27.2,debit,Travel expenses,Credit Card
+09-29-2022,Trader Joes,166.72,debit,Grocery shopping,Credit Card
+09-30-2022,Mama-cita,36.84,debit,Restaurants,Credit Card
+10-01-2022,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+10-01-2022,Eversource Electricity,77.48,debit,Utilities,Checking
+10-01-2022,National Grid Gas,67.18,debit,Utilities,Checking
+10-01-2022,Heating fuel,200.01,debit,Utilities,Checking
+10-04-2022,Boston Halal,54.09,debit,Restaurants,Credit Card
+10-04-2022,Mama-cita,32.17,debit,Restaurants,Credit Card
+10-05-2022,Mall,71.88,debit,Shopping,Credit Card
+10-05-2022,Ice skating,61.29,debit,Entertainment,Credit Card
+10-05-2022,Mama-cita,57.76,debit,Restaurants,Credit Card
+10-06-2022,Amazon,28.19,debit,Shopping,Credit Card
+10-06-2022,Dominos,31.12,debit,Restaurants,Credit Card
+10-07-2022,Temu,31.07,debit,Shopping,Credit Card
+10-08-2022,Boston Halal,61.81,debit,Restaurants,Credit Card
+10-09-2022,Uber,24.1,debit,Travel expenses,Credit Card
+10-10-2022,Lyft,20.39,debit,Travel expenses,Credit Card
+10-11-2022,Mama-cita,39.35,debit,Restaurants,Credit Card
+10-11-2022,Ace Hardware,180.88,debit,Grocery shopping,Credit Card
+10-12-2022,Uber,21.97,debit,Travel expenses,Credit Card
+10-12-2022,Mall,37.76,debit,Shopping,Credit Card
+10-12-2022,Boston Halal,45.92,debit,Restaurants,Credit Card
+10-13-2022,Monthly direct deposit - Salary,6427.0,credit,Salary,Savings
+10-13-2022,Credit Transaction,7.02,credit,Cashback Rewards,Savings
+10-14-2022,Lyft,30.8,debit,Travel expenses,Credit Card
+10-14-2022,Uber,17.88,debit,Travel expenses,Credit Card
+10-15-2022,Temu,59.49,debit,Shopping,Credit Card
+10-15-2022,Ice skating,26.11,debit,Entertainment,Credit Card
+10-15-2022,Uber,23.43,debit,Travel expenses,Credit Card
+10-16-2022,Uber,11.98,debit,Travel expenses,Credit Card
+10-16-2022,Temu,36.64,debit,Shopping,Credit Card
+10-17-2022,Uber,11.63,debit,Travel expenses,Credit Card
+10-20-2022,Boston Halal,41.53,debit,Restaurants,Credit Card
+10-21-2022,MBTA,17.98,debit,Travel expenses,Credit Card
+10-21-2022,Boston Shawarma,70.16,debit,Restaurants,Credit Card
+10-21-2022,Boston Halal,43.77,debit,Restaurants,Credit Card
+10-22-2022,Uber,29.08,debit,Travel expenses,Credit Card
+10-22-2022,Mall,74.66,debit,Shopping,Credit Card
+10-23-2022,Lyft,28.97,debit,Travel expenses,Credit Card
+10-23-2022,Ace Hardware,179.73,debit,Grocery shopping,Credit Card
+10-23-2022,Mall,42.73,debit,Shopping,Credit Card
+10-24-2022,Trader Joes,232.65,debit,Grocery shopping,Credit Card
+10-25-2022,Boston Shawarma,56.73,debit,Restaurants,Credit Card
+10-25-2022,Amazon,34.91,debit,Shopping,Credit Card
+10-25-2022,Mall,56.72,debit,Shopping,Credit Card
+10-26-2022,MBTA,16.53,debit,Travel expenses,Credit Card
+10-26-2022,Dominos,60.13,debit,Restaurants,Credit Card
+10-27-2022,Lyft,18.77,debit,Travel expenses,Credit Card
+10-27-2022,MBTA,21.7,debit,Travel expenses,Credit Card
+10-27-2022,Ice skating,59.79,debit,Entertainment,Credit Card
+10-27-2022,Boston Halal,47.56,debit,Restaurants,Credit Card
+10-27-2022,Mama-cita,60.61,debit,Restaurants,Credit Card
+10-28-2022,Mama-cita,34.3,debit,Restaurants,Credit Card
+10-30-2022,Amazon,21.66,debit,Shopping,Credit Card
+10-30-2022,Lyft,26.15,debit,Travel expenses,Credit Card
+11-01-2022,Credit Transaction,100.61,credit,Dividends,Savings
+11-01-2022,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+11-01-2022,Eversource Electricity,63.32,debit,Utilities,Checking
+11-01-2022,National Grid Gas,74.88,debit,Utilities,Checking
+11-01-2022,Heating fuel,204.13,debit,Utilities,Checking
+11-01-2022,Stop and Shop,254.87,debit,Grocery shopping,Credit Card
+11-01-2022,MBTA,13.38,debit,Travel expenses,Credit Card
+11-01-2022,Trader Joes,211.43,debit,Grocery shopping,Credit Card
+11-02-2022,Karaoke,36.98,debit,Entertainment,Credit Card
+11-03-2022,Credit Transaction,16.25,credit,Cashback Rewards,Savings
+11-03-2022,Boston Halal,48.3,debit,Restaurants,Credit Card
+11-03-2022,Dominos,30.53,debit,Restaurants,Credit Card
+11-03-2022,Amazon,22.52,debit,Shopping,Credit Card
+11-03-2022,AMC Boston,31.02,debit,Entertainment,Credit Card
+11-04-2022,Boston Shawarma,60.36,debit,Restaurants,Credit Card
+11-06-2022,Amazon,41.78,debit,Shopping,Credit Card
+11-06-2022,AMC Boston,32.91,debit,Entertainment,Credit Card
+11-06-2022,Mall,49.87,debit,Shopping,Credit Card
+11-06-2022,Ice skating,44.08,debit,Entertainment,Credit Card
+11-07-2022,Amazon,78.76,debit,Shopping,Credit Card
+11-07-2022,MBTA,25.7,debit,Travel expenses,Credit Card
+11-09-2022,AMC Boston,62.08,debit,Entertainment,Credit Card
+11-10-2022,Credit Transaction,19.1,credit,Cashback Rewards,Savings
+11-11-2022,Amazon,24.86,debit,Shopping,Credit Card
+11-12-2022,Market Basket,242.87,debit,Grocery shopping,Credit Card
+11-12-2022,Mama-cita,78.56,debit,Restaurants,Credit Card
+11-13-2022,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+11-13-2022,Mall,80.4,debit,Shopping,Credit Card
+11-14-2022,MBTA,29.58,debit,Travel expenses,Credit Card
+11-15-2022,Uber,18.35,debit,Travel expenses,Credit Card
+11-16-2022,StandUp show,48.36,debit,Entertainment,Credit Card
+11-17-2022,Ace Hardware,258.66,debit,Grocery shopping,Credit Card
+11-18-2022,Credit Transaction,17.18,credit,Cashback Rewards,Savings
+11-18-2022,Dominos,40.54,debit,Restaurants,Credit Card
+11-19-2022,Dominos,42.98,debit,Restaurants,Credit Card
+11-21-2022,Dominos,33.61,debit,Restaurants,Credit Card
+11-21-2022,Boston Shawarma,33.52,debit,Restaurants,Credit Card
+11-22-2022,MBTA,11.93,debit,Travel expenses,Credit Card
+11-22-2022,Credit Transaction,51.97,credit,Dividends,Savings
+11-22-2022,Uber,28.22,debit,Travel expenses,Credit Card
+11-23-2022,Uber,25.14,debit,Travel expenses,Credit Card
+11-23-2022,Stop and Shop,203.05,debit,Grocery shopping,Credit Card
+11-24-2022,Credit Transaction,12.72,credit,Cashback Rewards,Savings
+11-24-2022,AMC Boston,51.74,debit,Entertainment,Credit Card
+11-26-2022,Lyft,13.64,debit,Travel expenses,Credit Card
+11-28-2022,StandUp show,64.03,debit,Entertainment,Credit Card
+11-29-2022,Credit Transaction,7.11,credit,Cashback Rewards,Savings
+11-30-2022,Karaoke,44.49,debit,Entertainment,Credit Card
+11-30-2022,Dominos,59.89,debit,Restaurants,Credit Card
+12-01-2022,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+12-01-2022,Eversource Electricity,55.73,debit,Utilities,Checking
+12-01-2022,National Grid Gas,52.29,debit,Utilities,Checking
+12-01-2022,Heating fuel,223.06,debit,Utilities,Checking
+12-01-2022,Dominos,34.51,debit,Restaurants,Credit Card
+12-01-2022,Lyft,23.18,debit,Travel expenses,Credit Card
+12-02-2022,Mama-cita,69.96,debit,Restaurants,Credit Card
+12-04-2022,AMC Boston,28.0,debit,Entertainment,Credit Card
+12-05-2022,Ice skating,40.97,debit,Entertainment,Credit Card
+12-06-2022,Credit Transaction,11.3,credit,Cashback Rewards,Savings
+12-08-2022,Boston Halal,30.03,debit,Restaurants,Credit Card
+12-08-2022,Credit Transaction,100.6,credit,Dividends,Savings
+12-08-2022,MBTA,14.08,debit,Travel expenses,Credit Card
+12-09-2022,MBTA,10.4,debit,Travel expenses,Credit Card
+12-09-2022,StandUp show,35.28,debit,Entertainment,Credit Card
+12-09-2022,Lyft,25.25,debit,Travel expenses,Credit Card
+12-11-2022,MBTA,30.34,debit,Travel expenses,Credit Card
+12-11-2022,Trader Joes,177.85,debit,Grocery shopping,Credit Card
+12-11-2022,Lyft,16.83,debit,Travel expenses,Credit Card
+12-13-2022,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+12-14-2022,Mall,64.38,debit,Shopping,Credit Card
+12-14-2022,Uber,14.82,debit,Travel expenses,Credit Card
+12-15-2022,Ice skating,52.35,debit,Entertainment,Credit Card
+12-15-2022,MBTA,25.24,debit,Travel expenses,Credit Card
+12-16-2022,Karaoke,71.06,debit,Entertainment,Credit Card
+12-16-2022,Dominos,79.12,debit,Restaurants,Credit Card
+12-16-2022,StandUp show,30.35,debit,Entertainment,Credit Card
+12-17-2022,Credit Transaction,13.95,credit,Cashback Rewards,Savings
+12-17-2022,StandUp show,69.84,debit,Entertainment,Credit Card
+12-18-2022,Lyft,25.46,debit,Travel expenses,Credit Card
+12-18-2022,Trader Joes,202.41,debit,Grocery shopping,Credit Card
+12-19-2022,Mama-cita,58.59,debit,Restaurants,Credit Card
+12-20-2022,Karaoke,61.12,debit,Entertainment,Credit Card
+12-20-2022,Trader Joes,169.49,debit,Grocery shopping,Credit Card
+12-21-2022,Market Basket,208.32,debit,Grocery shopping,Credit Card
+12-22-2022,Market Basket,232.64,debit,Grocery shopping,Credit Card
+12-23-2022,Mama-cita,67.16,debit,Restaurants,Credit Card
+12-23-2022,Dominos,41.69,debit,Restaurants,Credit Card
+12-24-2022,Amazon,45.4,debit,Shopping,Credit Card
+12-25-2022,Mall,48.52,debit,Shopping,Credit Card
+12-26-2022,AMC Boston,56.46,debit,Entertainment,Credit Card
+12-26-2022,Credit Transaction,10.18,credit,Cashback Rewards,Savings
+12-28-2022,Ace Hardware,221.09,debit,Grocery shopping,Credit Card
+12-28-2022,Amazon,34.69,debit,Shopping,Credit Card
+12-29-2022,Lyft,29.82,debit,Travel expenses,Credit Card
+12-30-2022,Mall,44.62,debit,Shopping,Credit Card
+01-01-2023,Mama-cita,49.72,debit,Restaurants,Credit Card
+01-01-2023,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+01-01-2023,Eversource Electricity,74.5,debit,Utilities,Checking
+01-01-2023,National Grid Gas,79.53,debit,Utilities,Checking
+01-01-2023,Heating fuel,192.87,debit,Utilities,Checking
+01-01-2023,Uber,11.59,debit,Travel expenses,Credit Card
+01-01-2023,Karaoke,50.39,debit,Entertainment,Credit Card
+01-04-2023,Ace Hardware,257.26,debit,Grocery shopping,Credit Card
+01-04-2023,Uber,31.09,debit,Travel expenses,Credit Card
+01-05-2023,Amazon,50.64,debit,Shopping,Credit Card
+01-06-2023,Ice skating,56.8,debit,Entertainment,Credit Card
+01-07-2023,Mama-cita,33.97,debit,Restaurants,Credit Card
+01-08-2023,Boston Halal,82.75,debit,Restaurants,Credit Card
+01-10-2023,Lyft,18.02,debit,Travel expenses,Credit Card
+01-11-2023,Credit Transaction,6.33,credit,Cashback Rewards,Savings
+01-11-2023,Ace Hardware,225.43,debit,Grocery shopping,Credit Card
+01-12-2023,Mama-cita,43.12,debit,Restaurants,Credit Card
+01-12-2023,Credit Transaction,17.98,credit,Cashback Rewards,Savings
+01-12-2023,MBTA,23.1,debit,Travel expenses,Credit Card
+01-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+01-13-2023,Amazon,58.16,debit,Shopping,Credit Card
+01-13-2023,Mall,65.7,debit,Shopping,Credit Card
+01-14-2023,Temu,43.19,debit,Shopping,Credit Card
+01-14-2023,Stop and Shop,163.82,debit,Grocery shopping,Credit Card
+01-15-2023,Trader Joes,234.52,debit,Grocery shopping,Credit Card
+01-15-2023,Uber,21.67,debit,Travel expenses,Credit Card
+01-15-2023,Boston Shawarma,75.86,debit,Restaurants,Credit Card
+01-16-2023,MBTA,13.55,debit,Travel expenses,Credit Card
+01-17-2023,Credit Transaction,168.04,credit,Dividends,Savings
+01-17-2023,Stop and Shop,226.98,debit,Grocery shopping,Credit Card
+01-22-2023,Credit Transaction,14.22,credit,Cashback Rewards,Savings
+01-23-2023,Boston Halal,73.63,debit,Restaurants,Credit Card
+01-25-2023,Mall,41.76,debit,Shopping,Credit Card
+01-26-2023,Mall,30.52,debit,Shopping,Credit Card
+01-26-2023,MBTA,14.04,debit,Travel expenses,Credit Card
+01-27-2023,Market Basket,176.59,debit,Grocery shopping,Credit Card
+01-27-2023,Ace Hardware,247.45,debit,Grocery shopping,Credit Card
+01-27-2023,Credit Transaction,5.89,credit,Cashback Rewards,Savings
+01-29-2023,StandUp show,30.8,debit,Entertainment,Credit Card
+01-30-2023,Credit Transaction,3.12,credit,Cashback Rewards,Savings
+01-31-2023,Lyft,13.54,debit,Travel expenses,Credit Card
+01-31-2023,MBTA,11.54,debit,Travel expenses,Credit Card
+02-01-2023,Lyft,17.34,debit,Travel expenses,Credit Card
+02-01-2023,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+02-01-2023,Eversource Electricity,76.35,debit,Utilities,Checking
+02-01-2023,National Grid Gas,73.19,debit,Utilities,Checking
+02-01-2023,Heating fuel,203.44,debit,Utilities,Checking
+02-02-2023,Amazon,79.97,debit,Shopping,Credit Card
+02-02-2023,Boston Shawarma,81.5,debit,Restaurants,Credit Card
+02-03-2023,AMC Boston,60.38,debit,Entertainment,Credit Card
+02-03-2023,Trader Joes,236.64,debit,Grocery shopping,Credit Card
+02-04-2023,Stop and Shop,172.86,debit,Grocery shopping,Credit Card
+02-04-2023,Mama-cita,31.55,debit,Restaurants,Credit Card
+02-05-2023,Boston Halal,60.58,debit,Restaurants,Credit Card
+02-06-2023,MBTA,29.28,debit,Travel expenses,Credit Card
+02-06-2023,Uber,12.01,debit,Travel expenses,Credit Card
+02-09-2023,AMC Boston,28.72,debit,Entertainment,Credit Card
+02-09-2023,Lyft,19.92,debit,Travel expenses,Credit Card
+02-09-2023,Mall,70.02,debit,Shopping,Credit Card
+02-10-2023,Boston Halal,43.42,debit,Restaurants,Credit Card
+02-10-2023,Mall,82.1,debit,Shopping,Credit Card
+02-10-2023,Dominos,79.97,debit,Restaurants,Credit Card
+02-10-2023,Amazon,32.57,debit,Shopping,Credit Card
+02-10-2023,StandUp show,38.66,debit,Entertainment,Credit Card
+02-11-2023,Mama-cita,37.85,debit,Restaurants,Credit Card
+02-13-2023,StandUp show,56.25,debit,Entertainment,Credit Card
+02-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+02-13-2023,Mall,77.31,debit,Shopping,Credit Card
+02-13-2023,AMC Boston,27.06,debit,Entertainment,Credit Card
+02-14-2023,Temu,40.86,debit,Shopping,Credit Card
+02-14-2023,MBTA,11.72,debit,Travel expenses,Credit Card
+02-14-2023,Uber,10.48,debit,Travel expenses,Credit Card
+02-15-2023,Uber,24.17,debit,Travel expenses,Credit Card
+02-15-2023,Boston Shawarma,67.44,debit,Restaurants,Credit Card
+02-16-2023,Mall,63.59,debit,Shopping,Credit Card
+02-16-2023,Trader Joes,191.94,debit,Grocery shopping,Credit Card
+02-17-2023,Boston Halal,80.84,debit,Restaurants,Credit Card
+02-17-2023,Lyft,15.94,debit,Travel expenses,Credit Card
+02-18-2023,Dominos,69.7,debit,Restaurants,Credit Card
+02-19-2023,Uber,19.71,debit,Travel expenses,Credit Card
+02-19-2023,Ice skating,52.84,debit,Entertainment,Credit Card
+02-21-2023,Dominos,68.97,debit,Restaurants,Credit Card
+02-22-2023,MBTA,25.85,debit,Travel expenses,Credit Card
+02-23-2023,Temu,44.14,debit,Shopping,Credit Card
+02-24-2023,Mama-cita,69.62,debit,Restaurants,Credit Card
+02-25-2023,Credit Transaction,11.67,credit,Cashback Rewards,Savings
+02-26-2023,Mama-cita,40.32,debit,Restaurants,Credit Card
+02-26-2023,AMC Boston,24.22,debit,Entertainment,Credit Card
+02-27-2023,Dominos,42.39,debit,Restaurants,Credit Card
+02-27-2023,Boston Shawarma,65.51,debit,Restaurants,Credit Card
+02-27-2023,Mall,21.84,debit,Shopping,Credit Card
+02-27-2023,Uber,18.41,debit,Travel expenses,Credit Card
+02-28-2023,Ice skating,23.29,debit,Entertainment,Credit Card
+03-01-2023,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+03-01-2023,Eversource Electricity,73.73,debit,Utilities,Checking
+03-01-2023,National Grid Gas,75.64,debit,Utilities,Checking
+03-01-2023,Heating fuel,168.11,debit,Utilities,Checking
+03-01-2023,Boston Halal,28.62,debit,Restaurants,Credit Card
+03-01-2023,Lyft,22.03,debit,Travel expenses,Credit Card
+03-02-2023,Uber,31.12,debit,Travel expenses,Credit Card
+03-03-2023,Credit Transaction,19.87,credit,Cashback Rewards,Savings
+03-03-2023,Amazon,58.08,debit,Shopping,Credit Card
+03-03-2023,Boston Shawarma,62.69,debit,Restaurants,Credit Card
+03-03-2023,Credit Transaction,9.27,credit,Cashback Rewards,Savings
+03-04-2023,Boston Halal,48.77,debit,Restaurants,Credit Card
+03-04-2023,MBTA,31.3,debit,Travel expenses,Credit Card
+03-07-2023,Credit Transaction,7.68,credit,Cashback Rewards,Savings
+03-07-2023,StandUp show,65.41,debit,Entertainment,Credit Card
+03-07-2023,Uber,13.47,debit,Travel expenses,Credit Card
+03-08-2023,Credit Transaction,14.95,credit,Cashback Rewards,Savings
+03-08-2023,StandUp show,42.26,debit,Entertainment,Credit Card
+03-09-2023,Lyft,23.7,debit,Travel expenses,Credit Card
+03-09-2023,Dominos,51.85,debit,Restaurants,Credit Card
+03-13-2023,Lyft,14.81,debit,Travel expenses,Credit Card
+03-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+03-14-2023,Credit Transaction,4.52,credit,Cashback Rewards,Savings
+03-14-2023,Mama-cita,60.89,debit,Restaurants,Credit Card
+03-15-2023,Boston Halal,41.73,debit,Restaurants,Credit Card
+03-15-2023,MBTA,23.5,debit,Travel expenses,Credit Card
+03-16-2023,Mama-cita,72.24,debit,Restaurants,Credit Card
+03-16-2023,Ace Hardware,216.93,debit,Grocery shopping,Credit Card
+03-16-2023,Dominos,41.03,debit,Restaurants,Credit Card
+03-17-2023,Trader Joes,228.61,debit,Grocery shopping,Credit Card
+03-17-2023,Temu,53.05,debit,Shopping,Credit Card
+03-20-2023,Stop and Shop,243.56,debit,Grocery shopping,Credit Card
+03-21-2023,Boston Halal,46.25,debit,Restaurants,Credit Card
+03-21-2023,Uber,21.53,debit,Travel expenses,Credit Card
+03-21-2023,Trader Joes,185.81,debit,Grocery shopping,Credit Card
+03-22-2023,Dominos,50.88,debit,Restaurants,Credit Card
+03-23-2023,Boston Shawarma,83.1,debit,Restaurants,Credit Card
+03-24-2023,Uber,18.32,debit,Travel expenses,Credit Card
+03-25-2023,Amazon,44.83,debit,Shopping,Credit Card
+03-27-2023,Lyft,29.18,debit,Travel expenses,Credit Card
+03-27-2023,MBTA,20.41,debit,Travel expenses,Credit Card
+03-27-2023,Boston Shawarma,74.53,debit,Restaurants,Credit Card
+03-29-2023,StandUp show,34.45,debit,Entertainment,Credit Card
+03-29-2023,Boston Halal,43.82,debit,Restaurants,Credit Card
+03-30-2023,Temu,54.91,debit,Shopping,Credit Card
+03-30-2023,Mall,76.85,debit,Shopping,Credit Card
+03-31-2023,Market Basket,230.64,debit,Grocery shopping,Credit Card
+03-31-2023,Lyft,16.47,debit,Travel expenses,Credit Card
+04-01-2023,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+04-01-2023,Eversource Electricity,68.14,debit,Utilities,Checking
+04-01-2023,National Grid Gas,79.64,debit,Utilities,Checking
+04-01-2023,Heating fuel,170.11,debit,Utilities,Checking
+04-01-2023,Mall,27.51,debit,Shopping,Credit Card
+04-02-2023,Temu,78.89,debit,Shopping,Credit Card
+04-02-2023,Credit Transaction,6.93,credit,Cashback Rewards,Savings
+04-03-2023,Amazon,62.32,debit,Shopping,Credit Card
+04-03-2023,Karaoke,50.64,debit,Entertainment,Credit Card
+04-04-2023,AMC Boston,22.79,debit,Entertainment,Credit Card
+04-05-2023,Mama-cita,31.8,debit,Restaurants,Credit Card
+04-05-2023,MBTA,24.59,debit,Travel expenses,Credit Card
+04-06-2023,AMC Boston,38.4,debit,Entertainment,Credit Card
+04-07-2023,Mama-cita,73.64,debit,Restaurants,Credit Card
+04-07-2023,Ace Hardware,238.59,debit,Grocery shopping,Credit Card
+04-08-2023,Boston Shawarma,77.47,debit,Restaurants,Credit Card
+04-08-2023,Ace Hardware,175.78,debit,Grocery shopping,Credit Card
+04-09-2023,Temu,66.85,debit,Shopping,Credit Card
+04-09-2023,Karaoke,23.08,debit,Entertainment,Credit Card
+04-09-2023,Market Basket,173.6,debit,Grocery shopping,Credit Card
+04-10-2023,Uber,11.02,debit,Travel expenses,Credit Card
+04-10-2023,Karaoke,32.08,debit,Entertainment,Credit Card
+04-11-2023,Mall,44.07,debit,Shopping,Credit Card
+04-11-2023,Dominos,46.44,debit,Restaurants,Credit Card
+04-12-2023,Temu,21.12,debit,Shopping,Credit Card
+04-12-2023,Mama-cita,45.45,debit,Restaurants,Credit Card
+04-12-2023,Credit Transaction,19.58,credit,Cashback Rewards,Savings
+04-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+04-14-2023,MBTA,30.43,debit,Travel expenses,Credit Card
+04-15-2023,Market Basket,210.55,debit,Grocery shopping,Credit Card
+04-16-2023,Trader Joes,180.68,debit,Grocery shopping,Credit Card
+04-22-2023,Karaoke,63.29,debit,Entertainment,Credit Card
+04-22-2023,Stop and Shop,163.44,debit,Grocery shopping,Credit Card
+04-23-2023,Uber,16.96,debit,Travel expenses,Credit Card
+04-24-2023,Ace Hardware,153.69,debit,Grocery shopping,Credit Card
+04-25-2023,Stop and Shop,234.07,debit,Grocery shopping,Credit Card
+04-25-2023,Temu,54.73,debit,Shopping,Credit Card
+04-26-2023,Credit Transaction,85.28,credit,Dividends,Savings
+04-29-2023,Credit Transaction,11.41,credit,Cashback Rewards,Savings
+04-30-2023,Mall,35.11,debit,Shopping,Credit Card
+05-01-2023,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+05-01-2023,Eversource Electricity,62.77,debit,Utilities,Checking
+05-01-2023,National Grid Gas,73.83,debit,Utilities,Checking
+05-01-2023,Karaoke,70.61,debit,Entertainment,Credit Card
+05-01-2023,Temu,22.44,debit,Shopping,Credit Card
+05-02-2023,Uber,10.64,debit,Travel expenses,Credit Card
+05-02-2023,Trader Joes,246.83,debit,Grocery shopping,Credit Card
+05-03-2023,Boston Shawarma,40.44,debit,Restaurants,Credit Card
+05-03-2023,Dominos,69.31,debit,Restaurants,Credit Card
+05-03-2023,Mama-cita,54.58,debit,Restaurants,Credit Card
+05-04-2023,Ice skating,43.54,debit,Entertainment,Credit Card
+05-05-2023,Market Basket,173.72,debit,Grocery shopping,Credit Card
+05-06-2023,Uber,13.45,debit,Travel expenses,Credit Card
+05-06-2023,Lyft,12.66,debit,Travel expenses,Credit Card
+05-06-2023,Boston Shawarma,50.03,debit,Restaurants,Credit Card
+05-06-2023,Market Basket,160.49,debit,Grocery shopping,Credit Card
+05-07-2023,Boston Shawarma,30.4,debit,Restaurants,Credit Card
+05-07-2023,Karaoke,33.27,debit,Entertainment,Credit Card
+05-07-2023,Uber,19.68,debit,Travel expenses,Credit Card
+05-07-2023,Dominos,30.17,debit,Restaurants,Credit Card
+05-08-2023,Dominos,53.57,debit,Restaurants,Credit Card
+05-09-2023,Credit Transaction,14.32,credit,Cashback Rewards,Savings
+05-11-2023,Boston Shawarma,46.03,debit,Restaurants,Credit Card
+05-11-2023,Boston Halal,64.65,debit,Restaurants,Credit Card
+05-12-2023,Credit Transaction,14.57,credit,Cashback Rewards,Savings
+05-13-2023,MBTA,15.07,debit,Travel expenses,Credit Card
+05-13-2023,Temu,84.43,debit,Shopping,Credit Card
+05-13-2023,Credit Transaction,19.25,credit,Cashback Rewards,Savings
+05-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+05-14-2023,MBTA,21.83,debit,Travel expenses,Credit Card
+05-14-2023,Ice skating,61.85,debit,Entertainment,Credit Card
+05-15-2023,MBTA,26.76,debit,Travel expenses,Credit Card
+05-16-2023,Uber,19.83,debit,Travel expenses,Credit Card
+05-16-2023,Credit Transaction,129.13,credit,Dividends,Savings
+05-18-2023,Temu,75.24,debit,Shopping,Credit Card
+05-20-2023,Credit Transaction,17.22,credit,Cashback Rewards,Savings
+05-21-2023,Uber,23.6,debit,Travel expenses,Credit Card
+05-21-2023,Trader Joes,179.9,debit,Grocery shopping,Credit Card
+05-21-2023,Stop and Shop,165.63,debit,Grocery shopping,Credit Card
+05-22-2023,MBTA,12.34,debit,Travel expenses,Credit Card
+05-22-2023,Credit Transaction,17.17,credit,Cashback Rewards,Savings
+05-24-2023,Lyft,20.91,debit,Travel expenses,Credit Card
+05-25-2023,Dominos,28.13,debit,Restaurants,Credit Card
+05-26-2023,Trader Joes,227.97,debit,Grocery shopping,Credit Card
+05-29-2023,Karaoke,35.3,debit,Entertainment,Credit Card
+05-30-2023,Amazon,66.75,debit,Shopping,Credit Card
+05-30-2023,Dominos,62.3,debit,Restaurants,Credit Card
+05-31-2023,Karaoke,52.53,debit,Entertainment,Credit Card
+05-31-2023,MBTA,22.24,debit,Travel expenses,Credit Card
+06-01-2023,Mama-cita,79.89,debit,Restaurants,Credit Card
+06-01-2023,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+06-01-2023,Eversource Electricity,59.32,debit,Utilities,Checking
+06-01-2023,National Grid Gas,68.25,debit,Utilities,Checking
+06-01-2023,Mall,30.92,debit,Shopping,Credit Card
+06-01-2023,Dominos,70.29,debit,Restaurants,Credit Card
+06-02-2023,Boston Shawarma,47.95,debit,Restaurants,Credit Card
+06-03-2023,Amazon,38.93,debit,Shopping,Credit Card
+06-03-2023,Lyft,29.91,debit,Travel expenses,Credit Card
+06-07-2023,Boston Halal,70.61,debit,Restaurants,Credit Card
+06-07-2023,Mall,48.06,debit,Shopping,Credit Card
+06-07-2023,Amazon,41.24,debit,Shopping,Credit Card
+06-07-2023,Boston Shawarma,39.21,debit,Restaurants,Credit Card
+06-08-2023,Dominos,37.8,debit,Restaurants,Credit Card
+06-08-2023,Credit Transaction,70.19,credit,Dividends,Savings
+06-09-2023,MBTA,23.57,debit,Travel expenses,Credit Card
+06-09-2023,Karaoke,53.39,debit,Entertainment,Credit Card
+06-12-2023,Dominos,47.98,debit,Restaurants,Credit Card
+06-12-2023,Boston Halal,75.63,debit,Restaurants,Credit Card
+06-13-2023,Dominos,65.29,debit,Restaurants,Credit Card
+06-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+06-15-2023,Trader Joes,226.92,debit,Grocery shopping,Credit Card
+06-16-2023,Ace Hardware,217.72,debit,Grocery shopping,Credit Card
+06-17-2023,Mall,47.18,debit,Shopping,Credit Card
+06-19-2023,Dominos,78.39,debit,Restaurants,Credit Card
+06-19-2023,Mama-cita,58.35,debit,Restaurants,Credit Card
+06-19-2023,Boston Shawarma,33.46,debit,Restaurants,Credit Card
+06-20-2023,Boston Shawarma,30.66,debit,Restaurants,Credit Card
+06-21-2023,Mall,35.22,debit,Shopping,Credit Card
+06-22-2023,Boston Shawarma,82.94,debit,Restaurants,Credit Card
+06-22-2023,AMC Boston,36.9,debit,Entertainment,Credit Card
+06-23-2023,MBTA,17.62,debit,Travel expenses,Credit Card
+06-24-2023,Credit Transaction,11.76,credit,Cashback Rewards,Savings
+06-24-2023,Ace Hardware,187.24,debit,Grocery shopping,Credit Card
+06-24-2023,Credit Transaction,10.97,credit,Cashback Rewards,Savings
+06-24-2023,Credit Transaction,5.22,credit,Cashback Rewards,Savings
+06-25-2023,Mama-cita,43.98,debit,Restaurants,Credit Card
+06-25-2023,MBTA,10.66,debit,Travel expenses,Credit Card
+06-26-2023,Mama-cita,31.22,debit,Restaurants,Credit Card
+06-26-2023,Trader Joes,238.22,debit,Grocery shopping,Credit Card
+06-26-2023,MBTA,22.96,debit,Travel expenses,Credit Card
+06-27-2023,Ace Hardware,235.31,debit,Grocery shopping,Credit Card
+06-28-2023,AMC Boston,27.91,debit,Entertainment,Credit Card
+07-01-2023,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+07-01-2023,Eversource Electricity,78.45,debit,Utilities,Checking
+07-01-2023,National Grid Gas,77.3,debit,Utilities,Checking
+07-01-2023,Boston Halal,73.02,debit,Restaurants,Credit Card
+07-02-2023,Stop and Shop,165.33,debit,Grocery shopping,Credit Card
+07-04-2023,Boston Shawarma,58.15,debit,Restaurants,Credit Card
+07-06-2023,MBTA,28.04,debit,Travel expenses,Credit Card
+07-06-2023,Ace Hardware,190.87,debit,Grocery shopping,Credit Card
+07-08-2023,Amazon,34.17,debit,Shopping,Credit Card
+07-09-2023,Temu,61.79,debit,Shopping,Credit Card
+07-11-2023,StandUp show,40.27,debit,Entertainment,Credit Card
+07-11-2023,Trader Joes,218.59,debit,Grocery shopping,Credit Card
+07-11-2023,Uber,10.88,debit,Travel expenses,Credit Card
+07-12-2023,Amazon,38.68,debit,Shopping,Credit Card
+07-12-2023,MBTA,24.37,debit,Travel expenses,Credit Card
+07-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+07-13-2023,Stop and Shop,181.59,debit,Grocery shopping,Credit Card
+07-13-2023,Credit Transaction,114.51,credit,Dividends,Savings
+07-13-2023,Credit Transaction,6.55,credit,Cashback Rewards,Savings
+07-14-2023,Temu,82.29,debit,Shopping,Credit Card
+07-14-2023,Dominos,42.6,debit,Restaurants,Credit Card
+07-15-2023,MBTA,21.1,debit,Travel expenses,Credit Card
+07-15-2023,StandUp show,24.94,debit,Entertainment,Credit Card
+07-18-2023,Boston Shawarma,73.33,debit,Restaurants,Credit Card
+07-18-2023,Stop and Shop,170.15,debit,Grocery shopping,Credit Card
+07-19-2023,Temu,80.52,debit,Shopping,Credit Card
+07-20-2023,Amazon,74.35,debit,Shopping,Credit Card
+07-20-2023,Temu,68.4,debit,Shopping,Credit Card
+07-21-2023,Credit Transaction,4.94,credit,Cashback Rewards,Savings
+07-21-2023,Uber,11.78,debit,Travel expenses,Credit Card
+07-21-2023,Dominos,60.46,debit,Restaurants,Credit Card
+07-22-2023,Temu,55.1,debit,Shopping,Credit Card
+07-22-2023,Credit Transaction,9.87,credit,Cashback Rewards,Savings
+07-23-2023,Mama-cita,81.13,debit,Restaurants,Credit Card
+07-23-2023,Ace Hardware,172.63,debit,Grocery shopping,Credit Card
+07-23-2023,Credit Transaction,15.98,credit,Cashback Rewards,Savings
+07-24-2023,Credit Transaction,14.79,credit,Cashback Rewards,Savings
+07-24-2023,Ace Hardware,172.16,debit,Grocery shopping,Credit Card
+07-28-2023,Karaoke,36.86,debit,Entertainment,Credit Card
+07-29-2023,Lyft,16.28,debit,Travel expenses,Credit Card
+07-30-2023,AMC Boston,32.43,debit,Entertainment,Credit Card
+07-30-2023,Credit Transaction,13.11,credit,Cashback Rewards,Savings
+07-30-2023,Mall,60.33,debit,Shopping,Credit Card
+07-31-2023,Dominos,36.48,debit,Restaurants,Credit Card
+08-01-2023,Rent/ Mortgage,1850.0,debit,Mortgage & Rent,Savings
+08-01-2023,Eversource Electricity,61.17,debit,Utilities,Checking
+08-01-2023,National Grid Gas,67.09,debit,Utilities,Checking
+08-03-2023,Lyft,19.22,debit,Travel expenses,Credit Card
+08-03-2023,Dominos,34.32,debit,Restaurants,Credit Card
+08-04-2023,Trader Joes,184.21,debit,Grocery shopping,Credit Card
+08-04-2023,Stop and Shop,202.89,debit,Grocery shopping,Credit Card
+08-04-2023,Credit Transaction,10.92,credit,Cashback Rewards,Savings
+08-04-2023,MBTA,31.17,debit,Travel expenses,Credit Card
+08-06-2023,MBTA,25.08,debit,Travel expenses,Credit Card
+08-06-2023,Karaoke,31.47,debit,Entertainment,Credit Card
+08-07-2023,Uber,16.21,debit,Travel expenses,Credit Card
+08-08-2023,Karaoke,71.63,debit,Entertainment,Credit Card
+08-09-2023,Uber,30.77,debit,Travel expenses,Credit Card
+08-10-2023,Boston Halal,80.25,debit,Restaurants,Credit Card
+08-11-2023,Credit Transaction,5.32,credit,Cashback Rewards,Savings
+08-11-2023,Boston Shawarma,66.16,debit,Restaurants,Credit Card
+08-11-2023,Temu,82.03,debit,Shopping,Credit Card
+08-11-2023,Amazon,47.73,debit,Shopping,Credit Card
+08-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+08-14-2023,Boston Shawarma,76.78,debit,Restaurants,Credit Card
+08-14-2023,StandUp show,21.34,debit,Entertainment,Credit Card
+08-15-2023,Boston Shawarma,67.33,debit,Restaurants,Credit Card
+08-15-2023,Market Basket,252.03,debit,Grocery shopping,Credit Card
+08-17-2023,Amazon,63.82,debit,Shopping,Credit Card
+08-18-2023,Credit Transaction,50.57,credit,Dividends,Savings
+08-18-2023,Boston Shawarma,39.86,debit,Restaurants,Credit Card
+08-19-2023,MBTA,27.07,debit,Travel expenses,Credit Card
+08-20-2023,Boston Halal,73.82,debit,Restaurants,Credit Card
+08-20-2023,Boston Shawarma,50.12,debit,Restaurants,Credit Card
+08-21-2023,Credit Transaction,10.87,credit,Cashback Rewards,Savings
+08-22-2023,Lyft,10.59,debit,Travel expenses,Credit Card
+08-23-2023,Trader Joes,185.81,debit,Grocery shopping,Credit Card
+08-23-2023,AMC Boston,68.97,debit,Entertainment,Credit Card
+08-24-2023,Uber,22.01,debit,Travel expenses,Credit Card
+08-24-2023,Credit Transaction,19.26,credit,Cashback Rewards,Savings
+08-26-2023,Boston Halal,41.28,debit,Restaurants,Credit Card
+08-26-2023,Mall,46.63,debit,Shopping,Credit Card
+08-27-2023,Boston Halal,82.4,debit,Restaurants,Credit Card
+08-28-2023,Lyft,29.46,debit,Travel expenses,Credit Card
+08-30-2023,Credit Transaction,11.59,credit,Cashback Rewards,Savings
+08-30-2023,Uber,22.68,debit,Travel expenses,Credit Card
+08-30-2023,Boston Shawarma,33.39,debit,Restaurants,Credit Card
+08-30-2023,Stop and Shop,252.2,debit,Grocery shopping,Credit Card
+08-31-2023,AMC Boston,35.34,debit,Entertainment,Credit Card
+08-31-2023,Mall,27.68,debit,Shopping,Credit Card
+09-01-2023,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+09-01-2023,Eversource Electricity,77.27,debit,Utilities,Checking
+09-01-2023,National Grid Gas,77.99,debit,Utilities,Checking
+09-01-2023,Mama-cita,82.35,debit,Restaurants,Credit Card
+09-01-2023,Credit Transaction,62.67,credit,Dividends,Savings
+09-02-2023,Boston Halal,27.99,debit,Restaurants,Credit Card
+09-02-2023,Karaoke,39.11,debit,Entertainment,Credit Card
+09-03-2023,Stop and Shop,168.98,debit,Grocery shopping,Credit Card
+09-03-2023,Amazon,70.92,debit,Shopping,Credit Card
+09-04-2023,Mall,22.83,debit,Shopping,Credit Card
+09-04-2023,Ice skating,42.78,debit,Entertainment,Credit Card
+09-05-2023,Ice skating,69.31,debit,Entertainment,Credit Card
+09-05-2023,Credit Transaction,14.41,credit,Cashback Rewards,Savings
+09-05-2023,Boston Halal,72.85,debit,Restaurants,Credit Card
+09-05-2023,AMC Boston,73.39,debit,Entertainment,Credit Card
+09-07-2023,MBTA,19.26,debit,Travel expenses,Credit Card
+09-07-2023,Lyft,14.96,debit,Travel expenses,Credit Card
+09-07-2023,AMC Boston,21.74,debit,Entertainment,Credit Card
+09-08-2023,Lyft,23.45,debit,Travel expenses,Credit Card
+09-08-2023,Mama-cita,31.86,debit,Restaurants,Credit Card
+09-09-2023,Market Basket,215.67,debit,Grocery shopping,Credit Card
+09-10-2023,Credit Transaction,10.88,credit,Cashback Rewards,Savings
+09-11-2023,Ice skating,28.46,debit,Entertainment,Credit Card
+09-13-2023,Credit Transaction,180.19,credit,Dividends,Savings
+09-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+09-13-2023,Mama-cita,63.3,debit,Restaurants,Credit Card
+09-14-2023,Amazon,23.7,debit,Shopping,Credit Card
+09-15-2023,Lyft,12.67,debit,Travel expenses,Credit Card
+09-15-2023,Stop and Shop,252.57,debit,Grocery shopping,Credit Card
+09-17-2023,StandUp show,24.32,debit,Entertainment,Credit Card
+09-17-2023,Amazon,51.11,debit,Shopping,Credit Card
+09-18-2023,AMC Boston,45.29,debit,Entertainment,Credit Card
+09-22-2023,Lyft,28.78,debit,Travel expenses,Credit Card
+09-22-2023,Uber,20.15,debit,Travel expenses,Credit Card
+09-23-2023,StandUp show,50.49,debit,Entertainment,Credit Card
+09-23-2023,Trader Joes,183.59,debit,Grocery shopping,Credit Card
+09-24-2023,Boston Shawarma,51.26,debit,Restaurants,Credit Card
+09-24-2023,Ice skating,47.95,debit,Entertainment,Credit Card
+09-25-2023,Credit Transaction,171.68,credit,Dividends,Savings
+09-26-2023,Temu,38.87,debit,Shopping,Credit Card
+09-27-2023,Amazon,40.95,debit,Shopping,Credit Card
+09-27-2023,Mall,42.89,debit,Shopping,Credit Card
+09-28-2023,Uber,28.37,debit,Travel expenses,Credit Card
+09-30-2023,Dominos,76.15,debit,Restaurants,Credit Card
+09-30-2023,Karaoke,44.0,debit,Entertainment,Credit Card
+09-30-2023,Trader Joes,243.94,debit,Grocery shopping,Credit Card
+10-01-2023,Market Basket,202.43,debit,Grocery shopping,Credit Card
+10-01-2023,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+10-01-2023,Eversource Electricity,63.95,debit,Utilities,Checking
+10-01-2023,National Grid Gas,59.69,debit,Utilities,Checking
+10-01-2023,Heating fuel,171.38,debit,Utilities,Checking
+10-01-2023,Dominos,65.88,debit,Restaurants,Credit Card
+10-01-2023,Boston Halal,52.28,debit,Restaurants,Credit Card
+10-02-2023,Boston Halal,52.74,debit,Restaurants,Credit Card
+10-02-2023,Mall,22.99,debit,Shopping,Credit Card
+10-02-2023,Karaoke,65.24,debit,Entertainment,Credit Card
+10-03-2023,Uber,19.22,debit,Travel expenses,Credit Card
+10-03-2023,Lyft,23.71,debit,Travel expenses,Credit Card
+10-03-2023,StandUp show,36.88,debit,Entertainment,Credit Card
+10-04-2023,Credit Transaction,149.33,credit,Dividends,Savings
+10-05-2023,Boston Shawarma,74.89,debit,Restaurants,Credit Card
+10-06-2023,Lyft,24.5,debit,Travel expenses,Credit Card
+10-07-2023,Boston Halal,43.71,debit,Restaurants,Credit Card
+10-08-2023,StandUp show,37.95,debit,Entertainment,Credit Card
+10-08-2023,Karaoke,22.02,debit,Entertainment,Credit Card
+10-09-2023,Temu,46.49,debit,Shopping,Credit Card
+10-11-2023,Uber,27.32,debit,Travel expenses,Credit Card
+10-11-2023,Lyft,13.14,debit,Travel expenses,Credit Card
+10-12-2023,Mall,58.83,debit,Shopping,Credit Card
+10-12-2023,Market Basket,207.23,debit,Grocery shopping,Credit Card
+10-13-2023,Monthly direct deposit - Salary,6684.0,credit,Salary,Savings
+10-13-2023,Trader Joes,191.83,debit,Grocery shopping,Credit Card
+10-13-2023,Boston Halal,74.73,debit,Restaurants,Credit Card
+10-13-2023,Temu,63.85,debit,Shopping,Credit Card
+10-14-2023,Lyft,14.33,debit,Travel expenses,Credit Card
+10-15-2023,Amazon,57.05,debit,Shopping,Credit Card
+10-15-2023,MBTA,17.46,debit,Travel expenses,Credit Card
+10-15-2023,Uber,19.41,debit,Travel expenses,Credit Card
+10-16-2023,Credit Transaction,17.36,credit,Cashback Rewards,Savings
+10-17-2023,MBTA,14.93,debit,Travel expenses,Credit Card
+10-18-2023,Dominos,31.08,debit,Restaurants,Credit Card
+10-18-2023,Mama-cita,36.22,debit,Restaurants,Credit Card
+10-18-2023,Boston Shawarma,33.08,debit,Restaurants,Credit Card
+10-18-2023,Mall,60.81,debit,Shopping,Credit Card
+10-18-2023,Ace Hardware,182.3,debit,Grocery shopping,Credit Card
+10-19-2023,Dominos,40.54,debit,Restaurants,Credit Card
+10-19-2023,Lyft,20.14,debit,Travel expenses,Credit Card
+10-19-2023,Credit Transaction,16.78,credit,Cashback Rewards,Savings
+10-20-2023,MBTA,30.5,debit,Travel expenses,Credit Card
+10-22-2023,Boston Shawarma,46.31,debit,Restaurants,Credit Card
+10-24-2023,Credit Transaction,7.86,credit,Cashback Rewards,Savings
+10-24-2023,Credit Transaction,172.69,credit,Dividends,Savings
+10-24-2023,AMC Boston,37.86,debit,Entertainment,Credit Card
+10-25-2023,Boston Halal,80.45,debit,Restaurants,Credit Card
+10-28-2023,MBTA,27.32,debit,Travel expenses,Credit Card
+10-29-2023,Credit Transaction,72.3,credit,Dividends,Savings
+10-30-2023,Uber,19.52,debit,Travel expenses,Credit Card
+10-30-2023,Boston Shawarma,39.69,debit,Restaurants,Credit Card
+10-30-2023,MBTA,13.84,debit,Travel expenses,Credit Card
+10-31-2023,Market Basket,183.28,debit,Grocery shopping,Credit Card
+10-31-2023,Karaoke,46.84,debit,Entertainment,Credit Card
+11-01-2023,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+11-01-2023,Eversource Electricity,64.32,debit,Utilities,Checking
+11-01-2023,National Grid Gas,58.82,debit,Utilities,Checking
+11-01-2023,Heating fuel,204.15,debit,Utilities,Checking
+11-01-2023,Mall,24.42,debit,Shopping,Credit Card
+11-02-2023,Amazon,31.12,debit,Shopping,Credit Card
+11-04-2023,Karaoke,32.4,debit,Entertainment,Credit Card
+11-04-2023,Dominos,36.12,debit,Restaurants,Credit Card
+11-05-2023,Credit Transaction,11.37,credit,Cashback Rewards,Savings
+11-05-2023,Karaoke,40.85,debit,Entertainment,Credit Card
+11-05-2023,Trader Joes,220.55,debit,Grocery shopping,Credit Card
+11-06-2023,Credit Transaction,11.45,credit,Cashback Rewards,Savings
+11-06-2023,Boston Shawarma,80.77,debit,Restaurants,Credit Card
+11-07-2023,MBTA,29.54,debit,Travel expenses,Credit Card
+11-07-2023,Boston Shawarma,42.23,debit,Restaurants,Credit Card
+11-07-2023,Ice skating,27.37,debit,Entertainment,Credit Card
+11-07-2023,Mama-cita,70.28,debit,Restaurants,Credit Card
+11-08-2023,Boston Halal,54.6,debit,Restaurants,Credit Card
+11-08-2023,MBTA,29.25,debit,Travel expenses,Credit Card
+11-08-2023,Uber,23.13,debit,Travel expenses,Credit Card
+11-09-2023,Mall,77.1,debit,Shopping,Credit Card
+11-09-2023,Uber,24.57,debit,Travel expenses,Credit Card
+11-09-2023,AMC Boston,71.91,debit,Entertainment,Credit Card
+11-10-2023,Credit Transaction,95.47,credit,Dividends,Savings
+11-10-2023,Boston Halal,64.32,debit,Restaurants,Credit Card
+11-10-2023,Credit Transaction,59.86,credit,Dividends,Savings
+11-10-2023,Credit Transaction,58.41,credit,Dividends,Savings
+11-11-2023,Boston Halal,71.86,debit,Restaurants,Credit Card
+11-11-2023,Credit Transaction,17.98,credit,Cashback Rewards,Savings
+11-11-2023,Mama-cita,56.79,debit,Restaurants,Credit Card
+11-12-2023,Boston Halal,76.01,debit,Restaurants,Credit Card
+11-13-2023,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+11-15-2023,Amazon,68.98,debit,Shopping,Credit Card
+11-15-2023,MBTA,16.66,debit,Travel expenses,Credit Card
+11-16-2023,MBTA,27.84,debit,Travel expenses,Credit Card
+11-16-2023,Temu,42.4,debit,Shopping,Credit Card
+11-18-2023,Boston Halal,75.75,debit,Restaurants,Credit Card
+11-19-2023,Credit Transaction,9.0,credit,Cashback Rewards,Savings
+11-20-2023,Market Basket,184.75,debit,Grocery shopping,Credit Card
+11-21-2023,Temu,40.34,debit,Shopping,Credit Card
+11-21-2023,Lyft,29.76,debit,Travel expenses,Credit Card
+11-21-2023,Uber,16.73,debit,Travel expenses,Credit Card
+11-24-2023,Temu,38.0,debit,Shopping,Credit Card
+11-24-2023,Amazon,42.08,debit,Shopping,Credit Card
+11-24-2023,MBTA,14.46,debit,Travel expenses,Credit Card
+11-24-2023,Uber,29.97,debit,Travel expenses,Credit Card
+11-25-2023,Amazon,62.23,debit,Shopping,Credit Card
+11-25-2023,AMC Boston,56.47,debit,Entertainment,Credit Card
+11-26-2023,Karaoke,31.39,debit,Entertainment,Credit Card
+11-26-2023,Uber,17.04,debit,Travel expenses,Credit Card
+11-27-2023,MBTA,29.03,debit,Travel expenses,Credit Card
+11-28-2023,Ice skating,64.25,debit,Entertainment,Credit Card
+11-28-2023,Stop and Shop,230.06,debit,Grocery shopping,Credit Card
+11-29-2023,Market Basket,199.09,debit,Grocery shopping,Credit Card
+11-30-2023,Ice skating,59.06,debit,Entertainment,Credit Card
+11-30-2023,AMC Boston,21.27,debit,Entertainment,Credit Card
+11-30-2023,Credit Transaction,7.48,credit,Cashback Rewards,Savings
+12-01-2023,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+12-01-2023,Eversource Electricity,68.75,debit,Utilities,Checking
+12-01-2023,National Grid Gas,63.21,debit,Utilities,Checking
+12-01-2023,Heating fuel,168.06,debit,Utilities,Checking
+12-01-2023,Lyft,21.41,debit,Travel expenses,Credit Card
+12-01-2023,StandUp show,68.19,debit,Entertainment,Credit Card
+12-05-2023,Credit Transaction,100.16,credit,Dividends,Savings
+12-05-2023,Ace Hardware,247.31,debit,Grocery shopping,Credit Card
+12-05-2023,Boston Shawarma,33.08,debit,Restaurants,Credit Card
+12-07-2023,Trader Joes,170.26,debit,Grocery shopping,Credit Card
+12-07-2023,Dominos,26.66,debit,Restaurants,Credit Card
+12-08-2023,Temu,58.99,debit,Shopping,Credit Card
+12-08-2023,Amazon,39.07,debit,Shopping,Credit Card
+12-09-2023,Market Basket,168.6,debit,Grocery shopping,Credit Card
+12-09-2023,Ace Hardware,166.87,debit,Grocery shopping,Credit Card
+12-10-2023,Dominos,45.42,debit,Restaurants,Credit Card
+12-11-2023,Lyft,27.69,debit,Travel expenses,Credit Card
+12-11-2023,Mall,74.93,debit,Shopping,Credit Card
+12-13-2023,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+12-13-2023,Market Basket,161.13,debit,Grocery shopping,Credit Card
+12-14-2023,MBTA,14.82,debit,Travel expenses,Credit Card
+12-14-2023,Dominos,57.81,debit,Restaurants,Credit Card
+12-18-2023,MBTA,31.01,debit,Travel expenses,Credit Card
+12-20-2023,Dominos,55.95,debit,Restaurants,Credit Card
+12-21-2023,Boston Shawarma,47.67,debit,Restaurants,Credit Card
+12-22-2023,Credit Transaction,8.08,credit,Cashback Rewards,Savings
+12-23-2023,StandUp show,58.05,debit,Entertainment,Credit Card
+12-23-2023,Credit Transaction,17.96,credit,Cashback Rewards,Savings
+12-24-2023,Temu,25.49,debit,Shopping,Credit Card
+12-25-2023,Credit Transaction,4.93,credit,Cashback Rewards,Savings
+12-26-2023,Trader Joes,249.05,debit,Grocery shopping,Credit Card
+12-26-2023,Amazon,80.16,debit,Shopping,Credit Card
+12-26-2023,Uber,17.44,debit,Travel expenses,Credit Card
+12-27-2023,Boston Shawarma,58.7,debit,Restaurants,Credit Card
+12-28-2023,AMC Boston,57.6,debit,Entertainment,Credit Card
+12-29-2023,Trader Joes,225.86,debit,Grocery shopping,Credit Card
+12-29-2023,Market Basket,250.3,debit,Grocery shopping,Credit Card
+12-30-2023,Boston Halal,79.65,debit,Restaurants,Credit Card
+12-31-2023,Credit Transaction,6.3,credit,Cashback Rewards,Savings
+01-01-2024,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+01-01-2024,Eversource Electricity,56.39,debit,Utilities,Checking
+01-01-2024,National Grid Gas,53.31,debit,Utilities,Checking
+01-01-2024,Heating fuel,216.42,debit,Utilities,Checking
+01-01-2024,Temu,26.93,debit,Shopping,Credit Card
+01-01-2024,Uber,10.41,debit,Travel expenses,Credit Card
+01-02-2024,Amazon,34.85,debit,Shopping,Credit Card
+01-03-2024,Stop and Shop,250.44,debit,Grocery shopping,Credit Card
+01-03-2024,Uber,18.92,debit,Travel expenses,Credit Card
+01-03-2024,Lyft,19.91,debit,Travel expenses,Credit Card
+01-05-2024,Mama-cita,53.07,debit,Restaurants,Credit Card
+01-07-2024,Ace Hardware,213.88,debit,Grocery shopping,Credit Card
+01-08-2024,Credit Transaction,14.89,credit,Cashback Rewards,Savings
+01-08-2024,Mall,46.53,debit,Shopping,Credit Card
+01-08-2024,Uber,14.77,debit,Travel expenses,Credit Card
+01-09-2024,Mama-cita,40.13,debit,Restaurants,Credit Card
+01-09-2024,StandUp show,58.27,debit,Entertainment,Credit Card
+01-11-2024,AMC Boston,67.37,debit,Entertainment,Credit Card
+01-12-2024,AMC Boston,31.28,debit,Entertainment,Credit Card
+01-13-2024,MBTA,15.15,debit,Travel expenses,Credit Card
+01-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+01-13-2024,Stop and Shop,204.74,debit,Grocery shopping,Credit Card
+01-14-2024,Temu,63.12,debit,Shopping,Credit Card
+01-14-2024,Amazon,24.89,debit,Shopping,Credit Card
+01-15-2024,Market Basket,155.77,debit,Grocery shopping,Credit Card
+01-15-2024,AMC Boston,36.06,debit,Entertainment,Credit Card
+01-15-2024,Dominos,43.71,debit,Restaurants,Credit Card
+01-16-2024,Boston Halal,74.05,debit,Restaurants,Credit Card
+01-16-2024,Lyft,27.11,debit,Travel expenses,Credit Card
+01-17-2024,Stop and Shop,243.94,debit,Grocery shopping,Credit Card
+01-18-2024,MBTA,21.51,debit,Travel expenses,Credit Card
+01-19-2024,Boston Halal,81.06,debit,Restaurants,Credit Card
+01-19-2024,Boston Shawarma,35.04,debit,Restaurants,Credit Card
+01-19-2024,MBTA,27.88,debit,Travel expenses,Credit Card
+01-22-2024,Boston Halal,65.05,debit,Restaurants,Credit Card
+01-22-2024,MBTA,11.24,debit,Travel expenses,Credit Card
+01-22-2024,Karaoke,59.07,debit,Entertainment,Credit Card
+01-22-2024,Mama-cita,63.67,debit,Restaurants,Credit Card
+01-24-2024,Uber,15.75,debit,Travel expenses,Credit Card
+01-24-2024,MBTA,15.72,debit,Travel expenses,Credit Card
+01-25-2024,AMC Boston,24.44,debit,Entertainment,Credit Card
+01-25-2024,Temu,50.97,debit,Shopping,Credit Card
+01-26-2024,MBTA,29.2,debit,Travel expenses,Credit Card
+01-27-2024,Boston Halal,26.11,debit,Restaurants,Credit Card
+01-28-2024,Dominos,64.18,debit,Restaurants,Credit Card
+01-29-2024,Ace Hardware,202.75,debit,Grocery shopping,Credit Card
+01-31-2024,Credit Transaction,6.8,credit,Cashback Rewards,Savings
+01-31-2024,MBTA,16.69,debit,Travel expenses,Credit Card
+02-01-2024,StandUp show,69.17,debit,Entertainment,Credit Card
+02-01-2024,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+02-01-2024,Eversource Electricity,55.05,debit,Utilities,Checking
+02-01-2024,National Grid Gas,61.58,debit,Utilities,Checking
+02-01-2024,Heating fuel,192.16,debit,Utilities,Checking
+02-02-2024,AMC Boston,32.19,debit,Entertainment,Credit Card
+02-03-2024,Credit Transaction,4.28,credit,Cashback Rewards,Savings
+02-04-2024,Credit Transaction,74.67,credit,Dividends,Savings
+02-05-2024,Credit Transaction,126.57,credit,Dividends,Savings
+02-05-2024,Trader Joes,230.88,debit,Grocery shopping,Credit Card
+02-06-2024,Mall,45.56,debit,Shopping,Credit Card
+02-08-2024,Credit Transaction,18.87,credit,Cashback Rewards,Savings
+02-08-2024,Credit Transaction,152.38,credit,Dividends,Savings
+02-09-2024,Dominos,48.25,debit,Restaurants,Credit Card
+02-09-2024,MBTA,17.9,debit,Travel expenses,Credit Card
+02-10-2024,MBTA,22.2,debit,Travel expenses,Credit Card
+02-10-2024,Credit Transaction,10.8,credit,Cashback Rewards,Savings
+02-10-2024,Karaoke,50.72,debit,Entertainment,Credit Card
+02-11-2024,Credit Transaction,19.32,credit,Cashback Rewards,Savings
+02-12-2024,Trader Joes,241.12,debit,Grocery shopping,Credit Card
+02-12-2024,Credit Transaction,4.02,credit,Cashback Rewards,Savings
+02-13-2024,AMC Boston,40.17,debit,Entertainment,Credit Card
+02-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+02-13-2024,Credit Transaction,5.65,credit,Cashback Rewards,Savings
+02-13-2024,Boston Halal,78.18,debit,Restaurants,Credit Card
+02-14-2024,Credit Transaction,12.32,credit,Cashback Rewards,Savings
+02-15-2024,Credit Transaction,182.99,credit,Dividends,Savings
+02-15-2024,Boston Shawarma,56.48,debit,Restaurants,Credit Card
+02-15-2024,Boston Halal,74.98,debit,Restaurants,Credit Card
+02-16-2024,Credit Transaction,4.57,credit,Cashback Rewards,Savings
+02-16-2024,Boston Halal,44.79,debit,Restaurants,Credit Card
+02-17-2024,Amazon,32.07,debit,Shopping,Credit Card
+02-17-2024,Mama-cita,68.54,debit,Restaurants,Credit Card
+02-18-2024,Ice skating,55.35,debit,Entertainment,Credit Card
+02-19-2024,Temu,27.08,debit,Shopping,Credit Card
+02-19-2024,Uber,23.57,debit,Travel expenses,Credit Card
+02-21-2024,Ace Hardware,165.56,debit,Grocery shopping,Credit Card
+02-21-2024,Dominos,35.65,debit,Restaurants,Credit Card
+02-21-2024,Credit Transaction,8.97,credit,Cashback Rewards,Savings
+02-21-2024,StandUp show,48.91,debit,Entertainment,Credit Card
+02-21-2024,Boston Halal,36.64,debit,Restaurants,Credit Card
+02-23-2024,Mama-cita,31.38,debit,Restaurants,Credit Card
+02-23-2024,Market Basket,254.27,debit,Grocery shopping,Credit Card
+02-23-2024,Boston Halal,26.32,debit,Restaurants,Credit Card
+02-23-2024,Uber,19.87,debit,Travel expenses,Credit Card
+02-25-2024,MBTA,25.21,debit,Travel expenses,Credit Card
+02-25-2024,Uber,30.75,debit,Travel expenses,Credit Card
+02-28-2024,Market Basket,243.14,debit,Grocery shopping,Credit Card
+02-28-2024,Credit Transaction,16.15,credit,Cashback Rewards,Savings
+02-28-2024,Ace Hardware,215.59,debit,Grocery shopping,Credit Card
+02-29-2024,Boston Halal,45.47,debit,Restaurants,Credit Card
+02-29-2024,Stop and Shop,162.17,debit,Grocery shopping,Credit Card
+03-01-2024,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+03-01-2024,Eversource Electricity,64.09,debit,Utilities,Checking
+03-01-2024,National Grid Gas,60.9,debit,Utilities,Checking
+03-01-2024,Heating fuel,221.38,debit,Utilities,Checking
+03-01-2024,Mall,60.58,debit,Shopping,Credit Card
+03-02-2024,Temu,30.17,debit,Shopping,Credit Card
+03-04-2024,Amazon,36.52,debit,Shopping,Credit Card
+03-04-2024,Boston Halal,78.66,debit,Restaurants,Credit Card
+03-04-2024,Mama-cita,59.69,debit,Restaurants,Credit Card
+03-05-2024,Lyft,12.44,debit,Travel expenses,Credit Card
+03-06-2024,Stop and Shop,163.27,debit,Grocery shopping,Credit Card
+03-06-2024,Ice skating,61.64,debit,Entertainment,Credit Card
+03-07-2024,MBTA,30.22,debit,Travel expenses,Credit Card
+03-07-2024,Uber,12.48,debit,Travel expenses,Credit Card
+03-08-2024,Amazon,77.48,debit,Shopping,Credit Card
+03-08-2024,Dominos,64.68,debit,Restaurants,Credit Card
+03-09-2024,AMC Boston,45.18,debit,Entertainment,Credit Card
+03-09-2024,Karaoke,43.77,debit,Entertainment,Credit Card
+03-09-2024,Mama-cita,29.51,debit,Restaurants,Credit Card
+03-10-2024,Ice skating,50.78,debit,Entertainment,Credit Card
+03-10-2024,Stop and Shop,177.79,debit,Grocery shopping,Credit Card
+03-10-2024,Credit Transaction,8.66,credit,Cashback Rewards,Savings
+03-11-2024,Ace Hardware,160.21,debit,Grocery shopping,Credit Card
+03-11-2024,Market Basket,202.16,debit,Grocery shopping,Credit Card
+03-11-2024,Trader Joes,208.88,debit,Grocery shopping,Credit Card
+03-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+03-13-2024,Dominos,30.46,debit,Restaurants,Credit Card
+03-14-2024,Lyft,12.71,debit,Travel expenses,Credit Card
+03-16-2024,MBTA,16.53,debit,Travel expenses,Credit Card
+03-16-2024,Uber,20.23,debit,Travel expenses,Credit Card
+03-16-2024,Lyft,13.95,debit,Travel expenses,Credit Card
+03-19-2024,Lyft,25.13,debit,Travel expenses,Credit Card
+03-19-2024,Temu,67.46,debit,Shopping,Credit Card
+03-21-2024,Uber,18.47,debit,Travel expenses,Credit Card
+03-21-2024,Lyft,27.33,debit,Travel expenses,Credit Card
+03-22-2024,Credit Transaction,15.42,credit,Cashback Rewards,Savings
+03-22-2024,Karaoke,63.05,debit,Entertainment,Credit Card
+03-22-2024,Lyft,21.66,debit,Travel expenses,Credit Card
+03-22-2024,Market Basket,170.56,debit,Grocery shopping,Credit Card
+03-23-2024,Uber,27.66,debit,Travel expenses,Credit Card
+03-23-2024,Mall,75.43,debit,Shopping,Credit Card
+03-26-2024,Karaoke,67.59,debit,Entertainment,Credit Card
+03-28-2024,Market Basket,205.37,debit,Grocery shopping,Credit Card
+03-29-2024,Amazon,38.95,debit,Shopping,Credit Card
+03-29-2024,MBTA,16.65,debit,Travel expenses,Credit Card
+03-30-2024,Temu,39.88,debit,Shopping,Credit Card
+03-31-2024,Credit Transaction,15.07,credit,Cashback Rewards,Savings
+04-01-2024,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+04-01-2024,Eversource Electricity,59.48,debit,Utilities,Checking
+04-01-2024,National Grid Gas,71.84,debit,Utilities,Checking
+04-01-2024,Heating fuel,232.87,debit,Utilities,Checking
+04-01-2024,Dominos,56.89,debit,Restaurants,Credit Card
+04-03-2024,Lyft,13.34,debit,Travel expenses,Credit Card
+04-04-2024,Mama-cita,73.6,debit,Restaurants,Credit Card
+04-05-2024,Boston Halal,35.45,debit,Restaurants,Credit Card
+04-07-2024,Dominos,48.74,debit,Restaurants,Credit Card
+04-07-2024,Karaoke,34.35,debit,Entertainment,Credit Card
+04-07-2024,MBTA,15.82,debit,Travel expenses,Credit Card
+04-08-2024,Lyft,12.82,debit,Travel expenses,Credit Card
+04-09-2024,Ace Hardware,190.61,debit,Grocery shopping,Credit Card
+04-11-2024,Boston Halal,62.03,debit,Restaurants,Credit Card
+04-11-2024,Mama-cita,49.64,debit,Restaurants,Credit Card
+04-12-2024,Amazon,25.49,debit,Shopping,Credit Card
+04-13-2024,Credit Transaction,4.56,credit,Cashback Rewards,Savings
+04-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+04-14-2024,Stop and Shop,208.73,debit,Grocery shopping,Credit Card
+04-14-2024,Karaoke,46.24,debit,Entertainment,Credit Card
+04-14-2024,Market Basket,261.32,debit,Grocery shopping,Credit Card
+04-14-2024,MBTA,24.51,debit,Travel expenses,Credit Card
+04-15-2024,Ace Hardware,193.75,debit,Grocery shopping,Credit Card
+04-16-2024,Credit Transaction,4.29,credit,Cashback Rewards,Savings
+04-18-2024,MBTA,10.76,debit,Travel expenses,Credit Card
+04-19-2024,Uber,12.48,debit,Travel expenses,Credit Card
+04-19-2024,Mama-cita,66.82,debit,Restaurants,Credit Card
+04-19-2024,AMC Boston,31.08,debit,Entertainment,Credit Card
+04-20-2024,Karaoke,71.0,debit,Entertainment,Credit Card
+04-20-2024,Boston Shawarma,44.11,debit,Restaurants,Credit Card
+04-20-2024,Trader Joes,228.33,debit,Grocery shopping,Credit Card
+04-22-2024,Dominos,67.47,debit,Restaurants,Credit Card
+04-23-2024,Amazon,49.45,debit,Shopping,Credit Card
+04-23-2024,Uber,19.88,debit,Travel expenses,Credit Card
+04-25-2024,MBTA,28.31,debit,Travel expenses,Credit Card
+04-25-2024,Amazon,68.95,debit,Shopping,Credit Card
+04-26-2024,MBTA,13.61,debit,Travel expenses,Credit Card
+04-28-2024,Amazon,76.88,debit,Shopping,Credit Card
+04-28-2024,Credit Transaction,18.02,credit,Cashback Rewards,Savings
+04-28-2024,Ace Hardware,226.13,debit,Grocery shopping,Credit Card
+04-29-2024,StandUp show,49.64,debit,Entertainment,Credit Card
+04-29-2024,Temu,43.06,debit,Shopping,Credit Card
+04-30-2024,Dominos,63.45,debit,Restaurants,Credit Card
+04-30-2024,MBTA,30.3,debit,Travel expenses,Credit Card
+05-01-2024,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+05-01-2024,Eversource Electricity,79.51,debit,Utilities,Checking
+05-01-2024,National Grid Gas,76.22,debit,Utilities,Checking
+05-01-2024,Mama-cita,39.58,debit,Restaurants,Credit Card
+05-02-2024,Uber,10.64,debit,Travel expenses,Credit Card
+05-02-2024,MBTA,30.56,debit,Travel expenses,Credit Card
+05-02-2024,Boston Halal,46.64,debit,Restaurants,Credit Card
+05-02-2024,Lyft,27.52,debit,Travel expenses,Credit Card
+05-03-2024,Mall,59.44,debit,Shopping,Credit Card
+05-03-2024,Dominos,79.79,debit,Restaurants,Credit Card
+05-03-2024,Lyft,24.3,debit,Travel expenses,Credit Card
+05-04-2024,Mall,65.34,debit,Shopping,Credit Card
+05-05-2024,MBTA,16.09,debit,Travel expenses,Credit Card
+05-05-2024,Lyft,31.02,debit,Travel expenses,Credit Card
+05-07-2024,StandUp show,30.23,debit,Entertainment,Credit Card
+05-08-2024,Credit Transaction,17.48,credit,Cashback Rewards,Savings
+05-08-2024,Boston Shawarma,68.66,debit,Restaurants,Credit Card
+05-09-2024,AMC Boston,48.49,debit,Entertainment,Credit Card
+05-09-2024,Dominos,37.01,debit,Restaurants,Credit Card
+05-10-2024,Temu,77.27,debit,Shopping,Credit Card
+05-11-2024,Boston Shawarma,46.56,debit,Restaurants,Credit Card
+05-11-2024,Lyft,17.79,debit,Travel expenses,Credit Card
+05-11-2024,Credit Transaction,15.63,credit,Cashback Rewards,Savings
+05-11-2024,Boston Halal,73.0,debit,Restaurants,Credit Card
+05-12-2024,Credit Transaction,132.21,credit,Dividends,Savings
+05-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+05-13-2024,Ace Hardware,248.34,debit,Grocery shopping,Credit Card
+05-14-2024,Amazon,21.26,debit,Shopping,Credit Card
+05-15-2024,Dominos,49.63,debit,Restaurants,Credit Card
+05-15-2024,Mama-cita,50.07,debit,Restaurants,Credit Card
+05-15-2024,Karaoke,30.52,debit,Entertainment,Credit Card
+05-17-2024,Market Basket,218.57,debit,Grocery shopping,Credit Card
+05-17-2024,Uber,22.09,debit,Travel expenses,Credit Card
+05-19-2024,Karaoke,49.1,debit,Entertainment,Credit Card
+05-19-2024,Boston Shawarma,37.14,debit,Restaurants,Credit Card
+05-19-2024,Trader Joes,190.61,debit,Grocery shopping,Credit Card
+05-20-2024,Boston Shawarma,66.29,debit,Restaurants,Credit Card
+05-20-2024,Boston Halal,32.06,debit,Restaurants,Credit Card
+05-20-2024,Trader Joes,226.37,debit,Grocery shopping,Credit Card
+05-21-2024,Amazon,23.11,debit,Shopping,Credit Card
+05-22-2024,Mall,39.41,debit,Shopping,Credit Card
+05-23-2024,AMC Boston,58.69,debit,Entertainment,Credit Card
+05-23-2024,Boston Halal,72.67,debit,Restaurants,Credit Card
+05-23-2024,Karaoke,47.32,debit,Entertainment,Credit Card
+05-27-2024,Lyft,17.77,debit,Travel expenses,Credit Card
+05-27-2024,Uber,25.38,debit,Travel expenses,Credit Card
+05-28-2024,Boston Shawarma,38.07,debit,Restaurants,Credit Card
+05-28-2024,Amazon,37.92,debit,Shopping,Credit Card
+05-29-2024,Credit Transaction,19.07,credit,Cashback Rewards,Savings
+05-30-2024,Uber,26.85,debit,Travel expenses,Credit Card
+05-31-2024,Dominos,34.6,debit,Restaurants,Credit Card
+05-31-2024,Mama-cita,73.77,debit,Restaurants,Credit Card
+06-01-2024,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+06-01-2024,Eversource Electricity,54.13,debit,Utilities,Checking
+06-01-2024,National Grid Gas,61.85,debit,Utilities,Checking
+06-02-2024,Credit Transaction,10.09,credit,Cashback Rewards,Savings
+06-02-2024,Lyft,26.83,debit,Travel expenses,Credit Card
+06-02-2024,Stop and Shop,174.79,debit,Grocery shopping,Credit Card
+06-03-2024,Boston Shawarma,53.63,debit,Restaurants,Credit Card
+06-03-2024,Temu,68.75,debit,Shopping,Credit Card
+06-04-2024,Lyft,11.46,debit,Travel expenses,Credit Card
+06-04-2024,Ice skating,30.85,debit,Entertainment,Credit Card
+06-04-2024,MBTA,13.08,debit,Travel expenses,Credit Card
+06-05-2024,Mama-cita,31.16,debit,Restaurants,Credit Card
+06-05-2024,Boston Shawarma,69.7,debit,Restaurants,Credit Card
+06-05-2024,Ace Hardware,180.94,debit,Grocery shopping,Credit Card
+06-07-2024,Mama-cita,74.21,debit,Restaurants,Credit Card
+06-08-2024,Boston Shawarma,81.86,debit,Restaurants,Credit Card
+06-09-2024,Dominos,57.55,debit,Restaurants,Credit Card
+06-10-2024,Lyft,13.38,debit,Travel expenses,Credit Card
+06-10-2024,Credit Transaction,7.55,credit,Cashback Rewards,Savings
+06-10-2024,Trader Joes,251.63,debit,Grocery shopping,Credit Card
+06-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+06-14-2024,StandUp show,68.31,debit,Entertainment,Credit Card
+06-15-2024,Ice skating,31.74,debit,Entertainment,Credit Card
+06-15-2024,StandUp show,28.41,debit,Entertainment,Credit Card
+06-17-2024,Boston Halal,64.03,debit,Restaurants,Credit Card
+06-18-2024,Ace Hardware,233.64,debit,Grocery shopping,Credit Card
+06-18-2024,Trader Joes,212.47,debit,Grocery shopping,Credit Card
+06-19-2024,Mall,66.85,debit,Shopping,Credit Card
+06-21-2024,AMC Boston,63.52,debit,Entertainment,Credit Card
+06-21-2024,Credit Transaction,15.6,credit,Cashback Rewards,Savings
+06-21-2024,Boston Halal,53.59,debit,Restaurants,Credit Card
+06-23-2024,MBTA,30.27,debit,Travel expenses,Credit Card
+06-23-2024,Dominos,36.27,debit,Restaurants,Credit Card
+06-24-2024,Uber,26.63,debit,Travel expenses,Credit Card
+06-24-2024,Credit Transaction,15.37,credit,Cashback Rewards,Savings
+06-24-2024,Stop and Shop,161.3,debit,Grocery shopping,Credit Card
+06-25-2024,Uber,19.0,debit,Travel expenses,Credit Card
+06-26-2024,Market Basket,189.23,debit,Grocery shopping,Credit Card
+06-27-2024,Boston Shawarma,54.25,debit,Restaurants,Credit Card
+06-27-2024,Karaoke,56.44,debit,Entertainment,Credit Card
+06-27-2024,Boston Halal,37.48,debit,Restaurants,Credit Card
+07-01-2024,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+07-01-2024,Eversource Electricity,65.91,debit,Utilities,Checking
+07-01-2024,National Grid Gas,64.74,debit,Utilities,Checking
+07-02-2024,StandUp show,47.79,debit,Entertainment,Credit Card
+07-03-2024,Dominos,49.73,debit,Restaurants,Credit Card
+07-03-2024,Lyft,28.84,debit,Travel expenses,Credit Card
+07-04-2024,Boston Shawarma,56.84,debit,Restaurants,Credit Card
+07-04-2024,Karaoke,46.5,debit,Entertainment,Credit Card
+07-04-2024,Dominos,72.4,debit,Restaurants,Credit Card
+07-06-2024,Ice skating,37.09,debit,Entertainment,Credit Card
+07-07-2024,Karaoke,29.75,debit,Entertainment,Credit Card
+07-08-2024,AMC Boston,35.5,debit,Entertainment,Credit Card
+07-10-2024,Uber,19.38,debit,Travel expenses,Credit Card
+07-10-2024,Temu,65.91,debit,Shopping,Credit Card
+07-11-2024,Credit Transaction,197.04,credit,Dividends,Savings
+07-11-2024,Trader Joes,204.35,debit,Grocery shopping,Credit Card
+07-11-2024,Dominos,38.24,debit,Restaurants,Credit Card
+07-11-2024,Mama-cita,39.22,debit,Restaurants,Credit Card
+07-12-2024,Temu,78.53,debit,Shopping,Credit Card
+07-12-2024,Lyft,23.67,debit,Travel expenses,Credit Card
+07-13-2024,Ace Hardware,183.87,debit,Grocery shopping,Credit Card
+07-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+07-14-2024,StandUp show,24.45,debit,Entertainment,Credit Card
+07-15-2024,Uber,20.66,debit,Travel expenses,Credit Card
+07-15-2024,Trader Joes,227.6,debit,Grocery shopping,Credit Card
+07-15-2024,Stop and Shop,221.33,debit,Grocery shopping,Credit Card
+07-16-2024,Mama-cita,27.62,debit,Restaurants,Credit Card
+07-18-2024,Credit Transaction,142.84,credit,Dividends,Savings
+07-18-2024,Credit Transaction,6.02,credit,Cashback Rewards,Savings
+07-18-2024,Karaoke,56.38,debit,Entertainment,Credit Card
+07-19-2024,Boston Halal,47.18,debit,Restaurants,Credit Card
+07-19-2024,Ace Hardware,173.75,debit,Grocery shopping,Credit Card
+07-21-2024,MBTA,17.58,debit,Travel expenses,Credit Card
+07-21-2024,Ice skating,71.79,debit,Entertainment,Credit Card
+07-22-2024,Trader Joes,199.15,debit,Grocery shopping,Credit Card
+07-23-2024,Credit Transaction,16.99,credit,Cashback Rewards,Savings
+07-23-2024,Credit Transaction,19.89,credit,Cashback Rewards,Savings
+07-23-2024,AMC Boston,56.24,debit,Entertainment,Credit Card
+07-24-2024,Mama-cita,34.34,debit,Restaurants,Credit Card
+07-25-2024,Lyft,15.64,debit,Travel expenses,Credit Card
+07-26-2024,Amazon,70.77,debit,Shopping,Credit Card
+07-26-2024,Boston Halal,71.48,debit,Restaurants,Credit Card
+07-27-2024,Mall,52.18,debit,Shopping,Credit Card
+07-29-2024,Temu,42.42,debit,Shopping,Credit Card
+07-29-2024,Uber,26.79,debit,Travel expenses,Credit Card
+07-29-2024,MBTA,26.29,debit,Travel expenses,Credit Card
+07-30-2024,Credit Transaction,125.88,credit,Dividends,Savings
+08-01-2024,AMC Boston,33.84,debit,Entertainment,Credit Card
+08-01-2024,Rent/ Mortgage,1900.0,debit,Mortgage & Rent,Savings
+08-01-2024,Eversource Electricity,61.1,debit,Utilities,Checking
+08-01-2024,National Grid Gas,58.8,debit,Utilities,Checking
+08-01-2024,Boston Shawarma,64.44,debit,Restaurants,Credit Card
+08-01-2024,Ice skating,67.01,debit,Entertainment,Credit Card
+08-01-2024,Boston Halal,29.8,debit,Restaurants,Credit Card
+08-01-2024,Mama-cita,51.84,debit,Restaurants,Credit Card
+08-01-2024,Amazon,49.79,debit,Shopping,Credit Card
+08-02-2024,Credit Transaction,12.19,credit,Cashback Rewards,Savings
+08-03-2024,Uber,12.46,debit,Travel expenses,Credit Card
+08-04-2024,Amazon,28.58,debit,Shopping,Credit Card
+08-08-2024,Stop and Shop,229.6,debit,Grocery shopping,Credit Card
+08-09-2024,AMC Boston,35.51,debit,Entertainment,Credit Card
+08-10-2024,Ice skating,70.46,debit,Entertainment,Credit Card
+08-10-2024,Uber,18.24,debit,Travel expenses,Credit Card
+08-12-2024,Uber,19.42,debit,Travel expenses,Credit Card
+08-12-2024,Amazon,76.21,debit,Shopping,Credit Card
+08-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+08-14-2024,Credit Transaction,155.1,credit,Dividends,Savings
+08-18-2024,Uber,11.26,debit,Travel expenses,Credit Card
+08-19-2024,Boston Shawarma,78.08,debit,Restaurants,Credit Card
+08-19-2024,Dominos,69.02,debit,Restaurants,Credit Card
+08-21-2024,Dominos,32.82,debit,Restaurants,Credit Card
+08-22-2024,Dominos,46.45,debit,Restaurants,Credit Card
+08-22-2024,Boston Shawarma,38.24,debit,Restaurants,Credit Card
+08-23-2024,Temu,68.53,debit,Shopping,Credit Card
+08-23-2024,Boston Shawarma,78.11,debit,Restaurants,Credit Card
+08-23-2024,Credit Transaction,17.17,credit,Cashback Rewards,Savings
+08-23-2024,Trader Joes,199.34,debit,Grocery shopping,Credit Card
+08-24-2024,MBTA,28.65,debit,Travel expenses,Credit Card
+08-24-2024,Uber,14.62,debit,Travel expenses,Credit Card
+08-24-2024,Lyft,10.43,debit,Travel expenses,Credit Card
+08-25-2024,Market Basket,254.11,debit,Grocery shopping,Credit Card
+08-25-2024,Ice skating,42.02,debit,Entertainment,Credit Card
+08-26-2024,Dominos,66.59,debit,Restaurants,Credit Card
+08-26-2024,Trader Joes,164.08,debit,Grocery shopping,Credit Card
+08-26-2024,Credit Transaction,14.92,credit,Cashback Rewards,Savings
+08-26-2024,Mama-cita,74.83,debit,Restaurants,Credit Card
+08-28-2024,Dominos,35.0,debit,Restaurants,Credit Card
+08-29-2024,Uber,25.97,debit,Travel expenses,Credit Card
+08-29-2024,Lyft,18.07,debit,Travel expenses,Credit Card
+08-30-2024,Market Basket,252.46,debit,Grocery shopping,Credit Card
+08-30-2024,Boston Shawarma,64.13,debit,Restaurants,Credit Card
+08-30-2024,Mama-cita,30.71,debit,Restaurants,Credit Card
+08-30-2024,AMC Boston,66.24,debit,Entertainment,Credit Card
+08-31-2024,Credit Transaction,19.98,credit,Cashback Rewards,Savings
+09-01-2024,Ice skating,24.34,debit,Entertainment,Credit Card
+09-01-2024,Rent/ Mortgage,1950.0,debit,Mortgage & Rent,Savings
+09-01-2024,Eversource Electricity,53.87,debit,Utilities,Checking
+09-01-2024,National Grid Gas,75.51,debit,Utilities,Checking
+09-01-2024,Credit Transaction,4.97,credit,Cashback Rewards,Savings
+09-01-2024,Mama-cita,48.06,debit,Restaurants,Credit Card
+09-01-2024,Amazon,74.14,debit,Shopping,Credit Card
+09-01-2024,MBTA,20.81,debit,Travel expenses,Credit Card
+09-02-2024,Karaoke,48.67,debit,Entertainment,Credit Card
+09-03-2024,Mall,25.45,debit,Shopping,Credit Card
+09-05-2024,Credit Transaction,8.7,credit,Cashback Rewards,Savings
+09-05-2024,Stop and Shop,165.77,debit,Grocery shopping,Credit Card
+09-06-2024,Market Basket,246.16,debit,Grocery shopping,Credit Card
+09-08-2024,Stop and Shop,191.93,debit,Grocery shopping,Credit Card
+09-10-2024,Uber,16.39,debit,Travel expenses,Credit Card
+09-10-2024,Boston Halal,32.25,debit,Restaurants,Credit Card
+09-12-2024,MBTA,20.69,debit,Travel expenses,Credit Card
+09-12-2024,Market Basket,185.57,debit,Grocery shopping,Credit Card
+09-13-2024,Trader Joes,255.45,debit,Grocery shopping,Credit Card
+09-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+09-13-2024,Credit Transaction,96.36,credit,Dividends,Savings
+09-13-2024,MBTA,16.61,debit,Travel expenses,Credit Card
+09-14-2024,Credit Transaction,181.51,credit,Dividends,Savings
+09-15-2024,Credit Transaction,5.66,credit,Cashback Rewards,Savings
+09-15-2024,AMC Boston,64.05,debit,Entertainment,Credit Card
+09-17-2024,Karaoke,47.29,debit,Entertainment,Credit Card
+09-17-2024,Market Basket,191.29,debit,Grocery shopping,Credit Card
+09-17-2024,Amazon,40.61,debit,Shopping,Credit Card
+09-18-2024,Mama-cita,47.78,debit,Restaurants,Credit Card
+09-19-2024,Dominos,31.12,debit,Restaurants,Credit Card
+09-20-2024,Ice skating,32.62,debit,Entertainment,Credit Card
+09-20-2024,MBTA,30.8,debit,Travel expenses,Credit Card
+09-24-2024,Credit Transaction,165.77,credit,Dividends,Savings
+09-25-2024,Credit Transaction,10.42,credit,Cashback Rewards,Savings
+09-25-2024,MBTA,29.25,debit,Travel expenses,Credit Card
+09-25-2024,Uber,17.89,debit,Travel expenses,Credit Card
+09-25-2024,Ace Hardware,261.89,debit,Grocery shopping,Credit Card
+09-26-2024,Boston Shawarma,67.88,debit,Restaurants,Credit Card
+09-27-2024,Dominos,30.9,debit,Restaurants,Credit Card
+09-27-2024,Credit Transaction,15.5,credit,Cashback Rewards,Savings
+09-27-2024,Credit Transaction,13.36,credit,Cashback Rewards,Savings
+09-27-2024,Mall,60.89,debit,Shopping,Credit Card
+09-28-2024,MBTA,12.72,debit,Travel expenses,Credit Card
+09-28-2024,Trader Joes,220.53,debit,Grocery shopping,Credit Card
+10-01-2024,Rent/ Mortgage,1950.0,debit,Mortgage & Rent,Savings
+10-01-2024,Eversource Electricity,56.15,debit,Utilities,Checking
+10-01-2024,National Grid Gas,52.48,debit,Utilities,Checking
+10-01-2024,Heating fuel,232.58,debit,Utilities,Checking
+10-01-2024,Credit Transaction,5.65,credit,Cashback Rewards,Savings
+10-02-2024,Mall,37.37,debit,Shopping,Credit Card
+10-04-2024,Ice skating,36.62,debit,Entertainment,Credit Card
+10-05-2024,Boston Halal,36.53,debit,Restaurants,Credit Card
+10-05-2024,StandUp show,54.0,debit,Entertainment,Credit Card
+10-05-2024,Boston Shawarma,45.85,debit,Restaurants,Credit Card
+10-06-2024,Temu,77.69,debit,Shopping,Credit Card
+10-06-2024,Credit Transaction,133.8,credit,Dividends,Savings
+10-06-2024,Ace Hardware,255.2,debit,Grocery shopping,Credit Card
+10-07-2024,Lyft,11.74,debit,Travel expenses,Credit Card
+10-07-2024,Credit Transaction,8.29,credit,Cashback Rewards,Savings
+10-07-2024,MBTA,31.69,debit,Travel expenses,Credit Card
+10-07-2024,Boston Halal,57.3,debit,Restaurants,Credit Card
+10-09-2024,Credit Transaction,13.26,credit,Cashback Rewards,Savings
+10-09-2024,Uber,25.04,debit,Travel expenses,Credit Card
+10-10-2024,Ice skating,62.88,debit,Entertainment,Credit Card
+10-11-2024,Amazon,74.8,debit,Shopping,Credit Card
+10-11-2024,Lyft,27.79,debit,Travel expenses,Credit Card
+10-11-2024,Temu,57.5,debit,Shopping,Credit Card
+10-13-2024,Monthly direct deposit - Salary,6885.0,credit,Salary,Savings
+10-14-2024,Uber,22.17,debit,Travel expenses,Credit Card
+10-14-2024,Mama-cita,42.43,debit,Restaurants,Credit Card
+10-15-2024,Credit Transaction,15.97,credit,Cashback Rewards,Savings
+10-16-2024,Mama-cita,74.16,debit,Restaurants,Credit Card
+10-16-2024,Market Basket,241.88,debit,Grocery shopping,Credit Card
+10-17-2024,Ice skating,47.28,debit,Entertainment,Credit Card
+10-18-2024,MBTA,12.78,debit,Travel expenses,Credit Card
+10-18-2024,Lyft,22.29,debit,Travel expenses,Credit Card
+10-19-2024,Credit Transaction,7.22,credit,Cashback Rewards,Savings
+10-20-2024,Mama-cita,77.08,debit,Restaurants,Credit Card
+10-21-2024,Lyft,24.98,debit,Travel expenses,Credit Card
+10-21-2024,Ice skating,26.14,debit,Entertainment,Credit Card
+10-21-2024,Boston Shawarma,60.63,debit,Restaurants,Credit Card
+10-21-2024,Karaoke,36.92,debit,Entertainment,Credit Card
+10-21-2024,Mall,24.89,debit,Shopping,Credit Card
+10-22-2024,Karaoke,52.7,debit,Entertainment,Credit Card
+10-24-2024,Market Basket,174.51,debit,Grocery shopping,Credit Card
+10-25-2024,Mama-cita,68.0,debit,Restaurants,Credit Card
+10-27-2024,Boston Shawarma,48.28,debit,Restaurants,Credit Card
+10-27-2024,Mama-cita,36.43,debit,Restaurants,Credit Card
+10-27-2024,Lyft,15.49,debit,Travel expenses,Credit Card
+10-27-2024,Boston Halal,83.31,debit,Restaurants,Credit Card
+10-28-2024,Dominos,60.17,debit,Restaurants,Credit Card
+10-28-2024,Ice skating,28.72,debit,Entertainment,Credit Card
+10-28-2024,Mama-cita,47.51,debit,Restaurants,Credit Card
+10-28-2024,Lyft,27.71,debit,Travel expenses,Credit Card
+10-30-2024,Stop and Shop,250.48,debit,Grocery shopping,Credit Card
+10-30-2024,Credit Transaction,62.73,credit,Dividends,Savings
+10-31-2024,Uber,28.57,debit,Travel expenses,Credit Card
+11-01-2024,Rent/ Mortgage,1950.0,debit,Mortgage & Rent,Savings
+11-01-2024,Eversource Electricity,64.51,debit,Utilities,Checking
+11-01-2024,National Grid Gas,69.11,debit,Utilities,Checking
+11-01-2024,Heating fuel,202.93,debit,Utilities,Checking
+11-01-2024,Dominos,47.55,debit,Restaurants,Credit Card
+11-02-2024,Credit Transaction,4.39,credit,Cashback Rewards,Savings
+11-02-2024,Karaoke,41.98,debit,Entertainment,Credit Card
+11-03-2024,Stop and Shop,162.73,debit,Grocery shopping,Credit Card
+11-04-2024,Amazon,55.35,debit,Shopping,Credit Card
+11-05-2024,Amazon,66.6,debit,Shopping,Credit Card
+11-05-2024,Dominos,43.23,debit,Restaurants,Credit Card
+11-05-2024,Boston Shawarma,63.27,debit,Restaurants,Credit Card
+11-05-2024,Karaoke,22.05,debit,Entertainment,Credit Card
+11-06-2024,Boston Halal,74.61,debit,Restaurants,Credit Card
+11-07-2024,StandUp show,47.94,debit,Entertainment,Credit Card
+11-08-2024,Credit Transaction,122.88,credit,Dividends,Savings
+11-08-2024,Dominos,30.47,debit,Restaurants,Credit Card
+11-08-2024,MBTA,16.37,debit,Travel expenses,Credit Card
+11-09-2024,Boston Shawarma,52.46,debit,Restaurants,Credit Card
+11-09-2024,Mama-cita,33.38,debit,Restaurants,Credit Card
+11-10-2024,Lyft,28.71,debit,Travel expenses,Credit Card
+11-11-2024,MBTA,12.46,debit,Travel expenses,Credit Card
+11-11-2024,Amazon,48.37,debit,Shopping,Credit Card
+11-11-2024,Trader Joes,163.34,debit,Grocery shopping,Credit Card
+11-11-2024,Dominos,53.81,debit,Restaurants,Credit Card
+11-12-2024,Uber,30.09,debit,Travel expenses,Credit Card
+11-12-2024,Boston Shawarma,52.58,debit,Restaurants,Credit Card
+11-13-2024,Uber,18.15,debit,Travel expenses,Credit Card
+11-13-2024,StandUp show,22.15,debit,Entertainment,Credit Card
+11-13-2024,Monthly direct deposit - Salary,7092.0,credit,Salary,Savings
+11-14-2024,Temu,63.86,debit,Shopping,Credit Card
+11-14-2024,MBTA,18.25,debit,Travel expenses,Credit Card
+11-15-2024,Mall,39.39,debit,Shopping,Credit Card
+11-16-2024,Ace Hardware,178.83,debit,Grocery shopping,Credit Card
+11-16-2024,Mama-cita,66.27,debit,Restaurants,Credit Card
+11-16-2024,Uber,30.77,debit,Travel expenses,Credit Card
+11-16-2024,Credit Transaction,10.73,credit,Cashback Rewards,Savings
+11-17-2024,Credit Transaction,17.74,credit,Cashback Rewards,Savings
+11-17-2024,Lyft,13.05,debit,Travel expenses,Credit Card
+11-18-2024,MBTA,17.9,debit,Travel expenses,Credit Card
+11-19-2024,Mama-cita,78.81,debit,Restaurants,Credit Card
+11-19-2024,Boston Halal,58.58,debit,Restaurants,Credit Card
+11-19-2024,Credit Transaction,11.52,credit,Cashback Rewards,Savings
+11-23-2024,Uber,12.38,debit,Travel expenses,Credit Card
+11-23-2024,MBTA,20.21,debit,Travel expenses,Credit Card
+11-23-2024,Lyft,15.41,debit,Travel expenses,Credit Card
+11-24-2024,Temu,27.36,debit,Shopping,Credit Card
+11-24-2024,Boston Shawarma,59.46,debit,Restaurants,Credit Card
+11-24-2024,Mama-cita,42.9,debit,Restaurants,Credit Card
+11-26-2024,Trader Joes,206.5,debit,Grocery shopping,Credit Card
+11-27-2024,Stop and Shop,233.92,debit,Grocery shopping,Credit Card
+11-27-2024,Lyft,12.91,debit,Travel expenses,Credit Card
+11-29-2024,Mama-cita,42.31,debit,Restaurants,Credit Card
+11-29-2024,Stop and Shop,191.23,debit,Grocery shopping,Credit Card
+11-30-2024,Dominos,51.8,debit,Restaurants,Credit Card
+12-01-2024,Rent/ Mortgage,1950.0,debit,Mortgage & Rent,Savings
+12-01-2024,Eversource Electricity,78.6,debit,Utilities,Checking
+12-01-2024,National Grid Gas,70.49,debit,Utilities,Checking
+12-01-2024,Heating fuel,171.26,debit,Utilities,Checking
+12-01-2024,Mall,25.23,debit,Shopping,Credit Card
+12-02-2024,Temu,78.16,debit,Shopping,Credit Card
+12-02-2024,Credit Transaction,12.18,credit,Cashback Rewards,Savings
+12-03-2024,Mama-cita,77.75,debit,Restaurants,Credit Card
+12-03-2024,Temu,79.19,debit,Shopping,Credit Card
+12-05-2024,Mall,54.59,debit,Shopping,Credit Card
+12-05-2024,StandUp show,62.73,debit,Entertainment,Credit Card
+12-05-2024,Credit Transaction,145.22,credit,Dividends,Savings
+12-06-2024,Uber,25.79,debit,Travel expenses,Credit Card
+12-06-2024,AMC Boston,41.52,debit,Entertainment,Credit Card
+12-06-2024,Market Basket,157.42,debit,Grocery shopping,Credit Card
+12-07-2024,Stop and Shop,230.55,debit,Grocery shopping,Credit Card
+12-07-2024,Lyft,28.84,debit,Travel expenses,Credit Card
+12-07-2024,Boston Halal,72.47,debit,Restaurants,Credit Card
+12-07-2024,Uber,27.79,debit,Travel expenses,Credit Card
+12-08-2024,Ice skating,57.66,debit,Entertainment,Credit Card
+12-08-2024,Temu,78.83,debit,Shopping,Credit Card
+12-09-2024,AMC Boston,54.31,debit,Entertainment,Credit Card
+12-11-2024,Boston Halal,30.29,debit,Restaurants,Credit Card
+12-11-2024,Lyft,15.47,debit,Travel expenses,Credit Card
+12-11-2024,Mall,34.38,debit,Shopping,Credit Card
+12-12-2024,Credit Transaction,15.64,credit,Cashback Rewards,Savings
+12-12-2024,AMC Boston,45.82,debit,Entertainment,Credit Card
+12-13-2024,Boston Halal,51.46,debit,Restaurants,Credit Card
+12-13-2024,Mall,57.59,debit,Shopping,Credit Card
+12-13-2024,Monthly direct deposit - Salary,7092.0,credit,Salary,Savings
+12-14-2024,Uber,24.06,debit,Travel expenses,Credit Card
+12-15-2024,Market Basket,168.37,debit,Grocery shopping,Credit Card
+12-15-2024,Uber,25.18,debit,Travel expenses,Credit Card
+12-16-2024,Temu,55.57,debit,Shopping,Credit Card
+12-17-2024,Amazon,30.38,debit,Shopping,Credit Card
+12-17-2024,MBTA,11.59,debit,Travel expenses,Credit Card
+12-18-2024,Credit Transaction,8.09,credit,Cashback Rewards,Savings
+12-18-2024,MBTA,14.55,debit,Travel expenses,Credit Card
+12-18-2024,Temu,61.37,debit,Shopping,Credit Card
+12-20-2024,StandUp show,54.43,debit,Entertainment,Credit Card
+12-20-2024,Karaoke,44.14,debit,Entertainment,Credit Card
+12-20-2024,Credit Transaction,4.31,credit,Cashback Rewards,Savings
+12-21-2024,Boston Halal,66.46,debit,Restaurants,Credit Card
+12-21-2024,StandUp show,70.86,debit,Entertainment,Credit Card
+12-22-2024,StandUp show,50.48,debit,Entertainment,Credit Card
+12-23-2024,Karaoke,40.33,debit,Entertainment,Credit Card
+12-24-2024,Amazon,65.46,debit,Shopping,Credit Card
+12-25-2024,Uber,13.1,debit,Travel expenses,Credit Card
+12-25-2024,Karaoke,28.48,debit,Entertainment,Credit Card
+12-26-2024,Lyft,21.76,debit,Travel expenses,Credit Card
+12-27-2024,Mall,61.54,debit,Shopping,Credit Card
+12-27-2024,Boston Halal,27.28,debit,Restaurants,Credit Card
+12-27-2024,Boston Shawarma,44.32,debit,Restaurants,Credit Card
+12-27-2024,Dominos,76.66,debit,Restaurants,Credit Card
+12-28-2024,StandUp show,63.78,debit,Entertainment,Credit Card
+12-28-2024,MBTA,12.12,debit,Travel expenses,Credit Card
+12-28-2024,Boston Shawarma,64.51,debit,Restaurants,Credit Card
+12-28-2024,Boston Halal,38.11,debit,Restaurants,Credit Card
+12-29-2024,Karaoke,21.18,debit,Entertainment,Credit Card
+12-31-2024,Credit Transaction,14.93,credit,Cashback Rewards,Savings
+12-31-2024,Boston Shawarma,44.74,debit,Restaurants,Credit Card
