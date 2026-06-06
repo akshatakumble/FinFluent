@@ -7,3 +7,5 @@ venv/
 .env.*
 !.env.example
 *.key
+*.csv.enc
+secret.key

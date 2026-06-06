@@ -15,10 +15,19 @@ sys.path.append(
 import pandas as pd
 import requests
 
+from utils.agent_response import AgentResponse
+from utils.encryption import SecureFileStore, open_csv_path
+
 try:
     import streamlit as st
 except ImportError:
     st = None
+
+
+def _get_secure_store(streamlit_mode: bool) -> SecureFileStore | None:
+    if streamlit_mode and st:
+        return st.session_state.get("secure_store")
+    return None
 
 from stock_sentiment_analysis.master_service.master_agent.agents.price import PriceAgent
 from stock_sentiment_analysis.master_service.master_agent.agents.alpha_vantage_agent import (
@@ -45,12 +54,17 @@ def run_portfolio_agent_loop(csv_path: str, streamlit_mode=False):
 
     # First message = build system prompt
     if not memory:
-        df = pd.read_csv(csv_path)
+        secure_store = _get_secure_store(streamlit_mode)
+        with open_csv_path(csv_path, secure_store) as plain_path:
+            df = pd.read_csv(plain_path)
         if df.empty or not all(
             col in df.columns for col in ["Ticker", "Holding", "Profit percentage"]
         ):
             error_msg = "❌ CSV format is invalid or empty."
-            return error_msg if streamlit_mode else print(error_msg)
+            if streamlit_mode:
+                return AgentResponse.from_text(error_msg)
+            print(error_msg)
+            return
 
         price_agent = PriceAgent()
         news_agent = AlphaVantageNewsAgent()
@@ -109,9 +123,8 @@ In the end, include:
 
         memory.append({"role": "assistant", "content": response})
         if streamlit_mode:
-            return response
-        else:
-            print(f"\n💬 {response}\n")
+            return AgentResponse.from_text(response)
+        print(f"\n💬 {response}\n")
 
     # CLI Follow-up loop (always run after first response)
     if not streamlit_mode:
@@ -134,7 +147,7 @@ In the end, include:
     # Streamlit follow-up (one turn)
     elif streamlit_mode:
         if user_input.lower() in ["exit", "quit", "back"]:
-            return None
+            return AgentResponse.from_text("↩️ Exited portfolio agent.")
 
         memory.append({"role": "user", "content": user_input})
         response = requests.post(
@@ -144,4 +157,4 @@ In the end, include:
         ).json()["message"]["content"]
 
         memory.append({"role": "assistant", "content": response})
-        return response
+        return AgentResponse.from_text(response)

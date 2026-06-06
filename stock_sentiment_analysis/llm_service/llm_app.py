@@ -7,8 +7,7 @@ Before running this service, install Ollama on your local machine and pull the m
 to use. visit https://ollama.com/
 """
 
-llm = Ollama(model="llama3.1")
-
+llm = Ollama(model="llama3")
 app = FastAPI()
 
 

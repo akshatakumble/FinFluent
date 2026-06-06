@@ -1,25 +1,42 @@
 # controller/central_controller.py
+import re
+
 from utils.llama3_ollama import ask_llama3
+
+VALID_ROUTES = frozenset({"budget", "anomaly", "stock", "portfolio"})
+
+
+def normalize_route(raw: str) -> str:
+    """Map noisy LLM router output to a single valid agent id."""
+    text = raw.strip().lower()
+    if text in VALID_ROUTES:
+        return text
+    if text == "unknown":
+        return "unknown"
+
+    for route in VALID_ROUTES:
+        if re.search(rf"\b{route}\b", text):
+            return route
+
+    return "unknown"
 
 
 def route_user_query(user_query: str) -> str:
     """
-    Use LLaMA 3 to decide which agent to run.
-    Returns: "budget", "anomaly", "stock", "portfolio" or "unknown"
+    Use LLaMA 3 to decide which agent should handle the query.
+    Returns: budget | anomaly | stock | portfolio | unknown
     """
     prompt = f"""
-You are a routing agent in a CLI-based financial assistant. Based on the user's question, decide which domain it belongs to:
-1. budget - for forecasting and expense-related questions
-2. anomaly - for spotting unusual or outlier transactions
-3. stock - for analyzing the current stock price and news sentiment of a company
-4. portfolio - for analyzing user's stock portfolio or user's stock holdings
+You are a routing agent in a financial assistant. Pick exactly ONE domain:
 
-Respond ONLY with one of these: budget, anomaly, stock, portfolio unknown
+- budget — forecasting, monthly spend, savings, category budgets
+- anomaly — unusual charges, red flags, suspicious or outlier transactions
+- stock — a specific ticker, stock price, news sentiment, buy/hold/sell for one company
+- portfolio — multiple holdings, diversification, portfolio review or rebalance
+
+Respond with ONLY one word: budget, anomaly, stock, portfolio, or unknown
 
 User query: "{user_query}"
-Your response:
-"""
-    category = ask_llama3(prompt).strip().lower()
-    if category not in ["budget", "anomaly", "stock", "portfolio"]:
-        category = "unknown"
+Route:"""
+    category = normalize_route(ask_llama3(prompt))
     return category

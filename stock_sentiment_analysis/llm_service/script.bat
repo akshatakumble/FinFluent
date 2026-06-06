@@ -1,1 +1,1 @@
-uvicorn ollama:app --reload --port 8001
+uvicorn llm_app:app --reload --port 8001

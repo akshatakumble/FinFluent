@@ -1,10 +1,10 @@
 import os
 import requests
+from pathlib import Path
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(Path(__file__).resolve().parents[2] / ".env")
 ALPHA_VANTAGE_API_KEY = os.getenv("ALPHA_VANTAGE_API_KEY")
-
 
 class AlphaVantageNewsAgent:
     def __init__(self):
@@ -14,9 +14,7 @@ class AlphaVantageNewsAgent:
         url = f"https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers={ticker}&apikey={self.api_key}"
         response = requests.get(url)
         if response.status_code != 200:
-            print("❌ Alpha Vantage API error:", response.text)
             return []
-
         data = response.json()
         return data.get("feed", [])
 

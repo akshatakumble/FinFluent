@@ -1,13 +1,17 @@
-from dotenv import load_dotenv
 import os
+from pathlib import Path
+
 import requests
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).resolve().parents[2] / ".env")
+LLM_SERVICE_URL = os.getenv("LLM_SERVICE_URL", "http://127.0.0.1:8001")
 
 
 class AnalysisPrompt:
     def __init__(self, current_price, sources, ticker) -> None:
         format_sources = ""
-        url_site = []
-        for i, source in enumerate(sources):
+        for source in sources:
             format_sources += (
                 f"Sentiment: {source.get('sentiment_label')} ({source.get('sentiment_score')})\n"
                 f"Content: {source['content']} \n\n"
@@ -46,15 +50,10 @@ class AnalysisPrompt:
             ticker=ticker,
             sources=format_sources,
             current_price=current_price,
-            url_site=url_site,
         )
 
     def __str__(self) -> str:
         return self.prompt
-
-
-load_dotenv()
-LLM_SERVICE_URL = os.getenv("LLM_SERVICE_URL")
 
 
 class AnalysisAgent:
@@ -66,29 +65,19 @@ class AnalysisAgent:
             ticker=ticker, current_price=current_price, sources=sources
         )
 
-        # 🖨️ DEBUG: Show input to LLM
-        print("\n🧠 Prompt being sent to LLM:\n")
-        print(
-            prompt.prompt[:1000] + "...\n"
-        )  # Print only first 1000 chars to avoid overload
-
         try:
             res = requests.post(
-                LLM_SERVICE_URL + "/generate", json={"content": prompt.prompt}
+                LLM_SERVICE_URL + "/generate",
+                json={"content": prompt.prompt},
+                timeout=300,
             )
             res.raise_for_status()
             analysis = res.json()
-
-            # 🖨️ DEBUG: Show response from LLM
-            print("\n📬 Response from LLM:\n")
-            print(analysis.get("content", "[No content returned]")[:1000] + "...\n")
-
             return analysis["content"]
 
         except requests.exceptions.RequestException as e:
-            print(f"\n❌ LLM request failed: {e}")
-            print("Response content:", res.text if res else "[No response]")
-            return "[Error: LLM generation failed]"
+            detail = res.text if "res" in locals() and res is not None else str(e)
+            return f"[Error: LLM generation failed: {detail}]"
 
     def run(self, data: dict):
         analysis = self.get_analysis(

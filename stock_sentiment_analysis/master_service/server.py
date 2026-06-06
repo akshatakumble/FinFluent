@@ -9,14 +9,16 @@ class WebHook(BaseModel):
 
 @app.get("/ticker")
 async def get_analysis(ticker: str = Query(..., title="ticker", description="Get a stock analysis")):
-    master_agent = MasterAgent(ticker)
-    data = master_agent.run()
-    res = {
+    try:
+        master_agent = MasterAgent(ticker)
+        data = master_agent.run()
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+
+    return {
         "ticker": data["ticker"],
         "price": data["price"],
         "error": True if data["price"] < 0 else False,
         "sources": data.get("sources", []),
-        "analysis": data.get("analysis", "")
-    } 
-    return res
-
+        "analysis": data.get("analysis", ""),
+    }

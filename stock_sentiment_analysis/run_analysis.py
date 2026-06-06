@@ -17,8 +17,18 @@ response = requests.get(url)
 # Handle response
 if response.ok:
     data = response.json()
-    print(f"\n📈 Stock Price: {data.get('price', 'N/A')}")
-    print(f"\n🧠 Analysis:\n{data.get('analysis', 'No analysis returned')}\n")
+    price = data.get("price", "N/A")
+    print(f"\nStock Price: {price}")
+    if isinstance(price, (int, float)) and price < 0:
+        print(
+            "Note: Live price unavailable. Add STOCK_API_KEY (Twelve Data) to "
+            "stock_sentiment_analysis/master_service/.env"
+        )
+    print(f"\nAnalysis:\n{data.get('analysis', 'No analysis returned')}\n")
 else:
-    print("\n❌ Error:", response.status_code)
-    print(response.text)
+    print("\nError:", response.status_code)
+    try:
+        detail = response.json().get("detail", response.text)
+    except ValueError:
+        detail = response.text
+    print(detail)

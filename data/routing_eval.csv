@@ -1,0 +1,17 @@
+query,expected
+What will I spend on utilities next month?,budget
+How much should I budget for groceries next month?,budget
+Forecast my restaurant spending,budget
+Am I overspending on entertainment?,budget
+Any unusual transactions?,anomaly
+any red flags?,anomaly
+Was this charge suspicious?,anomaly
+Show me outlier spending patterns,anomaly
+What's the outlook on AAPL?,stock
+Analyze TSLA stock sentiment,stock
+Should I buy NVDA?,stock
+How is Microsoft stock doing?,stock
+Review my portfolio,portfolio
+Analyze my stock holdings,portfolio
+Am I overexposed to tech in my portfolio?,portfolio
+Should I rebalance my investments?,portfolio
