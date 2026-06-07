@@ -3,7 +3,7 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 from pandas.tseries.offsets import MonthEnd
 
 from utils.encryption import SecureFileStore, open_csv_path
-from utils.llm_cot import cot_financial_response
+from utils.llm_cot import BUDGET_SYSTEM_PROMPT, cot_financial_response
 
 try:
     import streamlit as st
@@ -109,25 +109,29 @@ def _build_budget_evidence(
     total_forecast = sum(future_spending.values())
     if isinstance(user_salary, (int, float)):
         surplus = user_salary - total_forecast
-        summary = (
-            f"Monthly salary (latest credit): ${user_salary:.2f}\n"
-            f"Total predicted spending next month: ${total_forecast:.2f}\n"
-            f"Estimated monthly surplus: ${surplus:.2f}\n"
+        user_info = (
+            "## User Information:\n"
+            f"- Monthly Salary: ${user_salary:.2f}\n"
+            "- Predicted Spending for Next Month:\n"
+            f"{forecast_text}\n"
+            f"- Total predicted spending: ${total_forecast:.2f}\n"
+            f"- Estimated monthly surplus: ${surplus:.2f}\n"
         )
     else:
-        summary = f"Monthly salary: {user_salary}\n"
+        user_info = (
+            "## User Information:\n"
+            f"- Monthly Salary: {user_salary}\n"
+            "- Predicted Spending for Next Month:\n"
+            f"{forecast_text}\n"
+        )
 
     if merge_scale > 1:
-        summary += (
-            f"Note: Statement combines ~{merge_scale} accounts; "
+        user_info += (
+            f"- Note: Statement combines ~{merge_scale} accounts; "
             "spending is scaled to a single account before forecasting.\n"
         )
 
-    evidence = (
-        f"{summary}"
-        "Per-category SARIMA forecasts (next month):\n"
-        f"{forecast_text}"
-    )
+    evidence = user_info
     return evidence, user_salary
 
 
@@ -178,17 +182,12 @@ def run_budget_agent_loop(
             user_query=user_input,
             domain="budget forecasting",
             response_style="budget",
+            system_prompt=BUDGET_SYSTEM_PROMPT,
             answer_sentences=(3, 5),
             thinking_lines=(5, 8),
         )
         memory.extend([
-            {
-                "role": "system",
-                "content": (
-                    "You are a budget advisor. Use only the SARIMA forecasts "
-                    "from the prior analysis. Plain text only."
-                ),
-            },
+            {"role": "system", "content": BUDGET_SYSTEM_PROMPT},
             {"role": "assistant", "content": result.answer},
         ])
         if streamlit_mode:
@@ -201,6 +200,7 @@ def run_budget_agent_loop(
             user_query=user_input,
             domain="budget forecasting",
             response_style="budget",
+            system_prompt=BUDGET_SYSTEM_PROMPT,
             answer_sentences=(3, 5),
             thinking_lines=(5, 8),
         )
@@ -220,6 +220,7 @@ def run_budget_agent_loop(
                 user_query=user_input,
                 domain="budget forecasting",
                 response_style="budget",
+                system_prompt=BUDGET_SYSTEM_PROMPT,
             )
             memory.append({"role": "user", "content": user_input})
             memory.append({"role": "assistant", "content": follow_up.answer})

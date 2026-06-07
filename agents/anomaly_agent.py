@@ -4,7 +4,7 @@ import pandas as pd
 
 from utils.agent_response import AgentResponse
 from utils.encryption import SecureFileStore, open_csv_path
-from utils.llm_cot import cot_financial_response
+from utils.llm_cot import ANOMALY_SYSTEM_PROMPT, cot_financial_response
 
 try:
     import streamlit as st
@@ -80,10 +80,11 @@ def _build_anomaly_evidence(transactions_path: str, secure_store: SecureFileStor
             f"(statement category label: {category})"
         )
     return (
-        "Unusual debit transactions (Isolation Forest on amount; "
-        f"only material outliers above typical spending, threshold ~${threshold:,.0f}):\n"
-        "Note: category labels come from the bank statement and may not match the merchant.\n"
+        "## Detected Anomalies:\n"
         + "\n".join(lines)
+        + "\n\nNote: Detected by Isolation Forest on transaction amount. "
+        f"Material outlier threshold ~${threshold:,.0f}. "
+        "Category labels come from the bank statement and may not match the merchant."
     )
 
 
@@ -148,19 +149,15 @@ def run_anomaly_agent_loop(
         evidence=evidence,
         user_query=user_input,
         domain="spending anomaly detection",
+        response_style="anomaly",
+        system_prompt=ANOMALY_SYSTEM_PROMPT,
         answer_sentences=(4, 6),
         thinking_lines=(5, 8),
     )
 
     if not memory:
         memory.extend([
-            {
-                "role": "system",
-                "content": (
-                    "You are an anomaly detection advisor. Refer only to flagged "
-                    "transactions from the prior analysis. Plain text only."
-                ),
-            },
+            {"role": "system", "content": ANOMALY_SYSTEM_PROMPT},
             {"role": "assistant", "content": result.answer},
         ])
     else:
@@ -182,6 +179,8 @@ def run_anomaly_agent_loop(
                 evidence=evidence,
                 user_query=user_input,
                 domain="spending anomaly detection",
+                response_style="anomaly",
+                system_prompt=ANOMALY_SYSTEM_PROMPT,
                 answer_sentences=(4, 6),
                 thinking_lines=(5, 8),
             )

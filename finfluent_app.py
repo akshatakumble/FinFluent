@@ -185,6 +185,38 @@ for msg in st.session_state.messages:
 # 📤 Input + Agent routing
 # ==============================
 
+def _reset_agent_session(agent: str | None) -> None:
+    """Clear cached evidence and conversation for one agent."""
+    if not agent:
+        return
+    st.session_state.agent_conversations[agent] = []
+    if agent == "anomaly":
+        st.session_state.pop("anomaly_evidence", None)
+    if agent == "budget":
+        st.session_state.pop("budget_evidence", None)
+
+
+def _resolve_agent(user_input: str) -> tuple[str | None, bool]:
+    """
+    Route every message. Returns (agent_id, switched).
+    If router is unknown, stay on current agent (likely a vague follow-up).
+    """
+    predicted = route_user_query(user_input)
+    current = st.session_state.active_agent
+
+    if predicted == "unknown":
+        return current, False
+
+    switched = predicted != current
+    if switched and current:
+        _reset_agent_session(current)
+    if switched and predicted in ("budget", "anomaly"):
+        _reset_agent_session(predicted)
+
+    st.session_state.active_agent = predicted
+    return predicted, switched
+
+
 def get_active_agent_response(agent, message):
     st.session_state.current_input = message
 
@@ -218,7 +250,7 @@ if active:
     )
 
 # Chat input field
-user_input = st.chat_input("Ask about your finances... [type 'back' to exit agent]")
+user_input = st.chat_input("Ask about your finances — routing is automatic")
 
 if user_input:
     user_lower = user_input.lower().strip()
@@ -228,41 +260,39 @@ if user_input:
         st.markdown(safe_markdown(user_input))
 
     with st.chat_message("assistant"):
+        # Optional shortcuts to clear session without sending to an agent
         if user_lower in ["exit", "quit", "back"]:
-            agent = st.session_state.active_agent
-            st.session_state.agent_conversations[agent] = []
-            if agent == "anomaly":
-                st.session_state.pop("anomaly_evidence", None)
-                st.session_state.agent_conversations["anomaly"] = []
-            if agent == "budget":
-                st.session_state.pop("budget_evidence", None)
-                st.session_state.agent_conversations["budget"] = []
+            _reset_agent_session(st.session_state.active_agent)
             st.session_state.active_agent = None
             result = AgentResponse.from_text(
-                "👋 You've exited the current agent. Ask anything to begin again."
+                "Session cleared. Ask anything and we'll route you to the right specialist."
             )
         else:
-            agent = st.session_state.active_agent
-            if agent is None:
-                agent = route_user_query(user_input)
-                if agent == "anomaly":
-                    st.session_state.pop("anomaly_evidence", None)
-                    st.session_state.agent_conversations["anomaly"] = []
-                if agent == "budget":
-                    st.session_state.pop("budget_evidence", None)
-                    st.session_state.agent_conversations["budget"] = []
-                st.session_state.active_agent = agent
-                st.markdown(f"🔁 Routing to `{agent}` agent...")
+            prev_agent = st.session_state.active_agent
+            with st.spinner("Routing..."):
+                agent, switched = _resolve_agent(user_input)
 
-            try:
-                with st.spinner("Thinking..."):
-                    result = normalize_response(
-                        get_active_agent_response(agent, user_input)
-                    )
-            except Exception as e:
+            if agent is None:
                 result = AgentResponse.from_text(
-                    f"❌ An error occurred while processing your request.\n\n{e}"
+                    "I couldn't tell whether that's about budgeting, anomalies, a stock, "
+                    "or your portfolio. Try rephrasing with a bit more context."
                 )
+            else:
+                if switched and prev_agent:
+                    st.markdown(
+                        f"🔁 Switched from **`{prev_agent}`** → **`{agent}`** agent..."
+                    )
+                elif switched or len(st.session_state.agent_conversations.get(agent, [])) == 0:
+                    st.markdown(f"🔁 Routing to **`{agent}`** agent...")
+                try:
+                    with st.spinner("Thinking..."):
+                        result = normalize_response(
+                            get_active_agent_response(agent, user_input)
+                        )
+                except Exception as e:
+                    result = AgentResponse.from_text(
+                        f"❌ An error occurred while processing your request.\n\n{e}"
+                    )
 
         if result.thinking:
             render_thinking(result.thinking)
